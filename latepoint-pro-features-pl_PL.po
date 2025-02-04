@@ -1,0 +1,2785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LatePoint Addon - Pro Features\n"
+"POT-Creation-Date: 2024-08-06 10:53-0700\n"
+"PO-Revision-Date: 2025-02-04 19:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: latepoint-pro-features.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pl-PL\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1"
+
+#: lib/views/service_extras/index.php:12
+#, fuzzy
+msgid " of "
+msgstr " z "
+
+#: lib/views/agents/index.php:79
+#, php-format
+msgid "%d Disabled Agent"
+msgid_plural "%d Disabled Agents"
+msgstr[0] "%d wyłączony pracownik"
+msgstr[1] "%d wyłączonych pracowników"
+msgstr[2] ""
+
+#: lib/views/locations/index.php:59
+#, fuzzy, php-format
+msgid "%d Disabled Location"
+msgid_plural "%d Disabled Locations"
+msgstr[0] "%d wyłączona lokalizacja"
+msgstr[1] "%d wyłączonych lokalizacji"
+msgstr[2] ""
+
+#: lib/views/bundles/_form.php:85
+#, fuzzy, php-format
+msgid "%d minutes"
+msgstr "%d minut"
+
+#: lib/views/roles/_form.php:11
+#, fuzzy, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d użytkownik"
+msgstr[1] "%d użytkowników"
+msgstr[2] ""
+
+#: lib/helpers/custom_fields_helper.php:274
+#, fuzzy, php-format
+msgid "%s can not be blank"
+msgstr "%s nie może być puste"
+
+#: lib/helpers/custom_fields_helper.php:246
+#, fuzzy, php-format
+msgid "%s field has to be checked"
+msgstr "Pole %s musi być zaznaczone"
+
+#: lib/helpers/custom_fields_helper.php:265
+#, fuzzy, php-format
+msgid "%s file type is not supported."
+msgstr "Typ pliku %s nie jest obsługiwany."
+
+#: lib/helpers/custom_fields_helper.php:255
+#, fuzzy, php-format
+msgid "%s has to be attached"
+msgstr "%s musi być dołączone"
+
+#: lib/helpers/feature_group_bookings_helper.php:177
+#, fuzzy, php-format
+msgid "%s person"
+msgid_plural "%s people"
+msgstr[0] "%s osoba"
+msgstr[1] "%s osób"
+msgstr[2] ""
+
+#: lib/helpers/feature_reminders_helper.php:9
+#, fuzzy
+msgid "Actions will be executed:"
+msgstr "Działania zostaną wykonane:"
+
+#: lib/views/agents/_form.php:39 lib/views/bundles/_form.php:30
+#: lib/views/locations/_form.php:17 lib/views/service_extras/_form.php:31
+#: lib/views/webhooks/_webhook_form.php:40
+#, fuzzy
+msgid "Active"
+msgstr "Aktywny"
+
+#: lib/views/agents/_form.php:216 lib/views/agents/index.php:65
+msgid "Add Agent"
+msgstr "Dodaj pracownika"
+
+#: lib/views/bundles/index.php:50
+#, fuzzy
+msgid "Add Bundle"
+msgstr "Dodaj pakiet"
+
+#: lib/views/locations/_form.php:18
+#, fuzzy
+msgid "Add Category"
+msgstr "Dodaj kategorię"
+
+#: lib/views/coupons/index.php:12
+#, fuzzy
+msgid "Add Coupon"
+msgstr "Dodaj kupon"
+
+#: lib/views/custom_fields/for_booking.php:10
+#: lib/views/custom_fields/for_customer.php:14
+#, fuzzy
+msgid "Add Custom Field"
+msgstr "Dodaj pole niestandardowe"
+
+#: lib/views/service_extras/index.php:43
+#, fuzzy
+msgid "Add Extra"
+msgstr "Dodaj dodatek"
+
+#: lib/views/agents/index.php:74 lib/views/locations/_form.php:104
+msgid "Add First Agent"
+msgstr "Dodaj pierwszego pracownika"
+
+#: lib/views/agents/_form.php:157 lib/views/bundles/_form.php:126
+#, fuzzy
+msgid "Add First Service"
+msgstr "Dodaj pierwszą usługę"
+
+#: lib/views/locations/index.php:13 lib/views/locations/index.php:36
+#: lib/views/locations/index.php:50
+#, fuzzy
+msgid "Add Location"
+msgstr "Dodaj lokalizację"
+
+#: lib/views/location_categories/new_form.php:3
+#, fuzzy
+msgid "Add Location Category"
+msgstr "Dodaj kategorię lokalizacji"
+
+#: lib/views/service_categories/new_form.php:3
+#, fuzzy
+msgid "Add Service Category"
+msgstr "Dodaj kategorię usług"
+
+#: lib/views/service_extras/_form.php:90 lib/views/service_extras/index.php:53
+#, fuzzy
+msgid "Add Service Extra"
+msgstr "Dodaj dodatek do usługi"
+
+#: lib/views/taxes/index.php:15
+#, fuzzy
+msgid "Add Tax"
+msgstr "Dodaj podatek"
+
+#: lib/views/webhooks/index.php:12
+#, fuzzy
+msgid "Add Webhook"
+msgstr "Dodaj webhook"
+
+#: lib/views/agents/_form.php:47
+#, fuzzy
+msgid "Additional Contact Information"
+msgstr "Dodatkowe informacje kontaktowe"
+
+#: lib/helpers/feature_service_durations_helper.php:109
+#, fuzzy
+msgid "Additional Durations:"
+msgstr "Dodatkowe czasy trwania:"
+
+#: lib/views/agents/_form.php:53
+#, fuzzy
+msgid "Additional Email Addresses"
+msgstr "Dodatkowe adresy e-mail"
+
+#: lib/views/agents/_form.php:54
+#, fuzzy
+msgid "Additional Phone Numbers"
+msgstr "Dodatkowe numery telefonów"
+
+#: lib/views/custom_fields/_custom_field_form.php:103
+msgid "Admin and Agents Only"
+msgstr "Tylko dla administratorów i pracowników"
+
+#: lib/helpers/feature_reminders_helper.php:12
+#, fuzzy
+msgid "after the event"
+msgstr "po wydarzeniu"
+
+#: lib/helpers/custom_fields_helper.php:316
+#: lib/views/messages/messages_with_info_for_booking.php:71
+msgid "Agent"
+msgstr "Pracownik"
+
+#: lib/controllers/agents_controller.php:124
+msgid "Agent Created. ID:"
+msgstr "Pracownik utworzony. ID:"
+
+#: lib/views/agents/_form.php:69
+msgid "Agent Highlights"
+msgstr "Najważniejsze informacje o pracowniku"
+
+#: lib/views/agents/_form.php:21
+msgid "Agent ID:"
+msgstr "ID pracownika:"
+
+#: lib/views/coupons/_form.php:43
+msgid "Agent IDs"
+msgstr "ID pracowników"
+
+#: lib/controllers/agents_controller.php:155
+msgid "Agent Removed"
+msgstr "Pracownik usunięty"
+
+#: lib/views/agents/_form.php:169
+msgid "Agent Schedule"
+msgstr "Harmonogram pracownika"
+
+#: lib/views/agents/_form.php:196
+msgid ""
+"Agent shares custom daily schedules that you set in general settings for "
+"your company, however you can add additional days with custom hours which "
+"will be specific to this agent only."
+msgstr ""
+"Pracownik korzysta z niestandardowych harmonogramów dziennych, które "
+"ustawiłeś w ustawieniach ogólnych dla swojej firmy, ale możesz dodać "
+"dodatkowe dni z niestandardowymi godzinami, które będą dotyczyć tylko tego "
+"pracownika."
+
+#: lib/views/agents/_form.php:67
+msgid "Agent Title"
+msgstr "Tytuł pracownika"
+
+#: lib/controllers/agents_controller.php:127
+msgid "Agent Updated. ID:"
+msgstr "Pracownik zaktualizowany. ID:"
+
+#: lib/views/agents/_form.php:205
+msgid ""
+"Agent uses the same holidays you set in general settings for your company, "
+"however you can add additional holidays for this agent here."
+msgstr ""
+"Pracownik używa tych samych dni świątecznych, które ustawiłeś w ustawieniach "
+"ogólnych swojej firmy, ale możesz dodać tutaj dodatkowe dni świąteczne dla "
+"tego pracownika."
+
+#: lib/controllers/agents_controller.php:23
+msgid "Agents"
+msgstr "Pracownicy"
+
+#: lib/views/locations/_location_index_item.php:18
+msgid "Agents:"
+msgstr "Pracownicy:"
+
+#: lib/views/agents/_form.php:107 lib/views/agents/_form.php:109
+#: lib/views/agents/_form.php:114 lib/views/locations/_form.php:53
+#: lib/views/locations/_form.php:55 lib/views/locations/_form.php:61
+#, fuzzy
+msgid "All"
+msgstr "Wszystko"
+
+#: lib/views/roles/edit_wp_user.php:45
+#, fuzzy
+msgid "All Connected"
+msgstr "Wszystko połączone"
+
+#: lib/views/service_extras/index.php:12
+#, fuzzy
+msgid "All Selected"
+msgstr "Wszystkie wybrane"
+
+#: lib/views/roles/_form.php:69 lib/views/roles/edit_wp_user.php:34
+#, fuzzy
+msgid "Allowed Records"
+msgstr "Dozwolone rekordy"
+
+#: lib/helpers/custom_fields_helper.php:336
+#, fuzzy
+msgid "AND"
+msgstr "ORAZ"
+
+#: lib/helpers/feature_coupons_helper.php:106
+#, fuzzy
+msgid "Applied Coupon:"
+msgstr "Zastosowany kupon:"
+
+#: lib/helpers/feature_coupons_helper.php:102
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: lib/helpers/feature_coupons_helper.php:144
+msgid "apply"
+msgstr "zastosuj"
+
+#: lib/views/messages/messages_with_info_for_booking.php:54
+msgid "Appointment Info"
+msgstr "Informacje o rezerwacji"
+
+#: lib/views/custom_fields/_custom_field_form.php:127
+#: lib/views/custom_fields/_custom_field_form.php:134
+#, fuzzy
+msgid "Are you sure you want to delete this field?"
+msgstr "Czy na pewno chcesz usunąć to pole?"
+
+#: lib/views/roles/_form.php:118 lib/views/roles/_form.php:132
+#, fuzzy
+msgid "Are you sure you want to delete this role?"
+msgstr "Czy na pewno chcesz usunąć tę rolę?"
+
+#: lib/views/taxes/_tax_form.php:45 lib/views/taxes/_tax_form.php:55
+#, fuzzy
+msgid "Are you sure you want to delete this tax?"
+msgstr "Czy na pewno chcesz usunąć ten podatek?"
+
+#: lib/views/webhooks/_webhook_form.php:49
+#, fuzzy
+msgid "Are you sure you want to delete this webhook?"
+msgstr "Czy na pewno chcesz usunąć ten webhook?"
+
+#: lib/views/agents/_form.php:224
+msgid "Are you sure you want to remove this agent?"
+msgstr "Czy na pewno chcesz usunąć tego pracownika?"
+
+#: lib/views/bundles/_form.php:146
+#, fuzzy
+msgid ""
+"Are you sure you want to remove this bundle? It will remove all appointments "
+"associated with it. You can also change status to disabled if you want to "
+"temporary disable it instead."
+msgstr ""
+"Czy na pewno chcesz usunąć ten pakiet? Spowoduje to usunięcie wszystkich "
+"powiązanych rezerwacji. Możesz również zmienić status na wyłączony, jeśli "
+"chcesz go tymczasowo wyłączyć."
+
+#: lib/views/location_categories/_form.php:25
+#: lib/views/service_categories/_form.php:25
+#, fuzzy
+msgid "Are you sure you want to remove this category?"
+msgstr "Czy na pewno chcesz usunąć tę kategorię?"
+
+#: lib/views/coupons/_form.php:61
+#, fuzzy
+msgid "Are you sure you want to remove this coupon?"
+msgstr "Czy na pewno chcesz usunąć ten kupon?"
+
+#: latepoint-pro-features.php:699 latepoint-pro-features.php:711
+#, fuzzy
+msgid "Are you sure you want to remove this file?"
+msgstr "Czy na pewno chcesz usunąć ten plik?"
+
+#: lib/views/locations/_form.php:171
+#, fuzzy
+msgid ""
+"Are you sure you want to remove this location? It will remove all "
+"appointments associated with it. If you only want to temprorary disable it - "
+"it is better to just change status to disabled."
+msgstr ""
+"Czy na pewno chcesz usunąć tę lokalizację? Spowoduje to usunięcie wszystkich "
+"powiązanych rezerwacji. Jeśli chcesz ją tylko tymczasowo wyłączyć, lepiej "
+"zmienić status na wyłączony."
+
+#: lib/views/service_extras/_form.php:95
+#, fuzzy
+msgid ""
+"Are you sure you want to remove this service extra? You can also change "
+"status to disabled if you want to temprorary disable it instead."
+msgstr ""
+"Czy na pewno chcesz usunąć ten dodatek do usługi? Możesz również zmienić "
+"status na wyłączony, jeśli chcesz go tymczasowo wyłączyć."
+
+#: lib/helpers/feature_service_extras_helper.php:457
+#, fuzzy
+msgid "At least"
+msgstr "Co najmniej"
+
+#: lib/helpers/feature_service_extras_helper.php:467
+#, fuzzy
+msgid "At most"
+msgstr "Maksymalnie"
+
+#: lib/views/messages/messages_with_info_for_booking.php:48
+#: lib/views/messages/quick_form_chat_box.php:14
+#, fuzzy
+msgid "Attach File"
+msgstr "Dołącz plik"
+
+#: lib/views/bundles/_form.php:105
+#, fuzzy
+msgid "Attendees"
+msgstr "Uczestnicy"
+
+#: lib/views/locations/_form.php:7 lib/views/service_extras/_form.php:12
+#, fuzzy
+msgid "Basic Information"
+msgstr "Podstawowe informacje"
+
+#: lib/helpers/feature_reminders_helper.php:12
+#, fuzzy
+msgid "before the event"
+msgstr "przed wydarzeniem"
+
+#: lib/views/agents/_form.php:68
+#, fuzzy
+msgid "Bio Text"
+msgstr "Tekst biografii"
+
+#: lib/helpers/feature_group_bookings_helper.php:254
+#, fuzzy
+msgid "Block timeslot if minimum capacity is reached"
+msgstr "Zablokuj przedział czasowy, jeśli osiągnięto minimalną pojemność"
+
+#: latepoint-pro-features.php:520
+#, fuzzy
+msgid "Booking Fields"
+msgstr "Pola rezerwacji"
+
+#: lib/views/messages/messages_with_info_for_booking.php:61
+#, fuzzy
+msgid "Booking ID"
+msgstr "ID rezerwacji"
+
+#: lib/helpers/feature_custom_fields_helper.php:101
+#, fuzzy
+msgid "Booking/"
+msgstr "Rezerwacja/"
+
+#: lib/controllers/bundles_controller.php:112
+#, fuzzy
+msgid "Bundle Created. ID:"
+msgstr "Pakiet utworzony. ID:"
+
+#: lib/views/bundles/_form.php:17
+#, fuzzy
+msgid "Bundle ID:"
+msgstr "ID pakietu:"
+
+#: lib/views/bundles/_form.php:24
+#, fuzzy
+msgid "Bundle Name"
+msgstr "Nazwa pakietu"
+
+#: lib/views/bundles/_form.php:113
+#, fuzzy
+msgid "Bundle Quantity:"
+msgstr "Ilość pakietów:"
+
+#: lib/controllers/bundles_controller.php:141
+#, fuzzy
+msgid "Bundle Removed"
+msgstr "Pakiet usunięty"
+
+#: lib/controllers/bundles_controller.php:115
+#, fuzzy
+msgid "Bundle Updated. ID:"
+msgstr "Pakiet zaktualizowany. ID:"
+
+#: lib/controllers/bundles_controller.php:23
+#, fuzzy
+msgid "Bundles"
+msgstr "Pakiety"
+
+#: lib/helpers/feature_coupons_helper.php:103
+#: lib/views/agents/modal_list.php:14
+#: lib/views/location_categories/_form.php:22
+#: lib/views/service_categories/_form.php:22
+#, fuzzy
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: lib/helpers/feature_group_bookings_helper.php:226
+#, fuzzy
+msgid "Capacity"
+msgstr "Pojemność"
+
+#: lib/helpers/feature_group_bookings_helper.php:131
+#, fuzzy
+msgid "Capacity:"
+msgstr "Pojemność:"
+
+#: latepoint-pro-features.php:568
+#, fuzzy
+msgid "Cart Restrictions"
+msgstr "Ograniczenia koszyka"
+
+#: latepoint-pro-features.php:543
+#, fuzzy
+msgid "Categories"
+msgstr "Kategorie"
+
+#: lib/views/locations/_form.php:18
+#, fuzzy
+msgid "Category"
+msgstr "Kategoria"
+
+#: lib/views/location_categories/_form.php:13
+#: lib/views/service_categories/_form.php:13
+#, fuzzy
+msgid "Category Image"
+msgstr "Obraz kategorii"
+
+#: lib/views/location_categories/_form.php:6
+#: lib/views/location_categories/new_form.php:8
+#: lib/views/service_categories/_form.php:6
+#: lib/views/service_categories/new_form.php:8
+#, fuzzy
+msgid "Category Name"
+msgstr "Nazwa kategorii"
+
+#: lib/views/bundles/_form.php:48
+#: lib/views/service_durations/duration_fields.php:15
+#: lib/views/service_extras/_form.php:25
+#, fuzzy
+msgid "Charge Amount"
+msgstr "Kwota opłaty"
+
+#: lib/helpers/feature_messages_helper.php:52
+#, fuzzy
+msgid "Chat Notifications"
+msgstr "Powiadomienia czatu"
+
+#: lib/views/messages/messages_with_info_for_booking.php:8
+#, fuzzy
+msgid "Chat with"
+msgstr "Czat z"
+
+#: lib/helpers/custom_fields_helper.php:40
+#, fuzzy
+msgid "Checkbox"
+msgstr "Pole wyboru"
+
+#: lib/views/custom_fields/_custom_field_form.php:51
+#, fuzzy
+msgid "Choices for Select. Enter each choice on a new line."
+msgstr "Opcje do wyboru. Wpisz każdą opcję w nowej linii."
+
+#: lib/helpers/service_extras_helper.php:72
+#, fuzzy
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: lib/helpers/feature_custom_fields_helper.php:119
+#, fuzzy
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: lib/helpers/service_extras_helper.php:78
+#, fuzzy
+msgid "Click here to select..."
+msgstr "Kliknij tutaj, aby wybrać..."
+
+#: lib/views/custom_fields/_custom_field_form.php:67
+#, fuzzy
+msgid "Conditional"
+msgstr "Warunkowe"
+
+#: lib/views/roles/_form.php:53
+msgid "Connect to an agent"
+msgstr "Połącz z pracownikiem"
+
+#: lib/views/agents/_form.php:38
+#, fuzzy
+msgid "Connect to WP User"
+msgstr "Połącz z użytkownikiem WP"
+
+#: lib/views/service_extras/_form.php:56
+#, fuzzy
+msgid "Connected Services"
+msgstr "Połączone usługi"
+
+#: lib/views/roles/edit_wp_user.php:29
+msgid "Connected to agent"
+msgstr "Połączony z pracownikiem"
+
+#: lib/views/agents/index.php:19 lib/views/agents/index.php:89
+#, fuzzy
+msgid "Connected to WordPress User"
+msgstr "Połączono z użytkownikiem WordPress"
+
+#: lib/views/roles/_form.php:53
+#, fuzzy
+msgid "Connected to:"
+msgstr "Połączony z:"
+
+#: lib/models/message_model.php:18
+#, fuzzy
+msgid "Content"
+msgstr "Treść"
+
+#: lib/helpers/feature_messages_helper.php:97
+#, fuzzy
+msgid "Conversation"
+msgstr "Rozmowa"
+
+#: lib/helpers/feature_custom_fields_helper.php:122
+#, fuzzy
+msgid "Country Restriction"
+msgstr "Ograniczenie kraju"
+
+#: lib/helpers/feature_coupons_helper.php:159
+#: lib/helpers/feature_coupons_helper.php:180
+#, fuzzy
+msgid "Coupon"
+msgstr "Kupon"
+
+#: lib/helpers/feature_coupons_helper.php:141
+#: lib/helpers/feature_coupons_helper.php:200
+#: lib/helpers/feature_coupons_helper.php:208 lib/models/coupon_model.php:18
+#: lib/views/coupons/_form.php:13
+#, fuzzy
+msgid "Coupon Code"
+msgstr "Kod kuponu"
+
+#: lib/controllers/coupons_controller.php:59
+#, fuzzy
+msgid "Coupon Code was applied to your cart"
+msgstr "Kod kuponu został zastosowany w koszyku"
+
+#: lib/controllers/coupons_controller.php:47
+#, fuzzy
+msgid "Coupon Code was removed from your cart"
+msgstr "Kod kuponu został usunięty z koszyka"
+
+#: lib/controllers/coupons_controller.php:115
+#, fuzzy
+msgid "Coupon Created. ID:"
+msgstr "Kupon utworzony. ID:"
+
+#: lib/helpers/feature_coupons_helper.php:201
+#: lib/helpers/feature_coupons_helper.php:209
+#, fuzzy
+msgid "Coupon Discount"
+msgstr "Zniżka kuponowa"
+
+#: lib/views/coupons/_form.php:52
+#, fuzzy
+msgid "Coupon is Active"
+msgstr "Kupon jest aktywny"
+
+#: lib/views/coupons/_form.php:52
+#, fuzzy
+msgid "Coupon is Disabled"
+msgstr "Kupon jest wyłączony"
+
+#: lib/controllers/coupons_controller.php:73
+#, fuzzy
+msgid "Coupon Removed"
+msgstr "Kupon usunięty"
+
+#: lib/controllers/coupons_controller.php:121
+#, fuzzy
+msgid "Coupon Updated. ID:"
+msgstr "Kupon zaktualizowany. ID:"
+
+#: lib/views/coupons/_form.php:26
+#, fuzzy
+msgid "Coupon Use Restrictions:"
+msgstr "Ograniczenia użycia kuponu:"
+
+#: lib/controllers/coupons_controller.php:22
+#: lib/helpers/feature_coupons_helper.php:43
+#, fuzzy
+msgid "Coupons"
+msgstr "Kupony"
+
+#: lib/views/bundles/index.php:61
+#, fuzzy
+msgid "Create a Bundle"
+msgstr "Utwórz pakiet"
+
+#: lib/helpers/feature_service_durations_helper.php:118
+#, fuzzy
+msgid "Create Another Service Duration"
+msgstr "Utwórz kolejny czas trwania usługi"
+
+#: lib/views/roles/index.php:37
+#, fuzzy
+msgid "Create Custom Role"
+msgstr "Utwórz niestandardową rolę"
+
+#: lib/controllers/agents_controller.php:48
+#: lib/controllers/agents_controller.php:49
+msgid "Create New Agent"
+msgstr "Utwórz nowego pracownika"
+
+#: lib/controllers/bundles_controller.php:54
+#: lib/controllers/bundles_controller.php:55
+#, fuzzy
+msgid "Create New Bundle"
+msgstr "Utwórz nowy pakiet"
+
+#: lib/views/location_categories/index.php:18
+#: lib/views/service_categories/index.php:18
+#, fuzzy
+msgid "Create New Category"
+msgstr "Utwórz nową kategorię"
+
+#: lib/controllers/location_categories_controller.php:39
+#: lib/controllers/location_categories_controller.php:40
+#: lib/controllers/locations_controller.php:61
+#: lib/controllers/locations_controller.php:62
+#, fuzzy
+msgid "Create New Location"
+msgstr "Utwórz nową lokalizację"
+
+#: lib/views/location_categories/index.php:22
+#, fuzzy
+msgid "Create New Location Category"
+msgstr "Utwórz nową kategorię lokalizacji"
+
+#: lib/controllers/service_categories_controller.php:43
+#: lib/controllers/service_categories_controller.php:44
+#, fuzzy
+msgid "Create New Service"
+msgstr "Utwórz nową usługę"
+
+#: lib/views/service_categories/index.php:22
+#, fuzzy
+msgid "Create New Service Category"
+msgstr "Utwórz nową kategorię usług"
+
+#: lib/controllers/service_extras_controller.php:66
+#: lib/controllers/service_extras_controller.php:67
+#, fuzzy
+msgid "Create New Service Extra"
+msgstr "Utwórz nowy dodatek do usługi"
+
+#: lib/views/roles/edit_wp_user.php:56
+#, fuzzy
+msgid "Custom"
+msgstr "Niestandardowe"
+
+#: lib/controllers/custom_fields_controller.php:122
+#, fuzzy
+msgid "Custom Field Removed"
+msgstr "Pole niestandardowe usunięte"
+
+#: lib/controllers/custom_fields_controller.php:182
+#, fuzzy
+msgid "Custom Field Saved"
+msgstr "Pole niestandardowe zapisane"
+
+#: lib/controllers/custom_fields_controller.php:26
+#: lib/controllers/custom_fields_controller.php:231
+#: lib/helpers/feature_custom_fields_helper.php:299
+#: lib/helpers/feature_custom_fields_helper.php:458
+#: lib/views/custom_fields/for_customer.php:3
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Pola niestandardowe"
+
+#: lib/helpers/feature_custom_fields_helper.php:548
+#, fuzzy
+msgid "Custom Fields for Booking"
+msgstr "Pola niestandardowe dla rezerwacji"
+
+#: lib/controllers/roles_controller.php:110
+#, fuzzy
+msgid "Custom Role saved"
+msgstr "Rola niestandardowa zapisana"
+
+#: lib/views/roles/index.php:19
+#, fuzzy
+msgid "Custom Roles"
+msgstr "Niestandardowe role"
+
+#: lib/views/roles/edit_wp_user.php:45
+#, fuzzy
+msgid "Custom Selection"
+msgstr "Niestandardowy wybór"
+
+#: lib/views/roles/_form.php:49
+#, fuzzy
+msgid "Custom Settings"
+msgstr "Ustawienia niestandardowe"
+
+#: lib/views/messages/messages_with_info_for_booking.php:69
+#, fuzzy
+msgid "Customer"
+msgstr "Klient"
+
+#: latepoint-pro-features.php:515
+#, fuzzy
+msgid "Customer Fields"
+msgstr "Pola klienta"
+
+#: lib/views/coupons/_form.php:49
+#, fuzzy
+msgid "Customer IDs"
+msgstr "ID klientów"
+
+#: lib/helpers/coupons_helper.php:130 lib/helpers/coupons_helper.php:150
+#: lib/helpers/coupons_helper.php:167
+#, fuzzy
+msgid "Customer is missing"
+msgstr "Brakuje klienta"
+
+#: lib/helpers/feature_timezone_helper.php:254
+#, fuzzy
+msgid "Customer Timezone"
+msgstr "Strefa czasowa klienta"
+
+#: lib/helpers/feature_custom_fields_helper.php:98
+#: lib/helpers/feature_custom_fields_helper.php:106
+#, fuzzy
+msgid "Customer/"
+msgstr "Klient/"
+
+#: lib/views/agents/_form.php:118 lib/views/locations/_form.php:65
+#, fuzzy
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: lib/views/messages/messages_with_info_for_booking.php:65
+#, fuzzy
+msgid "Date/Time"
+msgstr "Data/Godzina"
+
+#: lib/helpers/feature_reminders_helper.php:11
+#, fuzzy
+msgid "days"
+msgstr "dni"
+
+#: lib/views/agents/_form.php:193 lib/views/locations/_form.php:140
+#, fuzzy
+msgid "Days With Custom Schedules"
+msgstr "Dni z niestandardowymi harmonogramami"
+
+#: lib/views/custom_fields/for_customer.php:1
+#, fuzzy
+msgid "Default Fields"
+msgstr "Domyślne pola"
+
+#: lib/views/roles/index.php:9
+#, fuzzy
+msgid "Default Roles"
+msgstr "Domyślne role"
+
+#: lib/views/custom_fields/_custom_field_form.php:57
+#, fuzzy
+msgid "Default Value"
+msgstr "Domyślna wartość"
+
+#: lib/views/custom_fields/_custom_field_form.php:127
+#: lib/views/roles/_form.php:122 lib/views/taxes/_tax_form.php:49
+#, fuzzy
+msgid "Delete"
+msgstr "Usuń"
+
+#: lib/views/agents/_form.php:228
+msgid "Delete Agent"
+msgstr "Usuń pracownik"
+
+#: lib/views/bundles/_form.php:150
+#, fuzzy
+msgid "Delete Bundle"
+msgstr "Usuń pakiet"
+
+#: lib/views/location_categories/_form.php:28
+#: lib/views/service_categories/_form.php:28
+#, fuzzy
+msgid "Delete Category"
+msgstr "Usuń kategorię"
+
+#: lib/views/locations/_form.php:175
+#, fuzzy
+msgid "Delete Location"
+msgstr "Usuń lokalizację"
+
+#: lib/views/service_extras/_form.php:99
+#, fuzzy
+msgid "Delete Service Extra"
+msgstr "Usuń dodatek do usługi"
+
+#: lib/views/bundles/_form.php:51
+#: lib/views/service_durations/duration_fields.php:18
+#, fuzzy
+msgid "Deposit Amount"
+msgstr "Kwota zaliczki"
+
+#: lib/helpers/coupons_helper.php:27
+#, fuzzy
+msgid "Deposit Amount: "
+msgstr "Kwota zaliczki: "
+
+#: latepoint-pro-features.php:571
+#, fuzzy
+msgid "Disable Shopping Cart Functionality"
+msgstr "Wyłącz funkcjonalność koszyka"
+
+#: lib/views/agents/_form.php:39 lib/views/bundles/_form.php:30
+#: lib/views/locations/_form.php:17 lib/views/service_extras/_form.php:31
+#: lib/views/webhooks/_webhook_form.php:41
+#, fuzzy
+msgid "Disabled"
+msgstr "Wyłączony"
+
+#: lib/views/coupons/_form.php:19
+#, fuzzy
+msgid "Discount Value"
+msgstr "Wartość rabatu"
+
+#: lib/views/agents/_form.php:30
+#, fuzzy
+msgid "Display Name"
+msgstr "Wyświetlana nazwa"
+
+#: lib/helpers/feature_group_bookings_helper.php:253
+#, fuzzy
+msgid "Do not ask customers to select number of attendees"
+msgstr "Nie pytaj klientów o wybór liczby uczestników"
+
+#: lib/helpers/feature_group_bookings_helper.php:244
+#, fuzzy
+msgid "Do not multiply charge amount by the number of attendees"
+msgstr "Nie mnoż kwoty opłaty przez liczbę uczestników"
+
+#: lib/helpers/feature_group_bookings_helper.php:245
+#, fuzzy
+msgid "Do not multiply deposit amount by the number of attendees"
+msgstr "Nie mnoż kwoty zaliczki przez liczbę uczestników"
+
+#: lib/views/service_extras/_form.php:22
+#, fuzzy
+msgid "Duration (minutes)"
+msgstr "Czas trwania (minuty)"
+
+#: lib/views/bundles/_form.php:80 lib/views/service_extras/index.php:17
+#, fuzzy
+msgid "Duration:"
+msgstr "Czas trwania:"
+
+#: lib/views/locations/_location_index_item.php:14
+#: lib/views/messages/messages_with_info_for_booking.php:63
+#, fuzzy
+msgid "Edit"
+msgstr "Edytuj"
+
+#: lib/controllers/agents_controller.php:74
+#: lib/controllers/agents_controller.php:75
+msgid "Edit Agent"
+msgstr "Edytuj pracownika"
+
+#: lib/controllers/bundles_controller.php:33
+#: lib/controllers/bundles_controller.php:34 lib/views/bundles/index.php:37
+#, fuzzy
+msgid "Edit Bundle"
+msgstr "Edytuj pakiet"
+
+#: lib/views/service_extras/index.php:33
+#, fuzzy
+msgid "Edit Extra"
+msgstr "Edytuj dodatek"
+
+#: lib/controllers/locations_controller.php:32
+#: lib/controllers/locations_controller.php:33
+#, fuzzy
+msgid "Edit Location"
+msgstr "Edytuj lokalizację"
+
+#: lib/controllers/service_extras_controller.php:48
+#: lib/controllers/service_extras_controller.php:49
+#, fuzzy
+msgid "Edit Service Extra"
+msgstr "Edytuj dodatek do usługi"
+
+#: lib/views/roles/edit_wp_user.php:7
+#, fuzzy
+msgid "Edit User"
+msgstr "Edytuj użytkownika"
+
+#: lib/views/agents/_form.php:33
+#, fuzzy
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: lib/helpers/feature_messages_helper.php:62
+#: lib/helpers/feature_messages_helper.php:67
+#, fuzzy
+msgid "Email Message"
+msgstr "Wiadomość e-mail"
+
+#: lib/helpers/feature_messages_helper.php:61
+#: lib/helpers/feature_messages_helper.php:66
+#, fuzzy
+msgid "Email Subject"
+msgstr "Temat e-maila"
+
+#: lib/views/agents/mini_profile.php:7
+#, fuzzy
+msgid "email:"
+msgstr "e-mail:"
+
+#: lib/helpers/feature_timezone_helper.php:48
+#, fuzzy
+msgid "End Time (in customer timezone)"
+msgstr "Czas zakończenia (w strefie czasowej klienta)"
+
+#: lib/helpers/coupons_helper.php:35 lib/helpers/feature_coupons_helper.php:101
+#, fuzzy
+msgid "Enter Code..."
+msgstr "Wprowadź kod..."
+
+#: lib/helpers/custom_fields_helper.php:70
+#, fuzzy
+msgid "Enter Field Default Value"
+msgstr "Wprowadź domyślną wartość pola"
+
+#: lib/views/custom_fields/_custom_field_form.php:17
+#, fuzzy
+msgid "Enter Field Label"
+msgstr "Wprowadź etykietę pola"
+
+#: lib/views/custom_fields/_custom_field_form.php:26
+#, fuzzy
+msgid "Enter Field Placeholder"
+msgstr "Wprowadź tekst zastępczy pola"
+
+#: lib/views/taxes/_tax_form.php:17
+#, fuzzy
+msgid "Enter Tax Name"
+msgstr "Wprowadź nazwę podatku"
+
+#: lib/views/taxes/_tax_form.php:38
+#, fuzzy
+msgid "Enter Tax Value"
+msgstr "Wprowadź wartość podatku"
+
+#: lib/controllers/agents_controller.php:194
+msgid "Error Accessing Agent"
+msgstr "Błąd dostępu do pracownika"
+
+#: lib/controllers/agents_controller.php:158
+#: lib/controllers/agents_controller.php:162
+msgid "Error Removing Agent"
+msgstr "Błąd usuwania pracownika"
+
+#: lib/controllers/bundles_controller.php:144
+#: lib/controllers/bundles_controller.php:148
+#, fuzzy
+msgid "Error Removing Bundle"
+msgstr "Błąd usuwania pakietu"
+
+#: lib/controllers/coupons_controller.php:76
+#: lib/controllers/coupons_controller.php:80
+#, fuzzy
+msgid "Error Removing Coupon"
+msgstr "Błąd usuwania kuponu"
+
+#: lib/controllers/custom_fields_controller.php:125
+#, fuzzy
+msgid "Error Removing Custom Field"
+msgstr "Błąd usuwania pola niestandardowego"
+
+#: lib/controllers/locations_controller.php:183
+#: lib/controllers/locations_controller.php:187
+#, fuzzy
+msgid "Error Removing Location"
+msgstr "Błąd usuwania lokalizacji"
+
+#: lib/controllers/location_categories_controller.php:108
+#, fuzzy
+msgid "Error Removing Location Category. Error: FJI8321"
+msgstr "Błąd usuwania kategorii lokalizacji. Błąd: FJI8321"
+
+#: lib/controllers/location_categories_controller.php:112
+#, fuzzy
+msgid "Error Removing Location Category. Error: SIF2348"
+msgstr "Błąd usuwania kategorii lokalizacji. Błąd: SIF2348"
+
+#: lib/controllers/roles_controller.php:82
+#, fuzzy
+msgid "Error Removing Role"
+msgstr "Błąd usuwania roli"
+
+#: lib/controllers/service_categories_controller.php:104
+#, fuzzy
+msgid "Error Removing Service Category. Error: FJI8321"
+msgstr "Błąd usuwania kategorii usług. Błąd: FJI8321"
+
+#: lib/controllers/service_categories_controller.php:108
+#, fuzzy
+msgid "Error Removing Service Category. Error: SIF2348"
+msgstr "Błąd usuwania kategorii usług. Błąd: SIF2348"
+
+#: lib/controllers/service_extras_controller.php:143
+#: lib/controllers/service_extras_controller.php:147
+#, fuzzy
+msgid "Error Removing Service Extra"
+msgstr "Błąd usuwania dodatku do usługi"
+
+#: lib/controllers/taxes_controller.php:30
+#, fuzzy
+msgid "Error Removing Tax"
+msgstr "Błąd usuwania podatku"
+
+#: lib/controllers/webhooks_controller.php:31
+#, fuzzy
+msgid "Error Removing Webhook"
+msgstr "Błąd usuwania webhooka"
+
+#: lib/controllers/custom_fields_controller.php:185
+#, fuzzy
+msgid "Error Saving Custom Field"
+msgstr "Błąd zapisywania pola niestandardowego"
+
+#: lib/controllers/webhooks_controller.php:55
+#, fuzzy
+msgid "Error Saving Webhook"
+msgstr "Błąd zapisywania webhooka"
+
+#: lib/controllers/messages_controller.php:200
+#: lib/controllers/messages_controller.php:204
+#, fuzzy
+msgid "Error sending message. Try again later."
+msgstr "Błąd wysyłania wiadomości. Spróbuj ponownie później."
+
+#: lib/controllers/location_categories_controller.php:196
+#, fuzzy
+msgid "Error Updating Location (Invalid ID)"
+msgstr "Błąd aktualizacji lokalizacji (nieprawidłowe ID)"
+
+#: lib/controllers/custom_fields_controller.php:213
+#, fuzzy
+msgid "Error Updating Order of Custom Fields"
+msgstr "Błąd aktualizacji kolejności pól niestandardowych"
+
+#: lib/controllers/taxes_controller.php:81
+#, fuzzy
+msgid "Error Updating Order of Taxes"
+msgstr "Błąd aktualizacji kolejności podatków"
+
+#: lib/views/webhooks/_webhook_form.php:33
+msgid "Event that will trigger this hook"
+msgstr "Zdarzenie, które wyzwoli ten webhook"
+
+#: lib/views/agents/_form.php:61
+#, fuzzy
+msgid "Extra Information"
+msgstr "Dodatkowe informacje"
+
+#: lib/helpers/feature_service_extras_helper.php:131
+#, fuzzy
+msgid "Extras"
+msgstr "Dodatki"
+
+#: lib/views/custom_fields/_custom_field_form.php:14
+#, fuzzy
+msgid "Field Label"
+msgstr "Etykieta pola"
+
+#: lib/helpers/custom_fields_helper.php:223
+#, fuzzy
+msgid "Field Label can not be empty"
+msgstr "Etykieta pola nie może być pusta"
+
+#: lib/controllers/custom_fields_controller.php:81
+#: lib/controllers/custom_fields_controller.php:103
+#, fuzzy
+msgid "Field Removed"
+msgstr "Pole usunięte"
+
+#: lib/views/custom_fields/_custom_field_form.php:32
+#, fuzzy
+msgid "Field Type"
+msgstr "Typ pola"
+
+#: lib/views/custom_fields/_custom_field_form.php:99
+#, fuzzy
+msgid "Field Visibility"
+msgstr "Widoczność pola"
+
+#: lib/views/custom_fields/_custom_field_form.php:89
+#, fuzzy
+msgid "Field Width"
+msgstr "Szerokość pola"
+
+#: lib/helpers/messages_helper.php:99 lib/helpers/messages_helper.php:123
+#, fuzzy
+msgid "File Attachment"
+msgstr "Załącznik pliku"
+
+#: lib/helpers/custom_fields_helper.php:42
+#, fuzzy
+msgid "File Upload"
+msgstr "Przesyłanie pliku"
+
+#: lib/views/messages/backend_chat_box.php:8
+msgid "Find booking to start chat..."
+msgstr "Znajdź rezerwację, aby rozpocząć czat..."
+
+#: lib/views/agents/_form.php:28
+#, fuzzy
+msgid "First Name"
+msgstr "Imię"
+
+#: lib/views/taxes/_tax_form.php:32
+#, fuzzy
+msgid "Fixed amount"
+msgstr "Stała kwota"
+
+#: lib/views/coupons/_form.php:22
+#, fuzzy
+msgid "Fixed Value"
+msgstr "Wartość stała"
+
+#: lib/helpers/feature_custom_fields_helper.php:468
+#, fuzzy
+msgid "For Booking:"
+msgstr "Dla rezerwacji:"
+
+#: lib/helpers/feature_custom_fields_helper.php:462
+#, fuzzy
+msgid "For Customer:"
+msgstr "Dla klienta:"
+
+#: latepoint-pro-features.php:510
+#, fuzzy
+msgid "Form Fields"
+msgstr "Pola formularza"
+
+#: lib/views/custom_fields/_custom_field_form.php:92
+#, fuzzy
+msgid "Full Width"
+msgstr "Pełna szerokość"
+
+#: lib/views/agents/_form.php:19 lib/views/bundles/_form.php:15
+#, fuzzy
+msgid "General Information"
+msgstr "Informacje ogólne"
+
+#: lib/helpers/custom_fields_helper.php:41
+#, fuzzy
+msgid "Google Address Autocomplete"
+msgstr "Google Autouzupełnianie adresu"
+
+#: lib/helpers/feature_custom_fields_helper.php:116
+#, fuzzy
+msgid "Google Places API"
+msgstr "API Google Places"
+
+#: lib/helpers/feature_custom_fields_helper.php:121
+#, fuzzy
+msgid "Google Places API key"
+msgstr "Klucz API Google Places"
+
+#: lib/helpers/feature_group_bookings_helper.php:220
+#, fuzzy
+msgid "Group Bookings"
+msgstr "Rezerwacje grupowe"
+
+#: lib/views/custom_fields/_custom_field_form.php:93
+#, fuzzy
+msgid "Half Width"
+msgstr "Połowa szerokości"
+
+#: lib/helpers/coupons_helper.php:33 lib/helpers/feature_coupons_helper.php:99
+#, fuzzy
+msgid "Have a coupon code?"
+msgstr "Masz kod kuponu?"
+
+#: lib/helpers/custom_fields_helper.php:37
+#, fuzzy
+msgid "Hidden Field"
+msgstr "Ukryte pole"
+
+#: lib/views/custom_fields/_custom_field_form.php:119
+#, fuzzy
+msgid "Hide from Summary"
+msgstr "Ukryj w podsumowaniu"
+
+#: lib/views/custom_fields/_custom_field_form.php:122
+#, fuzzy
+msgid "Hide from Summary Panel and Confirmation Step"
+msgstr "Ukryj w panelu podsumowania i kroku potwierdzenia"
+
+#: lib/views/agents/_form.php:76
+msgid "Highlight #"
+msgstr ""
+
+#: lib/views/agents/_form.php:202 lib/views/locations/_form.php:149
+#, fuzzy
+msgid "Holidays & Days Off"
+msgstr "Święta i dni wolne"
+
+#: lib/views/webhooks/_webhook_form.php:39
+#, fuzzy
+msgid "Hook Status"
+msgstr "Status webhooka"
+
+#: lib/views/service_durations/_step_booking__service_durations.php:35
+#, fuzzy
+msgid "Hour"
+msgstr "Godzina"
+
+#: lib/views/service_durations/_step_booking__service_durations.php:35
+#, fuzzy
+msgid "Hours"
+msgstr "Godziny"
+
+#: lib/helpers/feature_reminders_helper.php:11
+#, fuzzy
+msgid "hours"
+msgstr "godziny"
+
+#: lib/views/group_bookings/_step_booking__group_bookings.php:11
+#, fuzzy
+msgid "How Many People?"
+msgstr "Ile osób?"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://latepoint.com/"
+msgstr ""
+
+#: lib/helpers/feature_service_categories_helper.php:18
+#: lib/views/location_categories/index.php:9
+#: lib/views/messages/conversations.php:15
+#: lib/views/service_categories/index.php:9
+#, fuzzy
+msgid "ID: "
+msgstr "ID: "
+
+#: lib/helpers/feature_locations_helper.php:167
+#, fuzzy
+msgid "If turned on, locations will be displayed in categories"
+msgstr "Jeśli włączone, lokalizacje będą wyświetlane w kategoriach"
+
+#: lib/views/agents/_form.php:51
+#, fuzzy
+msgid ""
+"If you need to notify multiple persons about the appointment, you can list "
+"additional email addresses and phone numbers to send notification emails and "
+"sms to. You can list multiple numbers and emails separated by commas."
+msgstr ""
+"Jeśli musisz powiadomić kilka osób o spotkaniu, możesz wpisać dodatkowe "
+"adresy e-mail i numery telefonów, aby wysłać powiadomienia e-mail i SMS. "
+"Możesz wpisać wiele numerów i adresów oddzielonych przecinkami."
+
+#: lib/helpers/feature_custom_fields_helper.php:119
+#, fuzzy
+msgid ""
+"In order for address autocomplete to work, you need an API key. To learn how "
+"to create an API key for Google Places API"
+msgstr ""
+"Aby autouzupełnianie adresu działało, potrzebny jest klucz API. Aby "
+"dowiedzieć się, jak utworzyć klucz API dla Google Places API"
+
+#: lib/views/bundles/_form.php:60
+#, fuzzy
+msgid "Included Services"
+msgstr "Usługi zawarte w pakiecie"
+
+#: lib/controllers/agents_controller.php:32
+#, fuzzy
+msgid "Index"
+msgstr "Indeks"
+
+#: lib/helpers/coupons_helper.php:60
+#, fuzzy
+msgid "Invalid Coupon Code"
+msgstr "Nieprawidłowy kod kuponu"
+
+#: lib/controllers/custom_fields_controller.php:84
+#: lib/controllers/custom_fields_controller.php:106
+#, fuzzy
+msgid "Invalid Data"
+msgstr "Nieprawidłowe dane"
+
+#: lib/controllers/custom_fields_controller.php:129
+#, fuzzy
+msgid "Invalid Field ID"
+msgstr "Nieprawidłowe ID pola"
+
+#: lib/controllers/webhooks_controller.php:35
+#, fuzzy
+msgid "Invalid Hook ID"
+msgstr "Nieprawidłowe ID webhooka"
+
+#: lib/controllers/custom_fields_controller.php:164
+#: lib/controllers/custom_fields_controller.php:191
+#: lib/controllers/roles_controller.php:114
+#: lib/controllers/taxes_controller.php:59
+#: lib/controllers/webhooks_controller.php:61
+#, fuzzy
+msgid "Invalid params"
+msgstr "Nieprawidłowe parametry"
+
+#: lib/controllers/roles_controller.php:86
+#, fuzzy
+msgid "Invalid Role"
+msgstr "Nieprawidłowa rola"
+
+#: lib/controllers/service_categories_controller.php:191
+#, fuzzy
+msgid "Invalid Service Category ID"
+msgstr "Nieprawidłowe ID kategorii usług"
+
+#: lib/controllers/taxes_controller.php:34
+#, fuzzy
+msgid "Invalid Tax ID"
+msgstr "Nieprawidłowe ID podatku"
+
+#: lib/controllers/roles_controller.php:28
+#, fuzzy
+msgid "Invalid User ID"
+msgstr "Nieprawidłowe ID użytkownika"
+
+#: lib/helpers/custom_fields_helper.php:328
+#, fuzzy
+msgid "is equal to"
+msgstr "jest równe"
+
+#: lib/helpers/custom_fields_helper.php:328
+#, fuzzy
+msgid "is not equal to"
+msgstr "nie jest równe"
+
+#: lib/views/agents/_form.php:79
+#, fuzzy
+msgid "Label"
+msgstr "Etykieta"
+
+#: lib/views/agents/_form.php:29
+#, fuzzy
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "LatePoint"
+msgstr "LatePoint"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "LatePoint Addon - Pro Features"
+msgstr "Dodatek LatePoint - Funkcje Pro"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "LatePoint Addon that adds a set of Pro features to a base plugin"
+msgstr ""
+"Dodatek LatePoint, który dodaje zestaw funkcji Pro do podstawowej wtyczki"
+
+#: lib/helpers/feature_service_extras_helper.php:463
+#, fuzzy
+msgid "Limit maximum number that can be selected"
+msgstr "Ogranicz maksymalną liczbę, którą można wybrać"
+
+#: lib/helpers/feature_service_extras_helper.php:463
+#, fuzzy
+msgid "Limits user from picking more than a set maximum"
+msgstr "Ogranicza użytkownika przed wyborem więcej niż określonego maksimum"
+
+#: lib/helpers/feature_locations_helper.php:106
+#: lib/helpers/feature_locations_helper.php:110
+#: lib/helpers/feature_locations_helper.php:148
+#: lib/helpers/feature_locations_helper.php:159
+#: lib/views/messages/messages_with_info_for_booking.php:67
+#, fuzzy
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: lib/views/locations/_form.php:22
+#, fuzzy
+msgid "Location Address"
+msgstr "Adres lokalizacji"
+
+#: lib/controllers/location_categories_controller.php:20
+#, fuzzy
+msgid "Location Categories"
+msgstr "Kategorie lokalizacji"
+
+#: lib/controllers/location_categories_controller.php:142
+#, fuzzy
+msgid "Location Categories Order Updated"
+msgstr "Kolejność kategorii lokalizacji zaktualizowana"
+
+#: lib/controllers/location_categories_controller.php:166
+#, fuzzy
+msgid "Location Category Created."
+msgstr "Kategoria lokalizacji utworzona."
+
+#: lib/controllers/location_categories_controller.php:105
+#, fuzzy
+msgid "Location Category Removed"
+msgstr "Kategoria lokalizacji usunięta"
+
+#: lib/controllers/location_categories_controller.php:188
+#, fuzzy
+msgid "Location Category Updated. ID: "
+msgstr "Kategoria lokalizacji zaktualizowana. ID: "
+
+#: lib/controllers/locations_controller.php:145
+#, fuzzy
+msgid "Location Created. ID:"
+msgstr "Lokalizacja utworzona. ID:"
+
+#: lib/views/locations/_form.php:9
+#, fuzzy
+msgid "Location ID:"
+msgstr "ID lokalizacji:"
+
+#: lib/views/locations/_form.php:16
+#, fuzzy
+msgid "Location Name"
+msgstr "Nazwa lokalizacji"
+
+#: lib/controllers/location_categories_controller.php:128
+#, fuzzy
+msgid "Location Order Updated"
+msgstr "Kolejność lokalizacji zaktualizowana"
+
+#: lib/views/locations/_form.php:19
+msgid "Location Photo"
+msgstr "Zdjęcie lokalizacji"
+
+#: lib/controllers/locations_controller.php:180
+#, fuzzy
+msgid "Location Removed"
+msgstr "Lokalizacja usunięta"
+
+#: lib/views/locations/_form.php:117
+#, fuzzy
+msgid "Location Schedule"
+msgstr "Harmonogram lokalizacji"
+
+#: lib/views/locations/_form.php:143
+#, fuzzy
+msgid ""
+"Location shares custom daily schedules that you set in general settings for "
+"your company, however you can add additional days with custom hours which "
+"will be specific to this location only."
+msgstr ""
+"Lokalizacja korzysta z niestandardowych harmonogramów dziennych, które "
+"ustawiasz w ogólnych ustawieniach swojej firmy, ale możesz dodać dodatkowe "
+"dni z niestandardowymi godzinami specyficznymi tylko dla tej lokalizacji."
+
+#: lib/controllers/locations_controller.php:148
+#, fuzzy
+msgid "Location Updated. ID:"
+msgstr "Lokalizacja zaktualizowana. ID:"
+
+#: lib/views/locations/_form.php:152
+#, fuzzy
+msgid ""
+"Location uses the same holidays you set in general settings for your company,"
+" however you can add additional holidays for this location here."
+msgstr ""
+"Lokalizacja używa tych samych dni świątecznych, które ustawiasz w ogólnych "
+"ustawieniach swojej firmy, ale możesz dodać tutaj dodatkowe dni świąteczne "
+"dla tej lokalizacji."
+
+#: latepoint-pro-features.php:533 latepoint-pro-features.php:538
+#: lib/controllers/locations_controller.php:20
+#: lib/helpers/feature_locations_helper.php:57
+#, fuzzy
+msgid "Locations"
+msgstr "Lokalizacje"
+
+#: lib/views/agents/_form.php:116
+#, fuzzy
+msgid "Locations Selected"
+msgstr "Wybrane lokalizacje"
+
+#: lib/views/custom_fields/_custom_field_form.php:113
+#, fuzzy
+msgid "Make this field required"
+msgstr "Ustaw to pole jako wymagane"
+
+#: lib/helpers/feature_group_bookings_helper.php:209
+#, fuzzy
+msgid "Max Capacity:"
+msgstr "Maksymalna pojemność:"
+
+#: lib/views/coupons/_form.php:38
+#, fuzzy
+msgid "Max Number of Customer Orders"
+msgstr "Maksymalna liczba zamówień klienta"
+
+#: lib/views/service_extras/index.php:25
+#, fuzzy
+msgid "Max Qty:"
+msgstr "Maks. ilość:"
+
+#: lib/helpers/feature_group_bookings_helper.php:234
+#, fuzzy
+msgid "Maximum"
+msgstr "Maksymalna"
+
+#: lib/views/group_bookings/_step_booking__group_bookings.php:12
+#, fuzzy
+msgid "Maximum capacity is"
+msgstr "Maksymalna pojemność to"
+
+#: lib/views/service_extras/_form.php:28
+#, fuzzy
+msgid "Maximum Quantity"
+msgstr "Maksymalna ilość"
+
+#: lib/views/service_extras/_form.php:41
+#, fuzzy
+msgid "Media"
+msgstr "Media"
+
+#: lib/helpers/feature_messages_helper.php:8
+#, fuzzy
+msgid "Message Content:"
+msgstr "Treść wiadomości:"
+
+#: lib/views/messages/quick_form_chat_box.php:3
+#, fuzzy
+msgid "Message History"
+msgstr "Historia wiadomości"
+
+#: lib/controllers/messages_controller.php:25
+#: lib/controllers/messages_controller.php:26
+#: lib/helpers/feature_messages_helper.php:15
+#: lib/helpers/feature_messages_helper.php:83
+#, fuzzy
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: lib/views/service_extras/index.php:18
+#, fuzzy
+msgid "min"
+msgstr "min"
+
+#: lib/views/coupons/_form.php:35
+#, fuzzy
+msgid "Min Number of Customer Orders"
+msgstr "Minimalna liczba zamówień klienta"
+
+#: lib/helpers/feature_group_bookings_helper.php:231
+#, fuzzy
+msgid "Minimum"
+msgstr "Minimalna"
+
+#: lib/views/service_durations/_step_booking__service_durations.php:36
+#: lib/views/service_durations/_step_booking__service_durations.php:39
+#, fuzzy
+msgid "Minutes"
+msgstr "Minuty"
+
+#: lib/helpers/feature_reminders_helper.php:11
+#, fuzzy
+msgid "minutes"
+msgstr "minuty"
+
+#: lib/helpers/feature_group_bookings_helper.php:142
+#, fuzzy
+msgid "Multiply cost of this service extra by number of attendees"
+msgstr "Pomnóż koszt tego dodatku usługi przez liczbę uczestników"
+
+#: lib/helpers/feature_timezone_helper.php:33
+#, fuzzy
+msgid "My Timezone:"
+msgstr "Moja strefa czasowa:"
+
+#: lib/models/service_extra_model.php:20 lib/views/roles/_form.php:20
+#, fuzzy
+msgid "Name"
+msgstr "Nazwa"
+
+#: lib/views/coupons/_form.php:16 lib/views/webhooks/_webhook_form.php:29
+#, fuzzy
+msgid "Name (For Internal Use)"
+msgstr "Nazwa (do użytku wewnętrznego)"
+
+#: lib/views/webhooks/_webhook_form.php:2
+#, fuzzy
+msgid "New Booking"
+msgstr "Nowa rezerwacja"
+
+#: lib/views/coupons/_form.php:6
+#, fuzzy
+msgid "New Coupon"
+msgstr "Nowy kupon"
+
+#: lib/views/webhooks/_webhook_form.php:4
+#, fuzzy
+msgid "New Customer"
+msgstr "Nowy klient"
+
+#: lib/views/custom_fields/_custom_field_form.php:7
+#, fuzzy
+msgid "New Field"
+msgstr "Nowe pole"
+
+#: lib/views/taxes/_tax_form.php:7
+#, fuzzy
+msgid "New Tax"
+msgstr "Nowy podatek"
+
+#: lib/views/webhooks/_webhook_form.php:5
+#, fuzzy
+msgid "New Transaction"
+msgstr "Nowa transakcja"
+
+#: lib/views/webhooks/_webhook_form.php:12
+#, fuzzy
+msgid "New Webhook"
+msgstr "Nowy webhook"
+
+#: lib/helpers/custom_fields_helper.php:303
+#, fuzzy
+msgid "No"
+msgstr "Nie"
+
+#: lib/views/agents/index.php:73
+msgid "No Active Agents Found"
+msgstr "Nie znaleziono aktywnych pracowników"
+
+#: lib/views/locations/index.php:47
+#, fuzzy
+msgid "No Active Locations Found"
+msgstr "Nie znaleziono aktywnych lokalizacji"
+
+#: lib/views/locations/_location_index_item.php:26
+msgid "No Agents Assigned"
+msgstr "Nie przypisano żadnych pracowników"
+
+#: lib/views/bundles/index.php:58
+#, fuzzy
+msgid "No Bundles Found"
+msgstr "Nie znaleziono pakietów"
+
+#: lib/views/messages/conversations.php:22
+#, fuzzy
+msgid "No conversations found."
+msgstr "Nie znaleziono rozmów."
+
+#: lib/views/locations/_form.php:103
+msgid "No Existing Agents Found"
+msgstr "Nie znaleziono istniejących pracowników"
+
+#: lib/views/agents/_form.php:156 lib/views/bundles/_form.php:124
+#, fuzzy
+msgid "No Existing Services Found"
+msgstr "Nie znaleziono istniejących usług"
+
+#: lib/views/messages/messages_for_booking.php:22
+#: lib/views/messages/messages_with_info_for_booking.php:41
+#, fuzzy
+msgid "No Messages Exist."
+msgstr "Brak wiadomości."
+
+#: lib/helpers/custom_fields_helper.php:104
+#, fuzzy
+msgid "No Restrictions"
+msgstr "Brak ograniczeń"
+
+#: lib/views/service_extras/index.php:50
+#, fuzzy
+msgid "No Service Extras Found"
+msgstr "Nie znaleziono dodatków do usług"
+
+#: lib/helpers/feature_service_extras_helper.php:153
+#: lib/helpers/feature_service_extras_helper.php:168
+#, fuzzy
+msgid "None"
+msgstr "Brak"
+
+#: lib/controllers/custom_fields_controller.php:88
+#: lib/controllers/custom_fields_controller.php:110
+#, fuzzy
+msgid "Not Authorized"
+msgstr "Brak autoryzacji"
+
+#: lib/controllers/location_categories_controller.php:64
+#, fuzzy
+msgid "Not categorized"
+msgstr "Nie skategoryzowane"
+
+#: lib/views/roles/edit_wp_user.php:28
+#, fuzzy
+msgid "Not Connected"
+msgstr "Niepołączony"
+
+#: lib/views/roles/_form.php:53
+#, fuzzy
+msgid "Not connected"
+msgstr "Niepołączony"
+
+#: lib/helpers/feature_messages_helper.php:64
+msgid "Notify agents about new messages"
+msgstr "Powiadom pracowników o nowych wiadomościach"
+
+#: lib/helpers/feature_messages_helper.php:59
+#, fuzzy
+msgid "Notify customers about new messages"
+msgstr "Powiadom klientów o nowych wiadomościach"
+
+#: lib/helpers/custom_fields_helper.php:36
+#, fuzzy
+msgid "Number Field"
+msgstr "Pole liczby"
+
+#: lib/views/agents/_form.php:90
+#, fuzzy
+msgid "Offered Services"
+msgstr "Oferowane usługi"
+
+#: lib/helpers/coupons_helper.php:36
+#, fuzzy
+msgid "OK"
+msgstr "OK"
+
+#: lib/views/roles/_form.php:82
+#, fuzzy
+msgid ""
+"Once you assign users to this role, they will appear in \"Users\" section "
+"above, click on each user to set restrictions on which records each of them "
+"can access."
+msgstr ""
+"Gdy przypiszesz użytkowników do tej roli, pojawią się oni w sekcji "
+"\"Użytkownicy\" powyżej, kliknij każdego użytkownika, aby ustawić "
+"ograniczenia dotyczące rekordów, do których mogą uzyskać dostęp."
+
+#: lib/views/service_durations/duration_fields.php:9
+#, fuzzy
+msgid "Optional Duration Name"
+msgstr "Opcjonalna nazwa czasu trwania"
+
+#: lib/helpers/custom_fields_helper.php:228
+#, fuzzy
+msgid "Options for select box can not be blank"
+msgstr "Opcje dla pola wyboru nie mogą być puste"
+
+#: lib/views/custom_fields/_custom_field_form.php:48
+#, fuzzy
+msgid "Options List"
+msgstr "Lista opcji"
+
+#: lib/controllers/custom_fields_controller.php:210
+#: lib/controllers/taxes_controller.php:78
+#, fuzzy
+msgid "Order Updated"
+msgstr "Zamówienie zaktualizowane"
+
+#: lib/helpers/feature_group_bookings_helper.php:250
+#, fuzzy
+msgid "Other"
+msgstr "Inne"
+
+#: lib/views/group_bookings/_step_booking__group_bookings.php:21
+#, fuzzy
+msgid "People"
+msgstr "Osoby"
+
+#: lib/views/coupons/_form.php:22
+#, fuzzy
+msgid "Percent"
+msgstr "Procent"
+
+#: lib/views/taxes/_tax_form.php:31
+#, fuzzy
+msgid "Percentage of the booking price"
+msgstr "Procent ceny rezerwacji"
+
+#: lib/views/roles/_form.php:90 lib/views/roles/edit_wp_user.php:55
+#, fuzzy
+msgid "Permitted Actions"
+msgstr "Dozwolone działania"
+
+#: lib/views/roles/edit_wp_user.php:75
+#, fuzzy
+msgid "Permitted actions are defined by user's role settings."
+msgstr "Dozwolone działania są określane przez ustawienia ról użytkownika."
+
+#: lib/views/group_bookings/_step_booking__group_bookings.php:20
+#, fuzzy
+msgid "Person"
+msgstr "Osoba"
+
+#: lib/helpers/feature_group_bookings_helper.php:133
+#, fuzzy
+msgid "person"
+msgstr "osoba"
+
+#: lib/views/agents/_form.php:34
+#, fuzzy
+msgid "Phone Number"
+msgstr "Numer telefonu"
+
+#: lib/helpers/custom_fields_helper.php:35
+#, fuzzy
+msgid "Phone Number Field"
+msgstr "Pole numeru telefonu"
+
+#: lib/views/agents/mini_profile.php:8
+#, fuzzy
+msgid "phone:"
+msgstr "telefon:"
+
+#: lib/views/custom_fields/_custom_field_form.php:23
+#, fuzzy
+msgid "Placeholder"
+msgstr "Tekst zastępczy"
+
+#: lib/helpers/feature_qrcode_helper.php:20
+#, fuzzy
+msgid ""
+"Point your smartphone camera at the QR code and it will automatically add "
+"this appointment to your calendar"
+msgstr ""
+"Skieruj kamerę smartfona na kod QR, a to automatycznie doda to spotkanie do "
+"twojego kalendarza"
+
+#: lib/helpers/feature_locations_helper.php:109
+#, fuzzy
+msgid "Previous Location"
+msgstr "Poprzednia lokalizacja"
+
+#: lib/views/bundles/_form.php:42
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: lib/views/service_extras/index.php:21
+#, fuzzy
+msgid "Price:"
+msgstr "Cena:"
+
+#: lib/helpers/feature_group_bookings_helper.php:241
+#, fuzzy
+msgid "Pricing"
+msgstr "Cennik"
+
+#: lib/views/group_bookings/_step_booking__group_bookings.php:24
+#: lib/views/service_extras/_step_booking__service_extras.php:40
+#, fuzzy
+msgid "Qty"
+msgstr "Ilość"
+
+#: lib/views/bundles/_form.php:115
+#, fuzzy
+msgid "qty"
+msgstr "ilość"
+
+#: lib/views/bundles/index.php:21
+#, fuzzy
+msgid "Quantity"
+msgstr "Ilość"
+
+#: lib/views/location_categories/new_form.php:9
+#: lib/views/service_categories/new_form.php:9
+#, fuzzy
+msgid "Quick Description"
+msgstr "Szybki opis"
+
+#: lib/helpers/feature_messages_helper.php:36
+#, fuzzy, php-format
+msgid "Read %d Message"
+msgid_plural "Read %d Messages"
+msgstr[0] "Przeczytaj %d wiadomość"
+msgstr[1] "Przeczytaj %d wiadomości"
+msgstr[2] ""
+
+#: lib/controllers/reminders_controller.php:23
+#: lib/controllers/reminders_controller.php:24
+#, fuzzy
+msgid "Reminders"
+msgstr "Przypomnienia"
+
+#: lib/views/agents/_form.php:26
+#, fuzzy
+msgid "Remove Avatar"
+msgstr "Usuń awatar"
+
+#: lib/views/agents/_form.php:66
+#, fuzzy
+msgid "Remove Bio Image"
+msgstr "Usuń obraz biografii"
+
+#: lib/views/location_categories/_form.php:13 lib/views/locations/_form.php:19
+#: lib/views/service_categories/_form.php:13
+#: lib/views/service_extras/_form.php:48
+#, fuzzy
+msgid "Remove Image"
+msgstr "Usuń obraz"
+
+#: lib/helpers/feature_service_extras_helper.php:453
+#, fuzzy
+msgid "Require a minimum to be selected"
+msgstr "Wymagaj wyboru minimum"
+
+#: lib/views/custom_fields/_custom_field_form.php:110
+#, fuzzy
+msgid "Required"
+msgstr "Wymagane"
+
+#: lib/helpers/feature_service_extras_helper.php:453
+#, fuzzy
+msgid "Requires user to pick a minimum number of service extras"
+msgstr "Wymaga, aby użytkownik wybrał minimalną liczbę dodatków do usług"
+
+#: lib/helpers/feature_service_extras_helper.php:449
+#, fuzzy
+msgid "Restrictions for Service Extras"
+msgstr "Ograniczenia dotyczące dodatków do usług"
+
+#: lib/controllers/roles_controller.php:79
+#, fuzzy
+msgid "Role Removed"
+msgstr "Rola usunięta"
+
+#: lib/controllers/roles_controller.php:22
+#, fuzzy
+msgid "Roles"
+msgstr "Role"
+
+#: lib/views/webhooks/_webhook_form.php:45
+#, fuzzy
+msgid "Save"
+msgstr "Zapisz"
+
+#: lib/views/agents/modal_list.php:15
+msgid "Save Agents"
+msgstr "Zapisz pracownika"
+
+#: lib/views/bundles/_form.php:138 lib/views/bundles/_form.php:142
+#, fuzzy
+msgid "Save Bundle"
+msgstr "Zapisz pakiet"
+
+#: lib/views/location_categories/_form.php:19
+#: lib/views/service_categories/_form.php:19
+#, fuzzy
+msgid "Save Category"
+msgstr "Zapisz kategorię"
+
+#: lib/views/agents/_form.php:220 lib/views/locations/_form.php:166
+#: lib/views/roles/_form.php:125 lib/views/roles/edit_wp_user.php:80
+#: lib/views/service_extras/_form.php:93
+#, fuzzy
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: lib/views/coupons/_form.php:56
+#, fuzzy
+msgid "Save Coupon"
+msgstr "Zapisz kupon"
+
+#: lib/views/custom_fields/_custom_field_form.php:128
+#, fuzzy
+msgid "Save Field"
+msgstr "Zapisz pole"
+
+#: lib/views/locations/_form.php:162
+#, fuzzy
+msgid "Save Location"
+msgstr "Zapisz lokalizację"
+
+#: lib/views/location_categories/new_form.php:14
+#, fuzzy
+msgid "Save Location Category"
+msgstr "Zapisz kategorię lokalizacji"
+
+#: lib/views/service_categories/new_form.php:15
+#, fuzzy
+msgid "Save Service Category"
+msgstr "Zapisz kategorię usług"
+
+#: lib/views/taxes/_tax_form.php:50
+#, fuzzy
+msgid "Save Tax"
+msgstr "Zapisz podatek"
+
+#: lib/helpers/feature_qrcode_helper.php:16
+#, fuzzy
+msgid "Scan on Arrival"
+msgstr "Skanuj przy przyjeździe"
+
+#: lib/views/agents/modal_list.php:2
+msgid "Select Agents"
+msgstr "Wybierz pracowników"
+
+#: lib/views/locations/_form.php:36
+msgid "Select Agents for This Location"
+msgstr "Wybierz pracowników dla tej lokalizacji"
+
+#: lib/helpers/feature_service_extras_helper.php:414
+#: lib/views/agents/_form.php:92 lib/views/locations/_form.php:38
+#: lib/views/service_extras/_form.php:58
+#, fuzzy
+msgid "Select All"
+msgstr "Wybierz wszystko"
+
+#: lib/helpers/custom_fields_helper.php:38
+#, fuzzy
+msgid "Select Box"
+msgstr "Pole wyboru"
+
+#: lib/views/agents/_form.php:122
+#, php-format
+msgid "Select locations where this agent will offer %s:"
+msgstr "Wybierz lokalizacje, w których ten pracownik będzie oferował %s:"
+
+#: lib/views/locations/_form.php:69
+#, fuzzy, php-format
+msgid "Select services that %s will be offering at this location:"
+msgstr "Wybierz usługi, które %s będzie oferować w tej lokalizacji:"
+
+#: lib/views/agents/_form.php:38
+#, fuzzy
+msgid "Select User"
+msgstr "Wybierz użytkownika"
+
+#: lib/views/service_extras/_form.php:45
+#, fuzzy
+msgid "Selection Image"
+msgstr "Obraz wyboru"
+
+#: lib/helpers/feature_messages_helper.php:133
+#: lib/views/messages/messages_with_info_for_booking.php:47
+#: lib/views/messages/quick_form_chat_box.php:13
+#, fuzzy
+msgid "Send"
+msgstr "Wyślij"
+
+#: lib/helpers/custom_fields_helper.php:315 lib/views/bundles/index.php:20
+#: lib/views/messages/messages_with_info_for_booking.php:73
+#, fuzzy
+msgid "Service"
+msgstr "Usługa"
+
+#: lib/controllers/service_categories_controller.php:22
+#: lib/controllers/service_categories_controller.php:24
+#, fuzzy
+msgid "Service Categories"
+msgstr "Kategorie usług"
+
+#: lib/controllers/service_categories_controller.php:138
+#, fuzzy
+msgid "Service Categories Order Updated"
+msgstr "Kolejność kategorii usług zaktualizowana"
+
+#: lib/controllers/service_categories_controller.php:162
+#, fuzzy
+msgid "Service Category Created. ID: "
+msgstr "Kategoria usług utworzona. ID: "
+
+#: lib/controllers/service_categories_controller.php:101
+#, fuzzy
+msgid "Service Category Removed"
+msgstr "Kategoria usług usunięta"
+
+#: lib/controllers/service_categories_controller.php:184
+#, fuzzy
+msgid "Service Category Updated. ID: "
+msgstr "Kategoria usług zaktualizowana. ID: "
+
+#: lib/views/service_durations/duration_fields.php:12
+#, fuzzy
+msgid "Service Duration (minutes)"
+msgstr "Czas trwania usługi (minuty)"
+
+#: lib/controllers/service_durations_controller.php:18
+#: lib/controllers/service_durations_controller.php:19
+#: lib/helpers/feature_service_durations_helper.php:77
+#, fuzzy
+msgid "Service Durations"
+msgstr "Czas trwania usług"
+
+#: lib/controllers/service_extras_controller.php:114
+#, fuzzy
+msgid "Service Extra Created. ID:"
+msgstr "Dodatek do usługi utworzony. ID:"
+
+#: lib/views/service_extras/_form.php:14
+#, fuzzy
+msgid "Service Extra ID:"
+msgstr "ID dodatku do usługi:"
+
+#: lib/views/service_extras/_form.php:48
+#, fuzzy
+msgid "Service Extra Image"
+msgstr "Obraz dodatku do usługi"
+
+#: lib/views/service_extras/_form.php:19
+#, fuzzy
+msgid "Service Extra Name"
+msgstr "Nazwa dodatku do usługi"
+
+#: lib/controllers/service_extras_controller.php:140
+#, fuzzy
+msgid "Service Extra Removed"
+msgstr "Dodatek do usługi usunięty"
+
+#: lib/controllers/service_extras_controller.php:116
+#, fuzzy
+msgid "Service Extra Updated. ID:"
+msgstr "Dodatek do usługi zaktualizowany. ID:"
+
+#: lib/controllers/service_extras_controller.php:24
+#: lib/helpers/feature_service_extras_helper.php:7
+#: lib/helpers/feature_service_extras_helper.php:136
+#: lib/helpers/feature_service_extras_helper.php:412
+#: lib/helpers/service_extras_helper.php:77
+#, fuzzy
+msgid "Service Extras"
+msgstr "Dodatki do usług"
+
+#: lib/helpers/service_extras_helper.php:72
+#, php-format
+msgid ""
+"Service extras [ %s ] applied to this booking are not available for this "
+"service. Either pick a service that offers them, or clear them."
+msgstr ""
+
+#: lib/helpers/feature_service_extras_helper.php:470
+#, fuzzy
+msgid "service extras can be selected"
+msgstr "dodatków do usług można wybrać"
+
+#: lib/helpers/feature_service_extras_helper.php:460
+#, fuzzy
+msgid "service extras have to be selected"
+msgstr "dodatków do usług musi zostać wybranych"
+
+#: lib/helpers/feature_service_extras_helper.php:174
+#, fuzzy
+msgid "Service Extras:"
+msgstr "Dodatki do usług:"
+
+#: lib/views/coupons/_form.php:46
+#, fuzzy
+msgid "Service IDs"
+msgstr "ID usług"
+
+#: lib/controllers/service_categories_controller.php:124
+#, fuzzy
+msgid "Service Order Updated"
+msgstr "Kolejność usług zaktualizowana"
+
+#: lib/helpers/feature_service_categories_helper.php:19
+#, fuzzy
+msgid "Services Linked"
+msgstr "Połączone usługi"
+
+#: lib/views/locations/_form.php:63
+#, fuzzy
+msgid "Services Selected"
+msgstr "Wybrane usługi"
+
+#: lib/views/service_extras/index.php:10
+#, fuzzy
+msgid "Services:"
+msgstr "Usługi:"
+
+#: lib/views/agents/_form.php:26
+#, fuzzy
+msgid "Set Avatar"
+msgstr "Ustaw awatar"
+
+#: lib/views/agents/_form.php:66
+#, fuzzy
+msgid "Set Bio Image"
+msgstr "Ustaw obraz biografii"
+
+#: lib/views/agents/_form.php:171 lib/views/locations/_form.php:119
+#, fuzzy
+msgid "Set Custom Schedule"
+msgstr "Ustaw niestandardowy harmonogram"
+
+#: lib/helpers/feature_messages_helper.php:56
+#, fuzzy
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: lib/views/bundles/_form.php:35 lib/views/location_categories/_form.php:9
+#: lib/views/service_categories/_form.php:9
+#: lib/views/service_extras/_form.php:32
+#, fuzzy
+msgid "Short Description"
+msgstr "Krótki opis"
+
+#: lib/helpers/feature_locations_helper.php:167
+#, fuzzy
+msgid "Show location categories"
+msgstr "Pokaż kategorie lokalizacji"
+
+#: lib/helpers/feature_qrcode_helper.php:24
+#, fuzzy
+msgid "Show QR Code"
+msgstr "Pokaż kod QR"
+
+#: lib/helpers/feature_service_durations_helper.php:98
+#, fuzzy
+msgid "Show service durations in minutes"
+msgstr "Pokaż czas trwania usług w minutach"
+
+#: lib/views/custom_fields/_custom_field_form.php:72
+#, fuzzy
+msgid "Show this field if:"
+msgstr "Pokaż to pole, jeśli:"
+
+#: lib/views/custom_fields/_custom_field_form.php:70
+#, fuzzy
+msgid "Show this field only when conditions are met"
+msgstr "Pokaż to pole tylko wtedy, gdy warunki są spełnione"
+
+#: lib/helpers/feature_timezone_helper.php:293
+#, fuzzy
+msgid "Show timezone information"
+msgstr "Pokaż informacje o strefie czasowej"
+
+#: lib/helpers/feature_timezone_helper.php:292
+#, fuzzy
+msgid "Show timezone selector"
+msgstr "Pokaż selektor strefy czasowej"
+
+#: lib/helpers/feature_messages_helper.php:41
+#, fuzzy
+msgid "Start Chatting"
+msgstr "Rozpocznij rozmowę"
+
+#: lib/helpers/feature_timezone_helper.php:46
+#, fuzzy
+msgid "Start Date (in customer timezone):"
+msgstr "Data rozpoczęcia (w strefie czasowej klienta):"
+
+#: lib/views/messages/conversations.php:16
+#, fuzzy
+msgid "Start new conversation..."
+msgstr "Rozpocznij nową rozmowę..."
+
+#: lib/helpers/feature_timezone_helper.php:47
+#, fuzzy
+msgid "Start Time (in customer timezone):"
+msgstr "Czas rozpoczęcia (w strefie czasowej klienta):"
+
+#: lib/views/agents/_form.php:39 lib/views/bundles/_form.php:30
+#: lib/views/locations/_form.php:17 lib/views/service_extras/_form.php:31
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#: lib/controllers/messages_controller.php:197
+#, fuzzy
+msgid "Success"
+msgstr "Sukces"
+
+#: lib/views/taxes/_tax_form.php:14
+#, fuzzy
+msgid "Tax Name"
+msgstr "Nazwa podatku"
+
+#: lib/helpers/taxes_helper.php:60
+#, fuzzy
+msgid "Tax Name can not be empty"
+msgstr "Nazwa podatku nie może być pusta"
+
+#: lib/controllers/taxes_controller.php:27
+#, fuzzy
+msgid "Tax Removed"
+msgstr "Podatek usunięty"
+
+#: lib/views/taxes/_tax_form.php:23
+#, fuzzy
+msgid "Tax Type"
+msgstr "Typ podatku"
+
+#: lib/helpers/taxes_helper.php:63
+#, fuzzy
+msgid "Tax Type can not be empty"
+msgstr "Typ podatku nie może być pusty"
+
+#: lib/helpers/taxes_helper.php:66
+#, fuzzy
+msgid "Tax Value can not be empty"
+msgstr "Wartość podatku nie może być pusta"
+
+#: lib/controllers/taxes_controller.php:19 lib/views/taxes/index.php:1
+#, fuzzy
+msgid "Taxes"
+msgstr "Podatki"
+
+#: lib/controllers/taxes_controller.php:55
+#, fuzzy
+msgid "Taxes saved"
+msgstr "Podatki zapisane"
+
+#: lib/views/custom_fields/_custom_field_form.php:104
+#, fuzzy
+msgid "Temporary Hidden"
+msgstr "Tymczasowo ukryte"
+
+#: lib/helpers/custom_fields_helper.php:39
+#, fuzzy
+msgid "Text Area Field"
+msgstr "Pole tekstowe (obszar)"
+
+#: lib/helpers/custom_fields_helper.php:34
+#, fuzzy
+msgid "Text Field"
+msgstr "Pole tekstowe"
+
+#: lib/views/agents/_form.php:70
+msgid ""
+"These value-label pairs will appear on agent information popup. You can "
+"enter things like years of experience, or number of clients served, to "
+"highlight agent accomplishments."
+msgstr ""
+"Te pary wartości i etykiet pojawią się w wyskakującym okienku informacji o "
+"pracowniku. Możesz wpisać takie informacje jak lata doświadczenia lub liczba "
+"obsłużonych klientów, aby podkreślić osiągnięcia pracownika."
+
+#: lib/views/agents/_form.php:183
+msgid "This agent is using general schedule which is set in main settings"
+msgstr ""
+"Ten pracownik używa ogólnego harmonogramu ustawionego w głównych ustawieniach"
+
+#: lib/helpers/coupons_helper.php:179
+#, fuzzy, php-format
+msgid "This coupon can only be applied on your first %d orders"
+msgstr "Ten kupon można zastosować tylko przy pierwszych %d zamówieniach"
+
+#: lib/helpers/coupons_helper.php:177
+#, fuzzy
+msgid "This coupon can only be applied on your first order"
+msgstr "Ten kupon można zastosować tylko przy pierwszym zamówieniu"
+
+#: lib/helpers/coupons_helper.php:123
+#, fuzzy, php-format
+msgid "This coupon can only be used %d times"
+msgstr "Ten kupon można użyć tylko %d razy"
+
+#: lib/helpers/coupons_helper.php:82 lib/helpers/coupons_helper.php:107
+#: lib/helpers/coupons_helper.php:111 lib/helpers/coupons_helper.php:186
+#, fuzzy
+msgid "This coupon code is invalid or has expired"
+msgstr "Ten kod kuponu jest nieprawidłowy lub wygasł"
+
+#: lib/helpers/coupons_helper.php:142
+#, fuzzy, php-format
+msgid "This coupon is limited to %d uses per customer"
+msgstr "Ten kupon jest ograniczony do %d użyć na klienta"
+
+#: latepoint-pro-features.php:700 latepoint-pro-features.php:712
+#, fuzzy
+msgid ""
+"This file is required and can not be removed, but you can replace it with a "
+"different file. Do you want to replace it?"
+msgstr ""
+"Ten plik jest wymagany i nie można go usunąć, ale możesz go zastąpić innym "
+"plikiem. Czy chcesz go zastąpić?"
+
+#: lib/views/service_extras/_form.php:46
+#, fuzzy
+msgid ""
+"This image will be used as a background image of the service extra tile on "
+"booking form"
+msgstr ""
+"Ten obraz zostanie użyty jako obraz tła kafelka dodatku do usługi w "
+"formularzu rezerwacji"
+
+#: lib/views/locations/_form.php:131
+#, fuzzy
+msgid "This location is using general schedule which is set in main settings"
+msgstr ""
+"Ta lokalizacja używa ogólnego harmonogramu ustawionego w głównych "
+"ustawieniach"
+
+#: lib/views/roles/edit_wp_user.php:38
+#, fuzzy
+msgid "This user has \"Administrator\" role and can access all records"
+msgstr ""
+"Ten użytkownik ma rolę \"Administrator\" i może uzyskać dostęp do wszystkich "
+"rekordów"
+
+#: lib/views/roles/edit_wp_user.php:40
+msgid ""
+"This user has \"Agent\" role and can execute permitted actions only on "
+"records that belong to a LatePoint agent they are connected to."
+msgstr ""
+"Ten użytkownik ma rolę \"Pracownik\" i może wykonywać dozwolone działania "
+"tylko na rekordach należących do pracownika LatePoint, z którym jest "
+"połączony."
+
+#: latepoint-pro-features.php:571
+#, fuzzy
+msgid "This will disable ability to book multiple services in one order"
+msgstr "To wyłączy możliwość rezerwacji wielu usług w jednym zamówieniu"
+
+#: lib/helpers/feature_timezone_helper.php:280
+#, fuzzy
+msgid "Times are in:"
+msgstr "Czasy są w:"
+
+#: lib/helpers/feature_timezone_helper.php:293
+#, fuzzy
+msgid "Timezone name will appear next to appointment time"
+msgstr "Nazwa strefy czasowej pojawi się obok czasu spotkania"
+
+#: lib/controllers/timezone_selector_controller.php:19
+#: lib/controllers/timezone_selector_controller.php:20
+#, fuzzy
+msgid "Timezone Selector"
+msgstr "Wybór strefy czasowej"
+
+#: lib/helpers/feature_timezone_helper.php:289
+#, fuzzy
+msgid "Timezone Settings"
+msgstr "Ustawienia strefy czasowej"
+
+#: lib/controllers/timezone_selector_controller.php:33
+#, fuzzy
+msgid "Timezone Updated"
+msgstr "Strefa czasowa zaktualizowana"
+
+#: lib/helpers/feature_timezone_helper.php:41
+#, fuzzy
+msgid "Timezone:"
+msgstr "Strefa czasowa:"
+
+#: lib/views/custom_fields/_custom_field_form.php:41
+#, fuzzy
+msgid ""
+"To use address field, you need to enter Google API key in general settings."
+msgstr ""
+"Aby używać pola adresu, musisz wprowadzić klucz API Google w ustawieniach "
+"ogólnych."
+
+#: lib/helpers/feature_group_bookings_helper.php:65
+#: lib/helpers/feature_group_bookings_helper.php:171
+#: lib/helpers/feature_group_bookings_helper.php:206
+#: lib/helpers/feature_group_bookings_helper.php:264
+#: lib/helpers/feature_group_bookings_helper.php:278
+#, fuzzy
+msgid "Total Attendees"
+msgstr "Całkowita liczba uczestników"
+
+#: lib/helpers/coupons_helper.php:24
+#, fuzzy
+msgid "Total booking price: "
+msgstr "Całkowita cena rezerwacji: "
+
+#: lib/views/coupons/_form.php:32
+#, fuzzy
+msgid "Total Use Limit"
+msgstr "Łączny limit użyć"
+
+#: lib/helpers/custom_fields_helper.php:225
+#, fuzzy
+msgid "Type can not be empty"
+msgstr "Typ nie może być pusty"
+
+#: lib/helpers/feature_messages_helper.php:132
+#: lib/views/messages/messages_with_info_for_booking.php:46
+#: lib/views/messages/quick_form_chat_box.php:12
+#, fuzzy
+msgid "Type your message here.."
+msgstr "Wpisz swoją wiadomość tutaj..."
+
+#: lib/controllers/service_categories_controller.php:68
+#: lib/views/locations/index.php:3
+#, fuzzy
+msgid "Uncategorized"
+msgstr "Bez kategorii"
+
+#: lib/views/webhooks/_webhook_form.php:3
+#, fuzzy
+msgid "Updated Booking"
+msgstr "Zaktualizowana rezerwacja"
+
+#: lib/helpers/feature_webhooks_helper.php:65
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#: lib/helpers/feature_webhooks_helper.php:31
+#, fuzzy
+msgid "URL:"
+msgstr "URL:"
+
+#: lib/helpers/feature_coupons_helper.php:136
+#, fuzzy
+msgid "Use Coupon"
+msgstr "Użyj kuponu"
+
+#: lib/views/coupons/_form.php:29
+#, fuzzy
+msgid "Use Limit Per Customer"
+msgstr "Limit użyć na klienta"
+
+#: lib/controllers/roles_controller.php:68
+#, fuzzy
+msgid "User Roles Updated"
+msgstr "Role użytkownika zaktualizowane"
+
+#: lib/views/roles/_form.php:31
+#, fuzzy
+msgid "Users"
+msgstr "Użytkownicy"
+
+#: lib/views/roles/_form.php:76
+#, php-format
+msgid ""
+"Users with \"%s\" role are allowed to perform all available actions on any "
+"agent, location and service records."
+msgstr ""
+"Użytkownicy z rolą \"%s\" mogą wykonywać wszystkie dostępne działania na "
+"dowolnych rekordach pracowników, lokalizacji i usług."
+
+#: lib/views/roles/_form.php:96
+#, fuzzy, php-format
+msgid ""
+"Users with \"%s\" role are permitted to execute all available actions in the "
+"system."
+msgstr ""
+"Użytkownicy z rolą \"%s\" mogą wykonywać wszystkie dostępne działania w "
+"systemie."
+
+#: lib/views/roles/_form.php:79
+#, php-format
+msgid ""
+"Users with \"%s\" role can execute permitted actions only on records that "
+"belong to a LatePoint agent they are connected to."
+msgstr ""
+"Użytkownicy z rolą \"%s\" mogą wykonywać dozwolone działania tylko na "
+"rekordach, które należą do pracownika LatePoint, z którym są połączeni."
+
+#: lib/helpers/feature_service_extras_helper.php:458
+#: lib/helpers/feature_service_extras_helper.php:468
+#: lib/views/agents/_form.php:78
+#, fuzzy
+msgid "Value"
+msgstr "Wartość"
+
+#: lib/views/bundles/_form.php:27
+#, fuzzy
+msgid "Visibility"
+msgstr "Widoczność"
+
+#: lib/views/bundles/_form.php:27
+msgid "Visible only to admins and agents"
+msgstr "Widoczne tylko dla administratorów i pracowników"
+
+#: lib/views/custom_fields/_custom_field_form.php:102
+#, fuzzy
+msgid "Visible to Everyone"
+msgstr "Widoczne dla wszystkich"
+
+#: lib/views/bundles/_form.php:27
+#, fuzzy
+msgid "Visible to everyone"
+msgstr "Widoczne dla wszystkich"
+
+#: lib/helpers/webhooks_helper.php:26
+#, fuzzy
+msgid "Webhook ran successfully"
+msgstr "Webhook został pomyślnie uruchomiony"
+
+#: lib/controllers/webhooks_controller.php:28
+#, fuzzy
+msgid "Webhook Removed"
+msgstr "Webhook usunięty"
+
+#: lib/helpers/feature_webhooks_helper.php:6
+#, fuzzy
+msgid "Webhook Run"
+msgstr "Uruchomienie webhooka"
+
+#: lib/controllers/webhooks_controller.php:52
+#, fuzzy
+msgid "Webhook Saved"
+msgstr "Webhook zapisany"
+
+#: lib/views/webhooks/_webhook_form.php:26
+#, fuzzy
+msgid "Webhook URL"
+msgstr "URL webhooka"
+
+#: lib/views/webhooks/_webhook_form.php:26
+msgid "Webhook URL (https://example.com)"
+msgstr ""
+
+#: lib/helpers/webhooks_helper.php:69
+#, fuzzy
+msgid "Webhook URL can not be empty"
+msgstr "URL webhooka nie może być pusty"
+
+#: lib/helpers/webhooks_helper.php:71
+#, fuzzy
+msgid "Webhook URL must be a valid URL"
+msgstr "URL webhooka musi być prawidłowym adresem URL"
+
+#: lib/controllers/webhooks_controller.php:18
+#: lib/controllers/webhooks_controller.php:19
+#, fuzzy
+msgid "Webhooks"
+msgstr "Webhooki"
+
+#: lib/helpers/feature_timezone_helper.php:292
+#, fuzzy
+msgid "Will appear on datepicker step and customer dashboard"
+msgstr "Pojawi się na etapie wyboru daty i na panelu klienta"
+
+#: lib/helpers/feature_service_durations_helper.php:98
+#, fuzzy
+msgid ""
+"Will show duration in minutes, even when duration is longer than 60 minutes"
+msgstr "Pokaże czas trwania w minutach, nawet jeśli czas przekracza 60 minut"
+
+#: lib/views/roles/edit_wp_user.php:19
+#, fuzzy
+msgid "WP User"
+msgstr "Użytkownik WP"
+
+#: lib/helpers/custom_fields_helper.php:303
+#, fuzzy
+msgid "Yes"
+msgstr "Tak"
+
+#: lib/helpers/feature_service_extras_helper.php:361
+#, fuzzy, php-format
+msgid "You are not allowed to select more than %d service extras!"
+msgstr "Nie możesz wybrać więcej niż %d dodatków do usług!"
+
+#: lib/helpers/feature_service_extras_helper.php:356
+#, fuzzy, php-format
+msgid "You are required to select at least %d service extras!"
+msgstr "Musisz wybrać co najmniej %d dodatków do usług!"
+
+#: lib/helpers/feature_messages_helper.php:139
+msgid "You don't have any appointments to send messages."
+msgstr "Nie masz żadnych rezerwacji do wysłania wiadomości."
+
+#: lib/helpers/messages_helper.php:133 lib/helpers/messages_helper.php:138
+#, fuzzy
+msgid "You have a new message"
+msgstr "Masz nową wiadomość"
+
+#: lib/views/roles/_form.php:62
+#, fuzzy, php-format
+msgid ""
+"You have not assigned any WordPress users to this role. Create a new WP user "
+"or edit existing user and assign them a role called: %s"
+msgstr ""
+"Nie przypisałeś żadnych użytkowników WordPress do tej roli. Utwórz nowego "
+"użytkownika WP lub edytuj istniejącego i przypisz im rolę nazwaną: %s"
+
+#: lib/helpers/feature_custom_fields_helper.php:523
+#, fuzzy
+msgid ""
+"You have not created any custom fields for booking, this step will be skipped"
+msgstr ""
+"Nie utworzyłeś żadnych pól niestandardowych dla rezerwacji, ten krok "
+"zostanie pominięty"
+
+#: lib/helpers/feature_service_extras_helper.php:441
+#, fuzzy
+msgid "You have not created any service extras yet."
+msgstr "Nie utworzyłeś jeszcze żadnych dodatków do usług."
+
+#: lib/helpers/webhooks_helper.php:74
+#, fuzzy
+msgid "You have to select trigger event for this hook"
+msgstr "Musisz wybrać zdarzenie wyzwalające dla tego webhooka"
+
+#: lib/helpers/coupons_helper.php:159
+#, fuzzy, php-format
+msgid "You need to have at least %d orders to use this coupon"
+msgstr "Musisz mieć co najmniej %d zamówień, aby użyć tego kuponu"
+
+#: lib/helpers/feature_messages_helper.php:96
+msgid "Your Appointments"
+msgstr "Twoje rezerwacje"
+
+#: lib/views/messages/backend_chat_box.php:5
+#, fuzzy
+msgid "Your Conversations"
+msgstr "Twoje rozmowy"
