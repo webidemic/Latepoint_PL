@@ -1,0 +1,7207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LatePoint\n"
+"POT-Creation-Date: 2024-09-20 14:09-0700\n"
+"PO-Revision-Date: 2025-02-04 19:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: latepoint.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: public/javascripts/vendor\n"
+"X-Poedit-SearchPathExcluded-3: lib/assets/javascripts/vendor\n"
+"X-Poedit-SearchPathExcluded-4: lib/assets/stylesheets/vendor\n"
+"X-Poedit-SearchPathExcluded-5: vendor\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pl-PL\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1"
+
+#: latepoint.php:1347 latepoint.php:1476
+msgid " minutes"
+msgstr " minut"
+
+#: lib/views/customer_cabinet/dashboard.php:30 
+#: lib/views/customer_cabinet/dashboard.php:63 
+#: lib/views/customer_cabinet/dashboard.php:80
+#, php-format
+msgid "%d Appointments"
+msgstr "%d rezerwacji"
+
+#: lib/helpers/calendar_helper.php:378
+#, fuzzy
+#, php-format
+msgid "%d Available"
+msgstr "%d dostępne"
+
+#: lib/views/customer_cabinet/dashboard.php:47
+#, fuzzy
+#, php-format
+msgid "%d Bundles"
+msgstr "%d pakietów"
+
+#: lib/helpers/bundles_helper.php:50 lib/helpers/bundles_helper.php:150
+#, php-format
+msgid "%d Cancelled Appointment"
+msgid_plural "%d Cancelled Appointments"
+msgstr[0] "%d anulowana rezerwacja"
+msgstr[1] "%d anulowane rezerwacje"
+msgstr[2] ""
+
+#: lib/views/services/index.php:59
+#, fuzzy
+#, php-format
+msgid "%d Disabled Service"
+msgid_plural "%d Disabled Services"
+msgstr[0] "%d wyłączona usługa"
+msgstr[1] "%d wyłączonych usług"
+msgstr[2] ""
+
+#: lib/views/bookings/_booking_data.php:88
+#, fuzzy
+#, php-format
+msgid "%d minutes"
+msgstr "%d minut"
+
+#: lib/views/bookings/grouped_bookings_quick_view.php:15 
+#: lib/views/calendars/scopes/_booking_box_on_calendar.php:30
+#, fuzzy
+#, php-format
+msgid "%d of %d"
+msgstr "%d z %d"
+
+#: lib/views/customer_cabinet/_bundle_tile.php:23
+#, fuzzy
+#, php-format
+msgid "%d of %d Scheduled"
+msgstr "%d z %d zaplanowane"
+
+#: lib/helpers/bundles_helper.php:36 lib/helpers/bundles_helper.php:129
+#, fuzzy
+#, php-format
+msgid "%d sessions"
+msgstr "%d sesji"
+
+#: lib/models/model.php:1060
+#, fuzzy
+#, php-format
+msgid "%s can not be blank"
+msgstr "%s nie może być puste"
+
+#: lib/models/model.php:1076
+#, fuzzy
+#, php-format
+msgid "%s has to be unique"
+msgstr "%s musi być unikalny"
+
+#: lib/models/model.php:1051
+#, fuzzy
+#, php-format
+msgid "%s is not valid"
+msgstr "%s jest nieprawidłowy"
+
+#: lib/helpers/notifications_helper.php:74
+#, fuzzy
+#, php-format
+msgid "%s notifications are disabled"
+msgstr "Powiadomienia %s są wyłączone"
+
+#: lib/views/settings/notifications.php:17
+#, fuzzy
+#, php-format
+msgid "%s Processors"
+msgstr "%s procesorów"
+
+#: lib/helpers/events_helper.php:179
+#, fuzzy
+#, php-format
+msgid "+ %d more"
+msgstr "+ %d więcej"
+
+#: lib/helpers/work_periods_helper.php:696
+#, fuzzy
+#, php-format
+msgid "+%d More"
+msgstr "+%d więcej"
+
+#: lib/views/bookings/_booking_data.php:179
+#, fuzzy
+msgid "+1 day"
+msgstr "+1 dzień"
+
+#: lib/helpers/time_helper.php:146 lib/helpers/time_helper.php:159
+#, fuzzy
+msgid "12-hour clock"
+msgstr "12-godzinny zegar"
+
+#: lib/helpers/time_helper.php:147 lib/helpers/time_helper.php:159
+#, fuzzy
+msgid "24-hour clock"
+msgstr "24-godzinny zegar"
+
+#: blocks/controls/TypographyControl.js:58
+#, fuzzy
+msgid "400"
+msgstr "400"
+
+#: blocks/controls/TypographyControl.js:59
+#, fuzzy
+msgid "500"
+msgstr "500"
+
+#: blocks/controls/TypographyControl.js:60
+#, fuzzy
+msgid "600"
+msgstr "600"
+
+#: blocks/controls/TypographyControl.js:61
+#, fuzzy
+msgid "700"
+msgstr "700"
+
+#: lib/helpers/steps_helper.php:1943
+msgid "A link to open information about agent will be added to each agent tile"
+msgstr ""
+"Link do otwarcia informacji o pracowniku zostanie dodany do każdej kafelki "
+"pracownika"
+
+#: lib/helpers/roles_helper.php:278
+msgid "Ability to connect agents to services and locations."
+msgstr "Możliwość łączenia pracowników z usługami i lokalizacjami."
+
+#: lib/helpers/roles_helper.php:279
+#, fuzzy
+msgid "Ability to send messages to customers (available with chat addon)."
+msgstr ""
+"Możliwość wysyłania wiadomości do klientów (dostępne z dodatkiem do czatu)."
+
+#: lib/controllers/customers_controller.php:159
+#, fuzzy
+msgid "Access Restricted"
+msgstr "Dostęp Ograniczony"
+
+#: lib/helpers/roles_helper.php:277
+#, fuzzy
+msgid ""
+"Access to all settings pages, including general schedule and booking steps."
+msgstr ""
+"Dostęp do wszystkich stron ustawień, w tym ogólnego harmonogramu i kroków "
+"rezerwacji."
+
+#: lib/controllers/customer_cabinet_controller.php:398
+#, fuzzy
+msgid "Account Password Set"
+msgstr "Hasło Konta Ustawione"
+
+#: lib/views/activities/index.php:34 lib/views/activities/index.php:60
+#, fuzzy
+msgid "Action"
+msgstr "Działanie"
+
+#: lib/views/activities/index.php:32 lib/views/activities/index.php:58
+#, fuzzy
+msgid "Action By"
+msgstr "Działanie wykonane przez"
+
+#: lib/controllers/activities_controller.php:52
+#, fuzzy
+msgid "Action By User ID"
+msgstr "Akcja Według ID Użytkownika"
+
+#: lib/controllers/activities_controller.php:51
+#, fuzzy
+msgid "Action By User Type"
+msgstr "Akcja Według Typu Użytkownika"
+
+#: lib/misc/process_action.php:109
+#, fuzzy
+msgid "Action Type"
+msgstr "Typ akcji"
+
+#: lib/views/process_jobs/index.php:25 lib/views/process_jobs/index.php:59 
+#: lib/views/processes/_form.php:48
+#, fuzzy
+msgid "Actions"
+msgstr "Działania"
+
+#: lib/views/processes/test_preview.php:14
+#, fuzzy
+msgid "Actions to trigger:"
+msgstr "Działania do wywołania:"
+
+#: lib/views/addons/load_addons_list.php:112
+#, fuzzy
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: lib/views/updates/_license_form.php:27
+#, fuzzy
+msgid "Activate Licence Key"
+msgstr "Aktywuj klucz licencyjny"
+
+#: latepoint.php:1457 lib/misc/process_action.php:110 
+#: lib/views/addons/load_addons_list.php:95 lib/views/processes/_form.php:22 
+#: lib/views/services/_form.php:22
+#, fuzzy
+msgid "Active"
+msgstr "Aktywny"
+
+#: lib/controllers/activities_controller.php:20
+#, fuzzy
+msgid "Activities"
+msgstr "Aktywności"
+
+#: lib/controllers/activities_controller.php:33
+#, fuzzy
+msgid "Activities log cleared"
+msgstr "Dziennik aktywności wyczyszczony"
+
+#: lib/helpers/menu_helper.php:81 lib/views/bookings/view_booking_log.php:13 
+#: lib/views/customers/view_customer_log.php:13 
+#: lib/views/orders/view_order_log.php:13 lib/views/partials/_top_bar.php:20
+#, fuzzy
+msgid "Activity Log"
+msgstr "Dziennik aktywności"
+
+#: lib/helpers/roles_helper.php:299
+#, fuzzy
+msgid "Activity Logs"
+msgstr "Dzienniki aktywności"
+
+#: lib/controllers/activities_controller.php:156
+#, fuzzy
+msgid "Activity Removed"
+msgstr "Aktywność Usunięta"
+
+#: lib/views/customers/quick_edit.php:107
+#, fuzzy
+msgid "Add"
+msgstr "Dodaj"
+
+#: lib/helpers/steps_helper.php:1945
+msgid "Add \"Any Agent\" option to agent selection"
+msgstr "Dodanie opcji \"Dowolny pracownik\" do wyboru pracownika"
+
+#: lib/views/processes/_form.php:60
+#, fuzzy
+msgid "Add Action"
+msgstr "Dodaj działanie"
+
+#: lib/views/search/query_results.php:49 
+#: lib/views/wizard/steps/_list_agents.php:27
+msgid "Add Agent"
+msgstr "Dodaj pracownika"
+
+#: lib/views/orders/quick_edit.php:52 lib/views/orders/quick_edit.php:56
+#, fuzzy
+msgid "Add Another Item"
+msgstr "Dodaj kolejny element"
+
+#: lib/views/wizard/steps/_list_services.php:46
+#, fuzzy
+msgid "Add Another Service"
+msgstr "Dodaj kolejną usługę"
+
+#: lib/views/settings/custom_day_schedule_form.php:84
+#, fuzzy
+msgid "Add another work period"
+msgstr "Dodaj kolejny okres pracy"
+
+#: lib/helpers/work_periods_helper.php:725
+#, fuzzy
+#, php-format
+msgid "Add another work period for %s"
+msgstr "Dodaj kolejny okres pracy dla %s"
+
+#: lib/views/dashboard/widget_upcoming_appointments.php:82 
+#: lib/views/search/query_results.php:20
+msgid "Add Appointment"
+msgstr "Dodaj rezerwację"
+
+#: lib/views/bookings/grouped_bookings_quick_view.php:53
+#, fuzzy
+msgid "Add Booking"
+msgstr "Dodaj rezerwację"
+
+#: lib/views/services/_form.php:17
+#, fuzzy
+msgid "Add Category"
+msgstr "Dodaj kategorię"
+
+#: lib/views/booking_form_settings/previews/_customer.php:20 
+#: lib/views/steps/partials/_contact_form.php:10
+#, fuzzy
+msgid "Add Comments"
+msgstr "Dodaj komentarze"
+
+#: lib/views/customers/index.php:103 lib/views/search/query_results.php:33
+#, fuzzy
+msgid "Add Customer"
+msgstr "Dodaj klienta"
+
+#: lib/helpers/work_periods_helper.php:526 
+#: lib/helpers/work_periods_helper.php:602
+#, fuzzy
+msgid "Add Day"
+msgstr "Dodaj dzień"
+
+#: lib/views/services/_form.php:189
+msgid "Add First Agent"
+msgstr "Dodaj pierwszego pracownika"
+
+#: lib/views/bookings/index.php:153
+msgid "Add First Appointment"
+msgstr "Dodaj pierwszą rezerwację"
+
+#: lib/views/steps/partials/_cart_summary.php:150
+#, fuzzy
+msgid "Add More"
+msgstr "Dodaj więcej"
+
+#: lib/views/steps/partials/_cart_summary.php:192
+#, fuzzy
+msgid "Add more items to this order"
+msgstr "Dodaj więcej elementów do tego zamówienia"
+
+#: lib/views/search/query_results.php:64 lib/views/services/_form.php:248 
+#: lib/views/services/index.php:13 lib/views/services/index.php:36 
+#: lib/views/services/index.php:50
+#, fuzzy
+msgid "Add Service"
+msgstr "Dodaj usługę"
+
+#: lib/controllers/wizard_controller.php:32 
+#: lib/views/wizard/steps/_services.php:2
+#, fuzzy
+msgid "Add Services"
+msgstr "Dodaj usługi"
+
+#: lib/views/wizard/steps/_settings.php:2
+#, fuzzy
+msgid "Add services you offer"
+msgstr "Dodaj usługi, które oferujesz"
+
+#: lib/views/bookings/_full_summary.php:31 
+#: lib/views/customer_cabinet/_booking_tile.php:63 
+#: lib/views/steps/_confirmation.php:26 lib/views/steps/_confirmation.php:65
+#, fuzzy
+msgid "Add to Calendar"
+msgstr "Dodaj do kalendarza"
+
+#: lib/views/orders/quick_edit.php:235
+#, fuzzy
+msgid "Add Transaction"
+msgstr "Dodaj transakcję"
+
+#: lib/views/processes/index.php:25
+#, fuzzy
+msgid "Add Workflow"
+msgstr "Dodaj przepływ pracy"
+
+#: lib/controllers/addons_controller.php:18 lib/helpers/menu_helper.php:63
+#, fuzzy
+msgid "Add-ons"
+msgstr "Dodatki"
+
+#: lib/views/shared/_template_variables.php:58
+#, fuzzy
+msgid "Additional Emails:"
+msgstr "Dodatkowe e-maile:"
+
+#: lib/views/shared/_template_variables.php:59
+#, fuzzy
+msgid "Additional Phone Numbers:"
+msgstr "Dodatkowe numery telefonów:"
+
+#: lib/views/settings/general.php:32
+#, fuzzy
+msgid "Additional Statuses (comma separated)"
+msgstr "Dodatkowe statusy (oddzielone przecinkami)"
+
+#: lib/controllers/addons_controller.php:37
+#, fuzzy
+msgid "Addon \"Pro Features\" has been installed"
+msgstr "Dodatek \"Pro Features\" został zainstalowany"
+
+#: lib/controllers/addons_controller.php:77
+#, fuzzy
+msgid "Addon activated"
+msgstr "Dodatek aktywowany"
+
+#: lib/controllers/addons_controller.php:65
+#, fuzzy
+msgid "Addon deactivated"
+msgstr "Dodatek dezaktywowany"
+
+#: lib/controllers/addons_controller.php:55
+#, fuzzy
+msgid "Addon deleted"
+msgstr "Dodatek usunięty"
+
+#: lib/controllers/addons_controller.php:100
+#, fuzzy
+msgid "Addon installed successfully."
+msgstr "Dodatek zainstalowany pomyślnie."
+
+#: lib/views/customers/quick_edit.php:60
+#, fuzzy
+msgid "Admin notes (visible only to admins)"
+msgstr "Notatki administratora (widoczne tylko dla administratorów)"
+
+#: lib/misc/role.php:23 lib/misc/role.php:110 lib/misc/user.php:319
+#, fuzzy
+msgid "Administrator"
+msgstr "Administrator"
+
+#: lib/controllers/bookings_controller.php:216 
+#: lib/controllers/default_agent_controller.php:23 
+#: lib/helpers/agent_helper.php:109 lib/helpers/steps_helper.php:2337 
+#: lib/misc/process_event.php:208 lib/misc/process_event.php:348 
+#: lib/misc/process_event.php:358 lib/misc/user.php:320 
+#: lib/models/agent_model.php:372 lib/models/booking_model.php:40 
+#: lib/models/booking_model.php:120 lib/views/bookings/_booking_data.php:131 
+#: lib/views/bookings/index.php:48 lib/views/bookings/index.php:116 
+#: lib/views/bookings/pending_approval.php:21 
+#: lib/views/calendars/scopes/_day.php:63 
+#: lib/views/calendars/scopes/_month.php:29 
+#: lib/views/customer_cabinet/_booking_tile.php:49 
+#: lib/views/shared/_template_variables.php:50
+msgid "Agent"
+msgstr "Pracownik"
+
+#: lib/controllers/default_agent_controller.php:61
+msgid "Agent Created. ID:"
+msgstr "Utworzono Pracownika. ID:"
+
+#: lib/controllers/bookings_controller.php:218
+msgid "Agent Email"
+msgstr "E-mail Pracownika"
+
+#: lib/controllers/activities_controller.php:46
+msgid "Agent ID"
+msgstr "ID Pracownika"
+
+#: lib/controllers/bookings_controller.php:217
+msgid "Agent Phone"
+msgstr "Telefon Pracownika"
+
+#: lib/helpers/activities_helper.php:28
+msgid "Agent Profile Update"
+msgstr "Profil pracownika zaktualizowany"
+
+#: lib/controllers/default_agent_controller.php:64
+msgid "Agent Updated. ID:"
+msgstr "Zaktualizowano Pracownika. ID:"
+
+#: lib/helpers/settings_helper.php:202
+msgid "Agent with the least bookings on that day"
+msgstr "Pracownik z najmniejszą liczbą rezerwacji tego dnia"
+
+#: lib/helpers/settings_helper.php:201
+msgid "Agent with the most bookings on that day"
+msgstr "Pracownik z największą liczbą rezerwacji tego dnia"
+
+#: lib/controllers/default_agent_controller.php:37 
+#: lib/controllers/default_agent_controller.php:38 
+#: lib/helpers/menu_helper.php:60 lib/helpers/roles_helper.php:300 
+#: lib/views/search/query_results.php:38
+msgid "Agents"
+msgstr "Pracownicy"
+
+#: lib/views/settings/general.php:224
+msgid "Agents can only be present in one location at a time"
+msgstr "Pracownicy mogą być obecni tylko w jednej lokalizacji jednocześnie"
+
+#: lib/views/services/_form.php:120
+msgid "Agents Who Offer This Service"
+msgstr "Pracownicy oferujący tę usługę"
+
+#: lib/views/calendars/view.php:136 
+#: lib/views/services/_service_index_item.php:8
+msgid "Agents:"
+msgstr "Pracownicy:"
+
+#: lib/helpers/time_helper.php:90
+#, fuzzy
+msgid "ago"
+msgstr "temu"
+
+#: blocks/src/book-button/edit.js:290
+#, fuzzy
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+#: lib/controllers/bookings_controller.php:98 lib/views/calendars/view.php:63 
+#: lib/views/calendars/view.php:109 lib/views/calendars/view.php:137 
+#: lib/views/services/_form.php:138 lib/views/services/_form.php:140 
+#: lib/views/services/_form.php:146
+#, fuzzy
+msgid "All"
+msgstr "Wszystkie"
+
+#: lib/helpers/events_helper.php:319 lib/views/bookings/index.php:75 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:23 
+#: lib/views/dashboard/widget_upcoming_appointments.php:30 
+#: lib/views/events/events_day_view.php:16
+msgid "All Agents"
+msgstr "Wszyscy pracownicy"
+
+#: lib/views/bookings/index.php:76 
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:14
+#, fuzzy
+msgid "All Locations"
+msgstr "Wszystkie lokalizacje"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:14 
+#: lib/views/dashboard/widget_upcoming_appointments.php:20
+#, fuzzy
+msgid "All locations"
+msgstr "Wszystkie lokalizacje"
+
+#: lib/helpers/events_helper.php:320 lib/views/bookings/index.php:63 
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:20 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:32 
+#: lib/views/dashboard/widget_upcoming_appointments.php:40 
+#: lib/views/events/events_day_view.php:17
+#, fuzzy
+msgid "All Services"
+msgstr "Wszystkie usługi"
+
+#: lib/views/process_jobs/index.php:36
+#, fuzzy
+msgid "All Statuses"
+msgstr "Wszystkie statusy"
+
+#: lib/views/activities/index.php:37 lib/views/process_jobs/index.php:32
+#, fuzzy
+msgid "All Types"
+msgstr "Wszystkie typy"
+
+#: lib/views/process_jobs/index.php:33
+#, fuzzy
+msgid "All Workflows"
+msgstr "Wszystkie przepływy pracy"
+
+#: lib/views/settings/general.php:284
+#, fuzzy
+msgid "Allow customers cancel their bookings"
+msgstr "Pozwól klientom anulować swoje rezerwacje"
+
+#: lib/views/settings/general.php:247
+#, fuzzy
+msgid "Allow customers reschedule their bookings"
+msgstr "Pozwól klientom zmieniać terminy swoich rezerwacji"
+
+#: lib/views/settings/general.php:453
+#, fuzzy
+msgid "Allow non admins to download table data as csv"
+msgstr ""
+"Pozwól osobom innym niż administratorzy pobierać dane tabeli jako plik CSV"
+
+#: lib/views/settings/payments.php:43
+#, fuzzy
+msgid "Allow Paying Locally"
+msgstr "Zezwól na płatności lokalne"
+
+#: lib/views/settings/general.php:232
+msgid ""
+"Allows an agent to be booked for different services within the same timeslot"
+msgstr ""
+"Pozwala pracownikowi być zarezerwowanym na różne usługi w tym samym "
+"przedziale czasowym"
+
+#: lib/views/customer_cabinet/request_password_reset_token.php:13 
+#: lib/views/customer_cabinet/request_password_reset_token.php:20
+#, fuzzy
+msgid "Already have a key?"
+msgstr "Masz już klucz?"
+
+#: lib/views/booking_form_settings/previews/_customer.php:7 
+#: lib/views/steps/_customer.php:31
+#, fuzzy
+msgid "Already have an account?"
+msgstr "Masz już konto?"
+
+#: lib/helpers/form_helper.php:501
+#, fuzzy
+msgid "am"
+msgstr "am"
+
+#: lib/controllers/orders_controller.php:678 
+#: lib/controllers/transactions_controller.php:104 
+#: lib/views/transactions/edit_form.php:29 lib/views/transactions/index.php:36 
+#: lib/views/transactions/index.php:48 lib/views/transactions/index.php:74
+#, fuzzy
+msgid "Amount"
+msgstr "Kwota"
+
+#: lib/views/shared/_template_variables.php:73
+#, fuzzy
+msgid "Amount:"
+msgstr "Kwota:"
+
+#: lib/helpers/steps_helper.php:1625 lib/helpers/steps_helper.php:1634 
+#: lib/helpers/steps_helper.php:1652
+#, fuzzy
+msgid ""
+"An account with that email address already exists. Please try signing in."
+msgstr "Konto z tym adresem e-mail już istnieje. Spróbuj się zalogować."
+
+#: lib/misc/process_event.php:277
+#, fuzzy
+msgid "AND"
+msgstr "ORAZ"
+
+#: lib/helpers/steps_helper.php:1615
+#, fuzzy
+msgid "Another customer is registered with this email."
+msgstr "Inny klient jest zarejestrowany z tym adresem e-mail."
+
+#: lib/helpers/agent_helper.php:141 lib/helpers/agent_helper.php:151
+msgid "Any Agent"
+msgstr "Dowolny pracownik"
+
+#: lib/helpers/blocks_helper.php:22 lib/helpers/blocks_helper.php:70
+#, fuzzy
+msgid "Any Available"
+msgstr "Dowolny dostępny"
+
+#: lib/models/booking_model.php:856
+msgid "Any Available Agent"
+msgstr "Dowolny dostępny pracownik"
+
+#: lib/views/booking_form_settings/show.php:15
+#, fuzzy
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: lib/helpers/booking_helper.php:151
+#, fuzzy
+msgid "Apple Calendar"
+msgstr "Kalendarz Apple"
+
+#: lib/views/settings/general.php:206
+#, fuzzy
+msgid ""
+"Applies formatting on phone fields based on the country selected (not "
+"recommended for countries that have multiple NSN lengths)"
+msgstr ""
+"Zastosuj formatowanie w polach telefonu w zależności od wybranego kraju "
+"(niezalecane dla krajów z wieloma długościami NSN)"
+
+#: lib/views/booking_form_settings/show.php:56
+#, fuzzy
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: lib/views/shared/_template_variables.php:21
+msgid "Appointment"
+msgstr "Rezerwacja"
+
+#: lib/helpers/activities_helper.php:26
+msgid "Appointment Deleted"
+msgstr "Rezerwacja usunięta"
+
+#: lib/helpers/activities_helper.php:25
+msgid "Appointment Edited"
+msgstr "Rezerwacja zaktualizowana"
+
+#: lib/views/shared/_template_variables.php:23
+msgid "Appointment ID#:"
+msgstr "Identyfikator spotkania:"
+
+#. Description of the plugin/theme
+msgid "Appointment Scheduling Software for WordPress"
+msgstr "Oprogramowanie do planowania rezerwacji dla WordPress"
+
+#: lib/views/settings/general.php:6
+msgid "Appointment Settings"
+msgstr "Ustawienia rezerwacji"
+
+#: lib/helpers/activities_helper.php:24
+msgid "Appointment Status Changed"
+msgstr "Status rezerwacji został zmieniony"
+
+#: lib/helpers/activities_helper.php:144
+#, php-format
+msgid "Appointment status changed from %s to %s"
+msgstr "Status rezerwacji zmieniono z %s na %s"
+
+#: lib/controllers/bookings_controller.php:340 
+#: lib/controllers/customer_cabinet_controller.php:195 
+#: lib/controllers/manage_booking_by_key_controller.php:179 
+#: lib/controllers/manage_booking_by_key_controller.php:202
+msgid "Appointment Status Updated"
+msgstr "Status Rezerwacji Zaktualizowany"
+
+#: lib/helpers/booking_helper.php:457
+#, php-format
+msgid "Appointment with %s for %s"
+msgstr "Rezerwacja z %s na %s"
+
+#: lib/controllers/bookings_controller.php:18 
+#: lib/controllers/calendars_controller.php:18 
+#: lib/controllers/steps_controller.php:26 
+#: lib/controllers/steps_controller.php:28 lib/helpers/menu_helper.php:47 
+#: lib/helpers/menu_helper.php:101 lib/views/bookings/index.php:25 
+#: lib/views/customer_cabinet/dashboard.php:16 
+#: lib/views/customers/quick_edit.php:104 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:61 
+#: lib/views/search/query_results.php:9
+msgid "Appointments"
+msgstr "Rezerwacje"
+
+#: lib/views/bookings/pending_approval.php:57
+#, fuzzy
+msgid "Approve"
+msgstr "Zatwierdź"
+
+#: lib/helpers/booking_helper.php:1256
+#, fuzzy
+msgid "Approved"
+msgstr "Zatwierdzony"
+
+#: lib/helpers/util_helper.php:232 lib/helpers/util_helper.php:267
+#, fuzzy
+msgid "Apr"
+msgstr "Kwi"
+
+#: lib/helpers/util_helper.php:220 lib/helpers/util_helper.php:255
+#, fuzzy
+msgid "April"
+msgstr "Kwiecień"
+
+#: lib/views/customers/quick_edit.php:71
+#, fuzzy
+msgid ""
+"Are you sure you want to allow this customer to book without logging in?"
+msgstr ""
+"Czy na pewno chcesz pozwolić temu klientowi na rezerwację bez logowania?"
+
+#: latepoint.php:1453
+#, fuzzy
+msgid "Are you sure you want to approve this booking?"
+msgstr "Czy na pewno chcesz zatwierdzić tę rezerwację?"
+
+#: latepoint.php:1325 lib/views/customer_cabinet/_booking_tile.php:35 
+#: lib/views/manage_booking_by_key/show.php:39
+msgid "Are you sure you want to cancel this appointment?"
+msgstr "Czy na pewno chcesz anulować tę rezerwację?"
+
+#: lib/views/process_jobs/_table_body.php:21
+#, fuzzy
+msgid "Are you sure you want to cancel this scheduled job?"
+msgstr "Czy na pewno chcesz anulować to zaplanowane zadanie?"
+
+#: lib/views/activities/index.php:21
+#, fuzzy
+msgid "Are you sure you want to clear the activities log?"
+msgstr "Czy na pewno chcesz wyczyścić dziennik aktywności?"
+
+#: lib/misc/process_action.php:105 lib/misc/process_action.php:117
+#, fuzzy
+msgid "Are you sure you want to delete this action?"
+msgstr "Czy na pewno chcesz usunąć tę akcję?"
+
+#: lib/views/activities/view.php:32
+#, fuzzy
+msgid "Are you sure you want to delete this activity record?"
+msgstr "Czy na pewno chcesz usunąć ten wpis aktywności?"
+
+#: lib/views/customers/quick_edit.php:156
+msgid ""
+"Are you sure you want to delete this customer? It will remove all "
+"appointments and transactions associated with this customer."
+msgstr ""
+"Czy na pewno chcesz usunąć tego klienta? Spowoduje to usunięcie wszystkich "
+"rezerwacji i transakcji powiązanych z tym klientem."
+
+#: lib/views/orders/quick_edit.php:253
+msgid ""
+"Are you sure you want to delete this order? All appointments that are "
+"attached ot this order will be removed as well"
+msgstr ""
+"Czy na pewno chcesz usunąć to zamówienie? Wszystkie rezerwacje powiązane z "
+"tym zamówieniem również zostaną usunięte."
+
+#: lib/views/processes/_form.php:66 lib/views/processes/_form.php:78
+#, fuzzy
+msgid "Are you sure you want to delete this process?"
+msgstr "Czy na pewno chcesz usunąć ten proces?"
+
+#: lib/views/transactions/edit_form.php:18
+#, fuzzy
+msgid "Are you sure you want to delete this transaction?"
+msgstr "Czy na pewno chcesz usunąć tę transakcję?"
+
+#: latepoint.php:1454
+#, fuzzy
+msgid "Are you sure you want to reject this booking?"
+msgstr "Czy na pewno chcesz odrzucić tę rezerwację?"
+
+#: lib/helpers/work_periods_helper.php:476
+#, fuzzy
+msgid "Are you sure you want to remove custom schedule for this date range?"
+msgstr ""
+"Czy na pewno chcesz usunąć niestandardowy harmonogram dla tego zakresu dat?"
+
+#: lib/helpers/work_periods_helper.php:503
+#, fuzzy
+msgid "Are you sure you want to remove custom schedule for this day?"
+msgstr "Czy na pewno chcesz usunąć niestandardowy harmonogram dla tego dnia?"
+
+#: lib/helpers/work_periods_helper.php:572
+#, fuzzy
+msgid "Are you sure you want to remove day off range?"
+msgstr "Czy na pewno chcesz usunąć zakres dni wolnych?"
+
+#: lib/views/wizard/steps/_list_agents.php:10
+msgid "Are you sure you want to remove this agent?"
+msgstr "Czy na pewno chcesz usunąć tego pracownika?"
+
+#: lib/helpers/orders_helper.php:272
+#, fuzzy
+msgid "Are you sure you want to remove this booking from the order?"
+msgstr "Czy na pewno chcesz usunąć tę rezerwację z zamówienia?"
+
+#: lib/helpers/work_periods_helper.php:590
+#, fuzzy
+msgid "Are you sure you want to remove this day off?"
+msgstr "Czy na pewno chcesz usunąć ten dzień wolny?"
+
+#: lib/helpers/orders_helper.php:327
+#, fuzzy
+msgid "Are you sure you want to remove this item from the order?"
+msgstr "Czy na pewno chcesz usunąć ten element z zamówienia?"
+
+#: lib/helpers/orders_helper.php:309
+msgid ""
+"Are you sure you want to remove this item from the order? All associated "
+"appointments will be removed as well."
+msgstr ""
+"Czy na pewno chcesz usunąć ten element z zamówienia? Wszystkie powiązane "
+"rezerwacje zostaną również usunięte."
+
+#: lib/helpers/booking_helper.php:1700 lib/helpers/bundles_helper.php:104 
+#: lib/views/steps/partials/_cart_summary.php:59
+#, fuzzy
+msgid "Are you sure you want to remove this item from your cart?"
+msgstr "Czy na pewno chcesz usunąć ten przedmiot z koszyka?"
+
+#: lib/views/wizard/steps/_list_services.php:32
+#, fuzzy
+msgid "Are you sure you want to remove this service?"
+msgstr "Czy na pewno chcesz usunąć tę usługę?"
+
+#: lib/views/services/_form.php:256
+#, fuzzy
+msgid ""
+"Are you sure you want to remove this service? It will remove all "
+"appointments associated with it. You can also change status to disabled if "
+"you want to temprorary disable it instead."
+msgstr ""
+"Czy na pewno chcesz usunąć tę usługę? Usunie to wszystkie powiązane z nią "
+"rezerwacje. Możesz również zmienić status na wyłączony, jeśli chcesz "
+"tymczasowo ją dezaktywować."
+
+#: lib/views/process_jobs/_table_body.php:48 
+#: lib/views/process_jobs/view_job_run_result.php:30
+#, fuzzy
+msgid "Are you sure you want to run this job?"
+msgstr "Czy na pewno chcesz uruchomić to zadanie?"
+
+#: lib/views/wizard/steps/_form_service.php:16
+msgid "Assign Agents"
+msgstr "Przypisz pracowników"
+
+#: lib/views/settings/general.php:223
+msgid "At any given location, only one agent can be booked at a time"
+msgstr ""
+"W każdej lokalizacji można zarezerwować jednocześnie tylko jednego pracownika"
+
+#: lib/views/bookings/grouped_bookings_quick_view.php:36
+#, fuzzy
+msgid "Attendee"
+msgid_plural "Attendees"
+msgstr[0] "Uczestnik"
+msgstr[1] "Uczestnicy"
+msgstr[2] ""
+
+#: lib/views/settings/general.php:317
+msgid "Attributes for New Appointment button"
+msgstr "Atrybuty przycisku Nowa rezerwacja"
+
+#: lib/helpers/util_helper.php:236 lib/helpers/util_helper.php:270
+#, fuzzy
+msgid "Aug"
+msgstr "Sie"
+
+#: lib/helpers/util_helper.php:224 lib/helpers/util_helper.php:259
+#, fuzzy
+msgid "August"
+msgstr "Sierpień"
+
+#: lib/views/settings/general.php:323
+#, fuzzy
+msgid "Authentication"
+msgstr "Uwierzytelnianie"
+
+#: lib/helpers/payments_helper.php:284
+#, fuzzy
+msgid "Authorization"
+msgstr "Autoryzacja"
+
+#: lib/helpers/menu_helper.php:77
+#, fuzzy
+msgid "Automation"
+msgstr "Automatyzacja"
+
+#: lib/views/bookings/_booking_data.php:163 
+#: lib/views/bookings/quick_availability.php:4
+#, fuzzy
+msgid "Availability"
+msgstr "Dostępność"
+
+#: lib/views/layouts/admin.php:65
+#, fuzzy
+msgid "Available Layout Variables"
+msgstr "Dostępne zmienne układu"
+
+#: lib/views/layouts/admin.php:58
+#, fuzzy
+msgid "Available Template Variables"
+msgstr "Dostępne zmienne szablonu"
+
+#: lib/views/booking_form_settings/_booking_form_preview.php:45 
+#: lib/views/steps/start.php:106 lib/views/wizard/setup.php:10 
+#: lib/views/wizard/steps/_form_agent.php:29 
+#: lib/views/wizard/steps/_form_service.php:42
+#, fuzzy
+msgid "Back"
+msgstr "Wstecz"
+
+#: lib/views/layouts/admin.php:11
+msgid "Back to agent profile"
+msgstr "Powrót do profilu pracownika"
+
+#: lib/views/partials/_side_menu.php:105 lib/views/partials/_side_menu.php:106
+#, fuzzy
+msgid "Back to WordPress"
+msgstr "Powrót do WordPress"
+
+#: lib/views/partials/_side_menu.php:114
+#, fuzzy
+msgid "back to WordPress"
+msgstr "powrót do WordPress"
+
+#: blocks/src/book-button/edit.js:331 blocks/src/book-button/edit.js:353 
+#: lib/models/service_model.php:54 lib/views/services/_form.php:18
+#, fuzzy
+msgid "Background Color"
+msgstr "Kolor Tła"
+
+#: lib/views/orders/_balance_and_payments.php:10
+#, fuzzy
+msgid "Balance & Payments"
+msgstr "Saldo i płatności"
+
+#: lib/models/cart_model.php:236 lib/models/order_model.php:420 
+#: lib/views/orders/_balance_and_payments.php:31
+#, fuzzy
+msgid "Balance Due"
+msgstr "Saldo do zapłaty"
+
+#: lib/views/shared/_template_variables.php:14
+#, fuzzy
+msgid "Balance Due:"
+msgstr "Saldo do zapłaty:"
+
+#: lib/views/settings/general.php:263 lib/views/settings/general.php:300
+#, fuzzy
+msgid "before appointment start time"
+msgstr "przed czasem rozpoczęcia wizyty"
+
+#: lib/views/booking_form_settings/show.php:23
+#, fuzzy
+msgid "Black"
+msgstr "Czarny"
+
+#: lib/views/booking_form_settings/show.php:21
+#, fuzzy
+msgid "Blue"
+msgstr "Niebieski"
+
+#: lib/helpers/shortcodes_helper.php:241 lib/helpers/shortcodes_helper.php:263 
+#: lib/helpers/shortcodes_helper.php:277
+msgid "Book Appointment"
+msgstr "Zarezerwuj wizytę"
+
+#: lib/helpers/shortcodes_helper.php:40
+#, fuzzy
+msgid "Book Now"
+msgstr "Zarezerwuj teraz"
+
+#: lib/views/calendars/scopes/_list.php:79
+#, fuzzy
+#, php-format
+msgid "Booked %d of %d"
+msgstr "Zarezerwowano %d z %d"
+
+#: lib/controllers/bookings_controller.php:221
+#, fuzzy
+msgid "Booked On"
+msgstr "Zarezerwowano"
+
+#: lib/views/bookings/grouped_bookings_quick_view.php:15 
+#: lib/views/calendars/scopes/_booking_box_on_calendar.php:30
+#, fuzzy
+msgid "Booked:"
+msgstr "Zarezerwowane:"
+
+#: lib/misc/process_event.php:188 lib/views/orders/quick_edit.php:89
+#, fuzzy
+msgid "Booking"
+msgstr "Rezerwacja"
+
+#: lib/misc/process_event.php:391
+#, fuzzy
+msgid "Booking Created"
+msgstr "Rezerwacja utworzona"
+
+#: lib/misc/process_event.php:394
+#, fuzzy
+msgid "Booking Ended"
+msgstr "Rezerwacja zakończona"
+
+#: lib/views/bookings/customize_table.php:14
+#, fuzzy
+msgid "Booking Fields"
+msgstr "Pola rezerwacji"
+
+#: lib/helpers/menu_helper.php:70
+#, fuzzy
+msgid "Booking Form"
+msgstr "Formularz rezerwacji"
+
+#: lib/controllers/booking_form_settings_controller.php:20
+#, fuzzy
+msgid "Booking Form Settings"
+msgstr "Ustawienia Formularza Rezerwacji"
+
+#: lib/controllers/activities_controller.php:47 
+#: lib/controllers/orders_controller.php:674
+#, fuzzy
+msgid "Booking ID"
+msgstr "ID Rezerwacji"
+
+#: lib/views/bookings/_booking_data.php:9
+#, fuzzy
+msgid "Booking ID:"
+msgstr "ID rezerwacji:"
+
+#: lib/views/bookings/view_booking_log.php:21 
+#: lib/views/orders/view_order_log.php:21
+#, fuzzy
+msgid "Booking Page"
+msgstr "Strona rezerwacji"
+
+#: lib/views/shared/_template_variables.php:32
+#, fuzzy
+msgid "Booking Price:"
+msgstr "Cena rezerwacji:"
+
+#: lib/controllers/carts_controller.php:29
+#, fuzzy
+msgid "Booking removed from your cart"
+msgstr "Rezerwacja usunięta z koszyka"
+
+#: lib/controllers/stripe_connect_controller.php:137
+#, fuzzy
+msgid "Booking slot is not available anymore."
+msgstr "Termin rezerwacji nie jest już dostępny."
+
+#: lib/misc/process_event.php:393
+#, fuzzy
+msgid "Booking Started"
+msgstr "Rezerwacja rozpoczęta"
+
+#: lib/misc/process_event.php:346 lib/misc/process_event.php:356
+#, fuzzy
+msgid "Booking Status"
+msgstr "Status rezerwacji"
+
+#: lib/views/customer_cabinet/view_booking_summary_in_lightbox.php:11
+#, fuzzy
+msgid "Booking Summary"
+msgstr "Podsumowanie rezerwacji"
+
+#: lib/views/settings/general.php:405
+#, fuzzy
+msgid "Booking tile information to display on calendar"
+msgstr "Informacje o rezerwacji wyświetlane w kalendarzu"
+
+#: lib/misc/process_event.php:392
+#, fuzzy
+msgid "Booking Updated"
+msgstr "Rezerwacja zaktualizowana"
+
+#: lib/controllers/controller.php:27 lib/helpers/agent_helper.php:267 
+#: lib/views/bookings/grouped_bookings_quick_view.php:23
+#, fuzzy
+msgid "Bookings"
+msgstr "Rezerwacje"
+
+#: lib/helpers/roles_helper.php:304
+#, fuzzy
+msgid "Bookings & Orders"
+msgstr "Rezerwacje i zamówienia"
+
+#: blocks/controls/BorderControl.js:74 blocks/controls/BorderControl.js:86
+#, fuzzy
+msgid "Border Color"
+msgstr "Kolor Obramowania"
+
+#: blocks/controls/BorderControl.js:31
+#, fuzzy
+msgid "Border Radius"
+msgstr "Promień Obramowania"
+
+#: lib/views/booking_form_settings/show.php:58
+#, fuzzy
+msgid "Border Style"
+msgstr "Styl obramowania"
+
+#: blocks/controls/BorderControl.js:45
+#, fuzzy
+msgid "Border Width"
+msgstr "Szerokość Obramowania"
+
+#: lib/views/steps/partials/_cart_summary.php:177
+#, fuzzy
+msgid "Breakdown"
+msgstr "Podział"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:115
+#, fuzzy
+msgid "Breakdown by Service"
+msgstr "Podział według usług"
+
+#: lib/models/service_model.php:53 lib/views/bookings/_booking_data.php:191 
+#: lib/views/services/_form.php:104
+#, fuzzy
+msgid "Buffer After"
+msgstr "Bufor po"
+
+#: lib/models/service_model.php:52 lib/views/bookings/_booking_data.php:185 
+#: lib/views/services/_form.php:101
+#, fuzzy
+msgid "Buffer Before"
+msgstr "Bufor przed"
+
+#: lib/views/services/_service_index_item.php:27
+#, fuzzy
+msgid "Buffer:"
+msgstr "Bufor:"
+
+#: lib/helpers/roles_helper.php:302 lib/models/cart_model.php:268 
+#: lib/views/orders/quick_edit.php:93
+#, fuzzy
+msgid "Bundle"
+msgstr "Pakiet"
+
+#: lib/helpers/booking_helper.php:584
+#, fuzzy
+msgid "Bundle & Save"
+msgstr "Pakiet i oszczędzaj"
+
+#: lib/views/bookings/_booking_data.php:20
+#, fuzzy
+msgid "Bundled Service: "
+msgstr "Usługa w pakiecie: "
+
+#: lib/helpers/booking_helper.php:588 lib/helpers/menu_helper.php:55 
+#: lib/helpers/menu_helper.php:108 lib/views/customer_cabinet/dashboard.php:46
+#, fuzzy
+msgid "Bundles"
+msgstr "Pakiety"
+
+#: lib/views/settings/general.php:391
+#, fuzzy
+msgid "Business Address"
+msgstr "Adres firmy"
+
+#: lib/views/shared/_business_variables.php:7
+#, fuzzy
+msgid "Business Address:"
+msgstr "Adres firmy:"
+
+#: lib/views/shared/_business_variables.php:2
+#, fuzzy
+msgid "Business Info"
+msgstr "Informacje o firmie"
+
+#: lib/views/settings/general.php:375
+#, fuzzy
+msgid "Business Information"
+msgstr "Informacje o firmie"
+
+#: lib/views/shared/_business_variables.php:5
+#, fuzzy
+msgid "Business logo HTML:"
+msgstr "HTML logo firmy:"
+
+#: lib/views/shared/_business_variables.php:6
+#, fuzzy
+msgid "Business logo URL:"
+msgstr "URL logo firmy:"
+
+#: lib/views/shared/_business_variables.php:9
+#, fuzzy
+msgid "Business Name:"
+msgstr "Nazwa firmy:"
+
+#: lib/views/settings/general.php:388
+#, fuzzy
+msgid "Business Phone"
+msgstr "Telefon firmowy"
+
+#: lib/views/shared/_business_variables.php:8
+#, fuzzy
+msgid "Business Phone:"
+msgstr "Telefon firmy:"
+
+#: lib/helpers/menu_helper.php:46 lib/helpers/menu_helper.php:100
+#, fuzzy
+msgid "Calendar"
+msgstr "Kalendarz"
+
+#: lib/views/settings/general.php:398
+#, fuzzy
+msgid "Calendar Settings"
+msgstr "Ustawienia kalendarza"
+
+#: lib/helpers/booking_helper.php:146
+#, fuzzy
+msgid "Calendar Type"
+msgstr "Typ kalendarza"
+
+#: lib/helpers/menu_helper.php:86
+msgid "Calendars"
+msgstr "Kalendarze"
+
+#: lib/views/settings/general.php:291
+#, fuzzy
+msgid "Can cancel when it is at least"
+msgstr "Może anulować, jeśli jest to co najmniej"
+
+#: latepoint.php:1344 latepoint.php:1473
+#, fuzzy
+msgid "can not be blank"
+msgstr "nie może być puste"
+
+#: lib/views/settings/general.php:254
+#, fuzzy
+msgid "Can reschedule when it is at least"
+msgstr "Może zmienić termin, jeśli jest to co najmniej"
+
+#: lib/helpers/steps_helper.php:398 
+#: lib/views/customer_cabinet/_booking_tile.php:40 
+#: lib/views/manage_booking_by_key/show.php:44 
+#: lib/views/orders/quick_edit.php:52 
+#: lib/views/wizard/steps/_form_agent.php:26 
+#: lib/views/wizard/steps/_form_service.php:39
+#, fuzzy
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: lib/views/customer_cabinet/password_reset_form.php:3 
+#: lib/views/customer_cabinet/request_password_reset_token.php:3 
+#: lib/views/orders/quick_edit.php:162
+#, fuzzy
+msgid "cancel"
+msgstr "anuluj"
+
+#: lib/views/settings/general.php:281
+#, fuzzy
+msgid "Cancellation"
+msgstr "Anulowanie"
+
+#: lib/helpers/booking_helper.php:1258 lib/helpers/orders_helper.php:36 
+#: lib/helpers/process_jobs_helper.php:244 
+#: lib/views/customer_cabinet/dashboard.php:79 
+#: lib/views/process_jobs/index.php:36
+#, fuzzy
+msgid "Cancelled"
+msgstr "Anulowany"
+
+#: blocks/controls/TypographyControl.js:75
+#, fuzzy
+msgid "Capitalize"
+msgstr "Pierwsza Litera Duża"
+
+#: lib/helpers/payments_helper.php:283
+#, fuzzy
+msgid "Capture"
+msgstr "Przechwyć"
+
+#: lib/controllers/steps_controller.php:62
+#, fuzzy
+msgid "Cart has already been converted to order"
+msgstr "Koszyk został już przekształcony w zamówienie"
+
+#: lib/helpers/menu_helper.php:56 lib/helpers/menu_helper.php:109
+#, fuzzy
+msgid "Categories"
+msgstr "Kategorie"
+
+#: lib/views/services/_form.php:17
+#, fuzzy
+msgid "Category"
+msgstr "Kategoria"
+
+#: lib/views/settings/general.php:266
+#, fuzzy
+msgid "Change booking status when customer reschedules"
+msgstr "Zmień status rezerwacji, gdy klient zmieni termin"
+
+#: lib/views/booking_form_settings/show.php:80
+#, fuzzy
+msgid "Change Order"
+msgstr "Zmień kolejność"
+
+#: lib/views/settings/general.php:270
+#, fuzzy
+msgid "Change status to:"
+msgstr "Zmień status na:"
+
+#: lib/views/customer_cabinet/password_reset_form.php:5
+#, fuzzy
+msgid "Change Your Password"
+msgstr "Zmień swoje hasło"
+
+#: lib/models/service_model.php:48 lib/views/services/_form.php:68
+#, fuzzy
+msgid "Charge Amount"
+msgstr "Kwota opłaty"
+
+#: lib/helpers/roles_helper.php:298
+#, fuzzy
+msgid "Chat"
+msgstr "Czat"
+
+#: lib/helpers/steps_helper.php:1944
+msgid "Check if you want to hide agent name from showing up"
+msgstr "Zaznacz, jeśli chcesz ukryć nazwę pracownika"
+
+#: lib/views/updates/status.php:3
+#, fuzzy
+msgid "Checking Version Status"
+msgstr "Sprawdzanie statusu wersji"
+
+#: lib/helpers/steps_helper.php:1372 
+#: lib/views/steps/partials/_booking_form_summary_panel.php:13 
+#: lib/views/steps/partials/_booking_form_summary_panel.php:23
+#, fuzzy
+msgid "Checkout"
+msgstr "Do kasy"
+
+#: lib/misc/process_event.php:58
+#, fuzzy
+msgid "Choose a booking for this test run:"
+msgstr "Wybierz rezerwację do tego testu:"
+
+#: lib/misc/process_event.php:87
+#, fuzzy
+msgid "Choose a customer for this test run:"
+msgstr "Wybierz klienta do tego testu:"
+
+#: lib/misc/process_event.php:79
+#, fuzzy
+msgid "Choose a transaction for this test run:"
+msgstr "Wybierz transakcję do tego testu:"
+
+#: lib/misc/process_event.php:35
+#, fuzzy
+msgid "Choose an order for this test run:"
+msgstr "Wybierz zamówienie do tego testu:"
+
+#: lib/misc/process_event.php:71
+#, fuzzy
+msgid "Choose new booking to be used for this test run:"
+msgstr "Wybierz nową rezerwację do tego testu:"
+
+#: lib/misc/process_event.php:48
+#, fuzzy
+msgid "Choose new order to be used for this test run:"
+msgstr "Wybierz nowe zamówienie do tego testu:"
+
+#: lib/misc/process_event.php:66
+#, fuzzy
+msgid "Choose old booking to be used for this test run:"
+msgstr "Wybierz starą rezerwację do tego testu:"
+
+#: lib/misc/process_event.php:43
+#, fuzzy
+msgid "Choose old order to be used for this test run:"
+msgstr "Wybierz stare zamówienie do tego testu:"
+
+#: lib/views/steps/partials/_cart_clear.php:7
+#, fuzzy
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: lib/views/activities/index.php:21
+#, fuzzy
+msgid "Clear All"
+msgstr "Wyczyść wszystko"
+
+#: lib/helpers/form_helper.php:403
+#, fuzzy
+msgid "Click to select..."
+msgstr "Kliknij, aby wybrać..."
+
+#: lib/helpers/agent_helper.php:199
+#, fuzzy
+msgid "Close Details"
+msgstr "Zamknij szczegóły"
+
+#: lib/helpers/settings_helper.php:257
+#, fuzzy
+msgid "Code"
+msgstr "Kod"
+
+#: lib/views/bookings/_booking_data.php:10 lib/views/orders/quick_edit.php:34
+#, fuzzy
+msgid "Code:"
+msgstr "Kod:"
+
+#: lib/views/booking_form_settings/show.php:50
+#, fuzzy
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: lib/controllers/settings_controller.php:152
+#, fuzzy
+msgid "Columns Saved"
+msgstr "Kolumny zapisane"
+
+#: lib/views/settings/general.php:135 lib/views/settings/general.php:144
+#, fuzzy
+msgid "Comma"
+msgstr "Przecinek"
+
+#: lib/views/customers/inline_edit_form.php:29
+#, fuzzy
+msgid "Comment left by the customer"
+msgstr "Komentarz pozostawiony przez klienta"
+
+#: lib/helpers/settings_helper.php:322
+#, fuzzy
+msgid "Comments"
+msgstr "Komentarze"
+
+#: lib/views/shared/_template_variables.php:44
+#, fuzzy
+msgid "Comments:"
+msgstr "Komentarze:"
+
+#: lib/views/settings/general.php:380
+#, fuzzy
+msgid "Company Logo"
+msgstr "Logo firmy"
+
+#: lib/views/settings/general.php:385
+#, fuzzy
+msgid "Company Name"
+msgstr "Nazwa firmy"
+
+#: lib/helpers/booking_helper.php:1260 lib/helpers/orders_helper.php:37 
+#: lib/helpers/process_jobs_helper.php:242 lib/views/process_jobs/index.php:36
+#, fuzzy
+msgid "Completed"
+msgstr "Zakończony"
+
+#: lib/helpers/processes_helper.php:81
+#, fuzzy
+msgid "Conditional"
+msgstr "Warunkowy"
+
+#: lib/views/customer_cabinet/dashboard.php:126 
+#: lib/views/customer_cabinet/password_reset_form.php:10 
+#: lib/views/customer_cabinet/password_reset_form.php:20
+#, fuzzy
+msgid "Confirm New Password"
+msgstr "Potwierdź nowe hasło"
+
+#: lib/views/booking_form_settings/previews/_customer.php:18 
+#: lib/views/steps/partials/_contact_form.php:8
+#, fuzzy
+msgid "Confirm Password"
+msgstr "Potwierdź hasło"
+
+#: lib/views/orders/index.php:45 lib/views/orders/index.php:55 
+#: lib/views/orders/index.php:83 
+#: lib/views/shared/process_reschedule_request.php:15
+#, fuzzy
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+#: lib/views/bookings/_full_summary.php:28 
+#: lib/views/orders/_full_summary.php:34 lib/views/steps/_confirmation.php:23 
+#: lib/views/steps/_confirmation.php:58
+msgid "Confirmation #"
+msgstr "Potwierdzenie #"
+
+#: lib/views/transactions/edit_form.php:37
+#, fuzzy
+msgid "Confirmation Code"
+msgstr "Kod potwierdzenia"
+
+#: lib/views/shared/_template_variables.php:24
+#, fuzzy
+msgid "Confirmation Code:"
+msgstr "Kod potwierdzenia:"
+
+#: lib/models/transaction_model.php:21
+#, fuzzy
+msgid "Confirmation Number"
+msgstr "Numer potwierdzenia"
+
+#: lib/views/customers/quick_edit.php:84
+#, fuzzy
+msgid "Connect"
+msgstr "Połącz"
+
+#: lib/helpers/stripe_connect_helper.php:126
+#, fuzzy
+msgid "Connect (Dev)"
+msgstr "Połącz (dev)"
+
+#: lib/helpers/stripe_connect_helper.php:114
+#, fuzzy
+msgid "Connect (Live)"
+msgstr "Połącz (na żywo)"
+
+#: lib/views/customers/index.php:19
+#, fuzzy
+msgid "Connect to WP Users"
+msgstr "Połącz z użytkownikami WP"
+
+#: lib/helpers/stripe_connect_helper.php:282 
+#: lib/views/customers/quick_edit.php:80
+#, fuzzy
+msgid "Connected"
+msgstr "Połączono"
+
+#: lib/models/agent_model.php:40
+#, fuzzy
+msgid "Connected WordPress User"
+msgstr "Połączony użytkownik WordPress"
+
+#: lib/helpers/license_helper.php:76
+msgid ""
+"Connection Error. Please try again in a few minutes or contact us at "
+"license@latepoint.com. Error Code: SUYF8362"
+msgstr ""
+"Błąd połączenia. Spróbuj ponownie za kilka minut lub skontaktuj się z nami "
+"pod adresem license@latepoint.com. Kod błędu: SUYF8362"
+
+#: lib/helpers/license_helper.php:67
+msgid ""
+"Connection Error. Please try again in a few minutes or contact us at "
+"license@latepoint.com. Error Code: UDF732S83"
+msgstr ""
+"Błąd połączenia. Spróbuj ponownie za kilka minut lub skontaktuj się z nami "
+"pod adresem license@latepoint.com. Kod błędu: UDF732S83"
+
+#: lib/helpers/addons_helper.php:37
+msgid ""
+"Connection Error. Please try again in a few minutes or contact us via email "
+"addons@latepoint.com. KLJSD734"
+msgstr ""
+"Błąd połączenia. Spróbuj ponownie za kilka minut lub skontaktuj się z nami "
+"przez e-mail addons@latepoint.com. KLJSD734"
+
+#: lib/helpers/roles_helper.php:309
+#, fuzzy
+msgid "Connections"
+msgstr "Połączenia"
+
+#: lib/views/customers/quick_edit.php:40
+#, fuzzy
+msgid "Contact Info"
+msgstr "Informacje kontaktowe"
+
+#: lib/views/steps/_customer.php:18
+#, fuzzy
+msgid "Contact Information"
+msgstr "Informacje kontaktowe"
+
+#: lib/helpers/email_helper.php:78
+#, fuzzy
+msgid "Content of the email can not be blank"
+msgstr "Treść e-maila nie może być pusta"
+
+#: lib/views/steps/partials/_cart_clear.php:6
+#, fuzzy
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: lib/helpers/stripe_connect_helper.php:287
+#, fuzzy
+msgid "Continue Setup"
+msgstr "Kontynuuj konfigurację"
+
+#: lib/views/settings/general.php:410
+#, fuzzy
+msgid "Conversion Tracking"
+msgstr "Śledzenie konwersji"
+
+#: lib/views/customers/quick_edit.php:72
+#, fuzzy
+msgid "Convert to Guest"
+msgstr "Przekształć w konto gościa"
+
+#: latepoint.php:1451
+#, fuzzy
+msgid "Copied"
+msgstr "Skopiowane"
+
+#: lib/views/debug/status.php:52
+#, fuzzy
+msgid "Core:"
+msgstr "Rdzeń:"
+
+#: lib/views/steps/partials/_booking_summary.php:44 
+#: lib/views/steps/partials/_cart_summary.php:180 
+#: lib/views/steps/partials/_order_summary.php:89
+#, fuzzy
+msgid "Cost Breakdown"
+msgstr "Podział kosztów"
+
+#: lib/views/settings/general.php:176
+#, fuzzy
+msgid "Countries"
+msgstr "Kraje"
+
+#: lib/views/settings/general.php:182
+#, fuzzy
+msgid "Countries shown in phone field"
+msgstr "Kraje wyświetlane w polu telefonu"
+
+#: lib/helpers/stripe_connect_helper.php:146
+#, fuzzy
+msgid "Country"
+msgstr "Kraj"
+
+#: lib/helpers/activities_helper.php:30
+#, fuzzy
+msgid "Coupon Update"
+msgstr "Kupon zaktualizowany"
+
+#: lib/helpers/menu_helper.php:69
+#, fuzzy
+msgid "Coupons"
+msgstr "Kupony"
+
+#: lib/helpers/roles_helper.php:313
+#, fuzzy
+msgid "Create"
+msgstr "Utwórz"
+
+#: lib/views/steps/_confirmation.php:105
+#, fuzzy
+msgid "Create Account"
+msgstr "Utwórz konto"
+
+#: lib/views/calendars/scopes/_month.php:159 lib/views/calendars/view.php:178 
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:142
+msgid "Create Agent"
+msgstr "Utwórz pracownika"
+
+#: lib/controllers/wizard_controller.php:30 
+#: lib/views/wizard/steps/_agents.php:2
+msgid "Create Agents"
+msgstr "Tworzenie pracowników"
+
+#: lib/views/orders/index.php:112
+#, fuzzy
+msgid "Create an Order"
+msgstr "Utwórz zamówienie"
+
+#: lib/views/bookings/pending_approval.php:87 
+#: lib/views/calendars/scopes/_list.php:107 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:107 
+#: lib/views/transactions/index.php:104
+msgid "Create Appointment"
+msgstr "Utwórz rezerwację"
+
+#: lib/views/customers/quick_edit.php:146
+#, fuzzy
+msgid "Create Customer"
+msgstr "Utwórz klienta"
+
+#: lib/controllers/services_controller.php:61
+#, fuzzy
+msgid "Create New Service"
+msgstr "Utwórz Nową Usługę"
+
+#: lib/views/orders/quick_edit.php:243
+#, fuzzy
+msgid "Create Order"
+msgstr "Utwórz zamówienie"
+
+#: lib/views/calendars/view.php:179
+#, fuzzy
+msgid "Create Service"
+msgstr "Utwórz usługę"
+
+#: lib/views/bookings/index.php:53 lib/views/bookings/index.php:121
+#, fuzzy
+msgid "Created On"
+msgstr "Utworzono dnia"
+
+#: lib/controllers/activities_controller.php:193 
+#: lib/controllers/activities_controller.php:198 
+#: lib/controllers/activities_controller.php:203 
+#: lib/controllers/activities_controller.php:208 
+#: lib/controllers/activities_controller.php:221 
+#: lib/controllers/activities_controller.php:226
+#, fuzzy
+msgid "Created On:"
+msgstr "Utworzono:"
+
+#: lib/helpers/stripe_connect_helper.php:94
+#, fuzzy
+msgid "Credit Card"
+msgstr "Karta kredytowa"
+
+#: lib/views/settings/general.php:109
+#, fuzzy
+msgid "Currency & Price"
+msgstr "Waluta i cena"
+
+#: lib/helpers/stripe_connect_helper.php:149
+#, fuzzy
+msgid "Currency Code"
+msgstr "Kod waluty"
+
+#: lib/misc/user.php:321 lib/views/booking_form_settings/show.php:28
+#, fuzzy
+msgid "Custom"
+msgstr "Niestandardowy"
+
+#: lib/controllers/settings_controller.php:126
+#, fuzzy
+msgid "Custom Day Schedule Removed"
+msgstr "Harmonogram dla wybranego dnia został usunięty"
+
+#: lib/views/settings/default_form_fields.php:3
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Niestandardowe pola"
+
+#: lib/views/settings/custom_day_schedule_form.php:4
+#, fuzzy
+msgid "Custom schedule"
+msgstr "Niestandardowy harmonogram"
+
+#: lib/controllers/bookings_controller.php:213 
+#: lib/controllers/orders_controller.php:675 
+#: lib/controllers/transactions_controller.php:101 
+#: lib/helpers/customer_helper.php:26 lib/helpers/steps_helper.php:2306 
+#: lib/misc/user.php:334 lib/views/bookings/index.php:50 
+#: lib/views/bookings/index.php:118 lib/views/bookings/pending_approval.php:40 
+#: lib/views/orders/index.php:40 lib/views/orders/index.php:78 
+#: lib/views/orders/quick_edit.php:141 
+#: lib/views/shared/_template_variables.php:37 
+#: lib/views/transactions/index.php:33 lib/views/transactions/index.php:71
+#, fuzzy
+msgid "Customer"
+msgstr "Klient"
+
+#: lib/views/settings/general.php:308
+#, fuzzy
+msgid "Customer Cabinet"
+msgstr "Panel klienta"
+
+#: lib/helpers/pages_helper.php:13
+#, fuzzy
+msgctxt "Customer cabinet"
+msgid "Customer Cabinet"
+msgstr "Panel klienta"
+
+#: lib/helpers/pages_helper.php:12
+#, fuzzy
+msgctxt "Customer cabinet"
+msgid "customer-cabinet"
+msgstr "szafka-klienta"
+
+#: lib/views/shared/_business_variables.php:4
+#, fuzzy
+msgid "Customer Cabinet URL:"
+msgstr "URL panelu klienta:"
+
+#: lib/controllers/customers_controller.php:258
+#, fuzzy
+msgid "Customer Connected"
+msgstr "Klient Połączony"
+
+#: lib/misc/process_event.php:395
+#, fuzzy
+msgid "Customer Created"
+msgstr "Klient utworzony"
+
+#: lib/controllers/customers_controller.php:137
+#, fuzzy
+#, php-format
+msgid "Customer Created ID: %s"
+msgstr "Utworzono Klienta ID: %s"
+
+#: lib/views/settings/general.php:362
+#, fuzzy
+msgid "Customer Dashboard Page URL"
+msgstr "URL strony panelu klienta"
+
+#: lib/controllers/customers_controller.php:246
+#, fuzzy
+msgid "Customer Disconnected"
+msgstr "Klient Odłączony"
+
+#: lib/views/customers/quick_edit.php:135
+#, fuzzy
+msgid "Customer does not have any bookings"
+msgstr "Klient nie ma żadnych rezerwacji"
+
+#: lib/controllers/bookings_controller.php:215
+#, fuzzy
+msgid "Customer Email"
+msgstr "E-mail Klienta"
+
+#: lib/views/bookings/customize_table.php:7
+#, fuzzy
+msgid "Customer Fields"
+msgstr "Pola klienta"
+
+#: lib/models/customer_model.php:30
+#, fuzzy
+msgid "Customer First Name"
+msgstr "Imię klienta"
+
+#: lib/controllers/activities_controller.php:49
+#, fuzzy
+msgid "Customer ID"
+msgstr "ID Klienta"
+
+#: lib/views/settings/general.php:426
+msgid "Customer ID#:"
+msgstr "Numer identyfikacyjny klienta:"
+
+#: lib/views/customers/quick_edit.php:21
+#, fuzzy
+msgid "Customer ID:"
+msgstr "ID klienta:"
+
+#: lib/controllers/customers_controller.php:81
+#, fuzzy
+msgid "Customer is now allowed to book without password"
+msgstr "Klient może teraz rezerwować bez hasła"
+
+#: lib/models/customer_model.php:33
+#, fuzzy
+msgid "Customer Last Name"
+msgstr "Nazwisko klienta"
+
+#: lib/views/settings/pages.php:2
+#, fuzzy
+msgid "Customer Login"
+msgstr "Logowanie klienta"
+
+#: lib/views/settings/general.php:363
+#, fuzzy
+msgid "Customer Login Page URL"
+msgstr "URL strony logowania klienta"
+
+#: lib/views/orders/index.php:50 lib/views/transactions/index.php:45
+#, fuzzy
+msgid "Customer Name"
+msgstr "Imię i nazwisko klienta"
+
+#: lib/controllers/customer_cabinet_controller.php:380 
+#: lib/models/booking_model.php:530
+#, fuzzy
+msgid "Customer Not Found"
+msgstr "Klient Nie Znaleziony"
+
+#: lib/controllers/bookings_controller.php:214
+#, fuzzy
+msgid "Customer Phone"
+msgstr "Telefon Klienta"
+
+#: lib/views/settings/pages.php:13
+#, fuzzy
+msgid "Customer Profile"
+msgstr "Profil klienta"
+
+#: lib/helpers/activities_helper.php:17
+#, fuzzy
+msgid "Customer Profile Update"
+msgstr "Aktualizacja profilu klienta"
+
+#: lib/controllers/customers_controller.php:27
+#, fuzzy
+msgid "Customer Removed"
+msgstr "Klient Usunięty"
+
+#: lib/views/settings/general.php:239
+#, fuzzy
+msgid "Customer Settings"
+msgstr "Ustawienia klienta"
+
+#: lib/controllers/customers_controller.php:165
+#, fuzzy
+#, php-format
+msgid "Customer Updated ID: %s"
+msgstr "Zaktualizowano Klienta ID: %s"
+
+#: lib/helpers/blocks_helper.php:16
+#, fuzzy
+msgid "Customer will pick"
+msgstr "Klient wybierze"
+
+#: lib/helpers/customer_helper.php:200
+#, fuzzy
+msgid "Customer with this email already exists"
+msgstr "Klient z tym adresem e-mail już istnieje"
+
+#: lib/controllers/customers_controller.php:18 lib/helpers/menu_helper.php:50 
+#: lib/helpers/menu_helper.php:104 lib/helpers/roles_helper.php:305 
+#: lib/views/customers/index.php:8 lib/views/search/query_results.php:22
+#, fuzzy
+msgid "Customers"
+msgstr "Klienci"
+
+#: lib/views/settings/general.php:326
+#, fuzzy
+msgid "Customers can login using their WordPress credentials"
+msgstr "Klienci mogą logować się za pomocą danych WordPress"
+
+#: lib/helpers/steps_helper.php:1945
+msgid "Customers can pick \"Any agent\" and system will find a matching agent"
+msgstr ""
+"Klienci mogą wybrać opcję \"Dowolny pracownik\", a system znajdzie "
+"odpowiedniego pracownika"
+
+#: lib/controllers/customers_controller.php:234
+#, fuzzy
+msgid "Customers Connected"
+msgstr "Klienci Połączeni"
+
+#: lib/views/services/_form.php:150
+#, fuzzy
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: lib/views/events/events_day_view.php:13
+#, fuzzy
+msgid "Daily Schedule"
+msgstr "Codzienny harmonogram"
+
+#: lib/controllers/controller.php:28 
+#: lib/controllers/dashboard_controller.php:19 lib/helpers/menu_helper.php:45 
+#: lib/helpers/menu_helper.php:99
+#, fuzzy
+msgid "Dashboard"
+msgstr "Panel Sterowania"
+
+#: blocks/controls/BorderControl.js:25
+#, fuzzy
+msgid "Dashed"
+msgstr "Przerywany"
+
+#: lib/views/settings/general.php:448
+#, fuzzy
+msgid "Data Tables"
+msgstr "Tabele danych"
+
+#: lib/views/debug/status.php:53
+#, fuzzy
+msgid "Database:"
+msgstr "Baza danych:"
+
+#: blocks/src/calendar/edit.js:119 lib/controllers/orders_controller.php:681 
+#: lib/controllers/transactions_controller.php:107 
+#: lib/views/calendars/scopes/_month.php:29 
+#: lib/views/calendars/scopes/_week.php:38 lib/views/orders/index.php:46 
+#: lib/views/orders/index.php:84 lib/views/transactions/edit_form.php:32 
+#: lib/views/transactions/index.php:39 lib/views/transactions/index.php:77
+#, fuzzy
+msgid "Date"
+msgstr "Data"
+
+#: lib/views/settings/general.php:39
+#, fuzzy
+msgid "Date and time"
+msgstr "Data i godzina"
+
+#: lib/views/settings/general.php:47
+#, fuzzy
+msgid "Date format"
+msgstr "Format daty"
+
+#: lib/views/settings/custom_day_schedule_form.php:10
+#, fuzzy
+msgid "Date Range"
+msgstr "Zakres dat"
+
+#: lib/controllers/settings_controller.php:107
+#, fuzzy
+msgid "Date Range Schedule Removed"
+msgstr "Harmonogram zakresu dat został usunięty"
+
+#: lib/controllers/activities_controller.php:53
+#, fuzzy
+msgid "Date, Time"
+msgstr "Data, Godzina"
+
+#: lib/views/activities/index.php:33 lib/views/activities/index.php:59 
+#: lib/views/bookings/index.php:46 lib/views/bookings/index.php:114
+#, fuzzy
+msgid "Date/Time"
+msgstr "Data/Godzina"
+
+#: lib/views/calendars/view.php:39
+#, fuzzy
+msgid "Day"
+msgstr "Dzień"
+
+#: lib/views/wizard/steps/_settings.php:3
+#, fuzzy
+msgid ""
+"Day and, through to this separated is rhetoric regretting the magnitude, "
+"perception is keep in"
+msgstr ""
+"Dzień i, przez to oddzielony, jest retoryką żałującą wielkości, postrzeganie "
+"pozostaje w"
+
+#: lib/views/calendars/scopes/_month.php:146
+#, fuzzy
+msgid "Day Off"
+msgstr "Dzień wolny"
+
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:3
+#, fuzzy
+msgid "Day Preview"
+msgstr "Podgląd dnia"
+
+#: lib/helpers/time_helper.php:95 lib/models/booking_model.php:824 
+#: lib/views/settings/general.php:260 lib/views/settings/general.php:297
+#, fuzzy
+msgid "days"
+msgstr "dni"
+
+#: lib/views/services/_form.php:225 lib/views/settings/work_periods.php:20
+#, fuzzy
+msgid "Days With Custom Schedules"
+msgstr "Dni z niestandardowymi harmonogramami"
+
+#: lib/controllers/debug_controller.php:24 
+#: lib/controllers/debug_controller.php:31
+#, fuzzy
+msgid "DB Version was reset"
+msgstr "Wersja Bazy Danych Zresetowana"
+
+#: lib/helpers/time_helper.php:154
+#, fuzzy
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+#: lib/helpers/time_helper.php:153
+#, fuzzy
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+#: lib/views/addons/load_addons_list.php:93
+#, fuzzy
+msgid "Deactivate"
+msgstr "Dezaktywuj"
+
+#: lib/helpers/util_helper.php:240 lib/helpers/util_helper.php:274
+#, fuzzy
+msgid "Dec"
+msgstr "Gru"
+
+#: lib/helpers/util_helper.php:228 lib/helpers/util_helper.php:263
+#, fuzzy
+msgid "December"
+msgstr "Grudzień"
+
+#: lib/views/settings/general.php:142
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Separator dziesiętny"
+
+#: blocks/controls/BorderControl.js:21 blocks/controls/TypographyControl.js:71
+#, fuzzy
+msgid "Default"
+msgstr "Domyślne"
+
+#: lib/views/settings/general.php:188
+#, fuzzy
+msgid "Default Country (if not auto-detected)"
+msgstr "Domyślny kraj (jeśli nie zostanie wykryty automatycznie)"
+
+#: lib/views/settings/default_form_fields.php:1
+#, fuzzy
+msgid "Default Fields"
+msgstr "Domyślne pola"
+
+#: lib/controllers/form_fields_controller.php:46
+#, fuzzy
+msgid "Default Fields Updated"
+msgstr "Domyślne Pola Zaktualizowane"
+
+#: lib/views/settings/general.php:16
+#, fuzzy
+msgid "Default status"
+msgstr "Domyślny status"
+
+#: lib/helpers/notifications_helper.php:34
+#, fuzzy
+msgid "Default WordPress Mailer"
+msgstr "Domyślny mailer WordPress"
+
+#: lib/helpers/roles_helper.php:311 lib/misc/process_action.php:117 
+#: lib/views/activities/view.php:35 lib/views/addons/load_addons_list.php:108 
+#: lib/views/processes/_form.php:70
+#, fuzzy
+msgid "Delete"
+msgstr "Usuń"
+
+#: lib/views/customers/quick_edit.php:161
+#, fuzzy
+msgid "Delete Customer"
+msgstr "Usuń klienta"
+
+#: lib/views/orders/quick_edit.php:255
+#, fuzzy
+msgid "Delete Order"
+msgstr "Usuń zamówienie"
+
+#: lib/views/services/_form.php:260
+#, fuzzy
+msgid "Delete Service"
+msgstr "Usuń usługę"
+
+#: lib/views/process_jobs/_table_body.php:14
+#, fuzzy
+msgid "Deleted"
+msgstr "Usunięty"
+
+#: lib/helpers/payments_helper.php:275
+#, fuzzy
+msgid "Deposit"
+msgstr "Zaliczka"
+
+#: lib/models/service_model.php:49 lib/views/services/_form.php:71
+#, fuzzy
+msgid "Deposit Amount"
+msgstr "Kwota zaliczki"
+
+#: lib/views/steps/_payment__portions.php:38
+#, fuzzy
+msgid "Deposit Only"
+msgstr "Tylko zaliczka"
+
+#: lib/controllers/activities_controller.php:54
+#, fuzzy
+msgid "Description"
+msgstr "Opis"
+
+#: lib/views/settings/payments.php:34
+#, fuzzy
+msgid "Development"
+msgstr "Rozwój"
+
+#: lib/views/steps/_confirmation.php:103
+#, fuzzy
+msgid ""
+"Did you know that you can create an account to manage your reservations and "
+"schedule new appointments?"
+msgstr ""
+"Czy wiesz, że możesz utworzyć konto, aby zarządzać swoimi rezerwacjami i "
+"planować nowe wizyty?"
+
+#: lib/views/shared/_template_variables.php:2
+msgid "Direct URLs to Manage Appointment"
+msgstr "Bezpośrednie URL do zarządzania rezerwacją"
+
+#: lib/views/settings/general.php:59
+#, fuzzy
+msgid "Disable verbose date output"
+msgstr "Wyłącz szczegółowe wyświetlanie daty"
+
+#: lib/misc/process_action.php:110 lib/views/processes/_form.php:22 
+#: lib/views/services/_form.php:22
+#, fuzzy
+msgid "Disabled"
+msgstr "Wyłączony"
+
+#: lib/views/booking_form_settings/_booking_form_preview.php:37
+#, fuzzy
+msgid "Discard"
+msgstr "Odrzuć"
+
+#: lib/views/customers/quick_edit.php:81
+#, fuzzy
+msgid "Disconnect"
+msgstr "Rozłącz"
+
+#: lib/helpers/stripe_connect_helper.php:280
+#, fuzzy
+msgid "disconnect"
+msgstr "rozłącz"
+
+#: lib/views/updates/version_5_intro.php:3
+#, fuzzy
+msgid "Dismiss"
+msgstr "Zignoruj"
+
+#: lib/views/settings/general.php:343
+#, fuzzy
+msgid "Display Facebook Login button on customer login and registration forms"
+msgstr ""
+"Wyświetl przycisk logowania przez Facebook w formularzach logowania i "
+"rejestracji klientów"
+
+#: lib/views/settings/general.php:337
+#, fuzzy
+msgid "Display Google Login button on customer login and registration forms"
+msgstr ""
+"Wyświetl przycisk logowania przez Google w formularzach logowania i "
+"rejestracji klientów"
+
+#: lib/views/shared/_template_variables.php:55
+#, fuzzy
+msgid "Display Name:"
+msgstr "Wyświetlana nazwa:"
+
+#: lib/views/services/_form.php:80
+#, fuzzy
+msgid "Display Price"
+msgstr "Cena wyświetlana"
+
+#: lib/views/settings/general.php:164
+#, fuzzy
+msgid "Do not show price breakdown, if service price is zero"
+msgstr "Nie pokazuj szczegółów ceny, jeśli cena usługi wynosi zero"
+
+#: lib/views/steps/partials/_cart_clear.php:4
+#, fuzzy
+msgid ""
+"Do you want to continue adding items to existing cart or start a new booking "
+"and clear your cart."
+msgstr ""
+"Czy chcesz kontynuować dodawanie elementów do istniejącego koszyka czy "
+"rozpocząć nową rezerwację i opróżnić koszyk?"
+
+#: lib/views/customer_cabinet/password_reset_form.php:14 
+#: lib/views/customer_cabinet/password_reset_form.php:23
+#, fuzzy
+msgid "Don't have a secret key?"
+msgstr "Nie masz klucza tajnego?"
+
+#: lib/views/settings/general.php:136 lib/views/settings/general.php:143
+#, fuzzy
+msgid "Dot"
+msgstr "Kropka"
+
+#: blocks/controls/BorderControl.js:24
+#, fuzzy
+msgid "Dotted"
+msgstr "Kropkowany"
+
+#: lib/views/bookings/index.php:32 lib/views/customers/index.php:14 
+#: lib/views/orders/index.php:27 lib/views/transactions/index.php:20
+#, fuzzy
+msgid "Download .csv"
+msgstr "Pobierz .csv"
+
+#: lib/views/settings/steps_order_modal.php:11
+#, fuzzy
+msgid ""
+"Drag steps up and down to reorder. Some steps have sub steps, click on arrow "
+"to show them, they can also be reordered."
+msgstr ""
+"Przeciągnij kroki w górę i w dół, aby je uporządkować. Niektóre kroki mają "
+"podkroki, kliknij strzałkę, aby je wyświetlić, można je również uporządkować."
+
+#: lib/controllers/bookings_controller.php:212 
+#: lib/helpers/settings_helper.php:258 lib/views/bookings/_booking_data.php:81
+#, fuzzy
+msgid "Duration"
+msgstr "Czas Trwania"
+
+#: lib/views/services/_form.php:65 lib/views/wizard/steps/_form_service.php:8
+#, fuzzy
+msgid "Duration (minutes)"
+msgstr "Czas trwania (minuty)"
+
+#: lib/models/service_model.php:50
+#, fuzzy
+msgid "Duration Name"
+msgstr "Nazwa trwania"
+
+#: lib/views/services/_service_index_item.php:19
+#, fuzzy
+msgid "Duration:"
+msgstr "Czas trwania:"
+
+#: lib/views/settings/general.php:80
+#, fuzzy
+msgid "Earliest Possible Booking"
+msgstr "Najwcześniejsza możliwa rezerwacja"
+
+#: lib/helpers/roles_helper.php:310
+#, fuzzy
+msgid "Edit"
+msgstr "Edytuj"
+
+#: lib/helpers/orders_helper.php:269
+#, fuzzy
+msgid "Edit Booking"
+msgstr "Edytuj rezerwację"
+
+#: lib/helpers/roles_helper.php:276
+msgid "Edit custom schedule of individual agent, location or service."
+msgstr ""
+"Edytuj niestandardowy harmonogram poszczególnych pracowników, lokalizacji "
+"lub usług."
+
+#: lib/controllers/customers_controller.php:101 
+#: lib/controllers/customers_controller.php:102 
+#: lib/views/customers/quick_edit.php:14
+#, fuzzy
+msgid "Edit Customer"
+msgstr "Edytuj Klienta"
+
+#: lib/helpers/work_periods_helper.php:475
+#, fuzzy
+msgid "Edit Date Range Schedule"
+msgstr "Edytuj harmonogram zakresu dat"
+
+#: lib/helpers/work_periods_helper.php:502 
+#: lib/helpers/work_periods_helper.php:589
+#, fuzzy
+msgid "Edit Day Schedule"
+msgstr "Edytuj harmonogram dnia"
+
+#: lib/views/orders/quick_edit.php:26
+#, fuzzy
+msgid "Edit Order"
+msgstr "Edytuj zamówienie"
+
+#: lib/controllers/services_controller.php:31 
+#: lib/controllers/services_controller.php:32 
+#: lib/views/services/_service_index_item.php:36
+#, fuzzy
+msgid "Edit Service"
+msgstr "Edytuj Usługę"
+
+#: lib/views/transactions/edit_form.php:13
+#, fuzzy
+msgid "Edit Transaction"
+msgstr "Edytuj transakcję"
+
+#: lib/views/calendars/missing_resources.php:4 
+#: lib/views/calendars/scopes/_week.php:114
+#, fuzzy
+msgid "Edit Work Hours"
+msgstr "Edytuj godziny pracy"
+
+#: lib/views/calendars/scopes/_day.php:144 
+#: lib/views/calendars/scopes/_day.php:146
+#, fuzzy
+msgid "Edit Working Hours"
+msgstr "Edytuj godziny pracy"
+
+#: lib/controllers/customers_controller.php:308 
+#: lib/helpers/notifications_helper.php:31 lib/helpers/settings_helper.php:254 
+#: lib/views/customers/index.php:34 lib/views/customers/index.php:72
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: lib/helpers/settings_helper.php:320 lib/models/agent_model.php:39 
+#: lib/models/customer_model.php:31 
+#: lib/views/booking_form_settings/previews/_customer.php:15 
+#: lib/views/customer_cabinet/login.php:5 
+#: lib/views/customer_cabinet/request_password_reset_token.php:9 
+#: lib/views/customer_cabinet/request_password_reset_token.php:17 
+#: lib/views/customers/inline_edit_form.php:19 
+#: lib/views/customers/quick_edit.php:44 
+#: lib/views/default_agent/edit_form.php:20 
+#: lib/views/steps/partials/_contact_form.php:5 
+#: lib/views/wizard/steps/_default_agent.php:19 
+#: lib/views/wizard/steps/_form_agent.php:13
+#, fuzzy
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: lib/helpers/settings_helper.php:468
+#, fuzzy
+msgid "Email Address field can not be disabled."
+msgstr "Pole adresu e-mail nie może zostać wyłączone."
+
+#: lib/helpers/email_helper.php:76
+#, fuzzy
+msgid "Email address of the recipient can not be blank"
+msgstr "Adres e-mail odbiorcy nie może być pusty"
+
+#: lib/views/shared/_template_variables.php:42
+#, fuzzy
+msgid "Email Address:"
+msgstr "Adres e-mail:"
+
+#: lib/controllers/customer_cabinet_controller.php:309
+#, fuzzy
+msgid "Email does not match any customer"
+msgstr "E-mail nie pasuje do żadnego klienta"
+
+#: lib/views/settings/notifications.php:56
+#, fuzzy
+msgid "Email Layout"
+msgstr "Układ e-maila"
+
+#: lib/views/settings/notifications.php:74
+#, fuzzy
+msgid "Email Message"
+msgstr "Wiadomość e-mail"
+
+#: lib/helpers/email_helper.php:118 lib/helpers/email_helper.php:119
+#, fuzzy
+msgid ""
+"Email notifications are disabled. Enable email processor in Settings - "
+"Notifications."
+msgstr ""
+"Powiadomienia e-mail są wyłączone. Włącz procesor e-mail w Ustawieniach - "
+"Powiadomienia."
+
+#: lib/helpers/activities_helper.php:36
+#, fuzzy
+msgid "Email Sent"
+msgstr "E-mail wysłany"
+
+#: latepoint.php:1000
+#, fuzzy
+msgid "Email Settings"
+msgstr "Ustawienia E-mail"
+
+#: lib/misc/process_action.php:140 lib/views/settings/notifications.php:73
+#, fuzzy
+msgid "Email Subject"
+msgstr "Temat e-maila"
+
+#: lib/views/settings/notifications.php:51
+#, fuzzy
+msgid "Email System Settings"
+msgstr "Ustawienia systemu e-mail"
+
+#: lib/misc/process_action.php:179
+#, fuzzy
+msgid "Email To"
+msgstr "E-mail do"
+
+#: lib/helpers/email_helper.php:92
+#, fuzzy
+msgid "Email was sent successfully"
+msgstr "E-mail został pomyślnie wysłany"
+
+#: lib/views/shared/_template_variables.php:56
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail:"
+
+#: lib/views/customers/mini_profile.php:11
+#, fuzzy
+msgid "email:"
+msgstr "e-mail:"
+
+#: lib/views/bookings/pending_approval.php:31 
+#: lib/views/bookings/pending_approval.php:50 
+#: lib/views/customers/query_for_booking_form.php:12 
+#: lib/views/dashboard/_booking_info_box_small.php:20 
+#: lib/views/dashboard/_booking_info_box_small.php:36 
+#: lib/views/orders/quick_edit.php:178
+#, fuzzy
+msgid "Email: "
+msgstr "E-mail: "
+
+#: lib/views/settings/general.php:343
+#, fuzzy
+msgid "Enable login with Facebook"
+msgstr "Włącz logowanie przez Facebook"
+
+#: lib/views/settings/general.php:337
+#, fuzzy
+msgid "Enable login with Google"
+msgstr "Włącz logowanie przez Google"
+
+#: lib/models/work_period_model.php:23 lib/views/bookings/_booking_data.php:178
+#, fuzzy
+msgid "End Time"
+msgstr "Czas zakończenia"
+
+#: lib/views/shared/_template_variables.php:29
+#, fuzzy
+msgid "End Time:"
+msgstr "Czas zakończenia:"
+
+#: lib/views/customer_cabinet/password_reset_form.php:6
+#, fuzzy
+msgid ""
+"Enter a secret key you received via email to change your account password."
+msgstr ""
+"Wprowadź klucz tajny, który otrzymałeś e-mailem, aby zmienić hasło do konta."
+
+#: lib/views/settings/general.php:440
+#, fuzzy
+msgid "Enter Tracking code here"
+msgstr "Wprowadź tutaj kod śledzenia"
+
+#: lib/views/customer_cabinet/password_reset_form.php:8 
+#: lib/views/customer_cabinet/password_reset_form.php:18
+#, fuzzy
+msgid "Enter Your Secret Key"
+msgstr "Wprowadź swój klucz tajny"
+
+#: lib/views/settings/payments.php:31
+#, fuzzy
+msgid "Environment"
+msgstr "Środowisko"
+
+#: lib/helpers/activities_helper.php:41 lib/helpers/process_jobs_helper.php:245
+#, fuzzy
+msgid "Error"
+msgstr "Błąd"
+
+#: lib/controllers/customers_controller.php:216
+#, fuzzy
+msgid "Error Accessing Customer"
+msgstr "Błąd Dostępu do Klienta"
+
+#: lib/controllers/auth_controller.php:68
+#, fuzzy
+msgid "Error creating wp user"
+msgstr "Błąd tworzenia użytkownika wp"
+
+#: lib/helpers/addons_helper.php:101
+#, fuzzy
+msgid "Error installing addon! Invalid info KFE73463"
+msgstr "Błąd podczas instalacji dodatku! Nieprawidłowe informacje KFE73463"
+
+#: lib/controllers/activities_controller.php:255
+#, fuzzy
+msgid "Error Message:"
+msgstr "Komunikat Błędu:"
+
+#: lib/controllers/activities_controller.php:159 
+#: lib/controllers/activities_controller.php:163
+#, fuzzy
+msgid "Error Removing Activity"
+msgstr "Błąd Przy Usuwaniu Aktywności"
+
+#: lib/controllers/customers_controller.php:30 
+#: lib/controllers/customers_controller.php:34
+#, fuzzy
+msgid "Error Removing Customer"
+msgstr "Błąd Przy Usuwaniu Klienta"
+
+#: lib/controllers/orders_controller.php:600 
+#: lib/controllers/orders_controller.php:604
+#, fuzzy
+msgid "Error Removing Order"
+msgstr "Błąd Przy Usuwaniu Zamówienia"
+
+#: lib/controllers/services_controller.php:177 
+#: lib/controllers/services_controller.php:181
+#, fuzzy
+msgid "Error Removing Service"
+msgstr "Błąd Przy Usuwaniu Usługi"
+
+#: lib/controllers/transactions_controller.php:37 
+#: lib/controllers/transactions_controller.php:41
+#, fuzzy
+msgid "Error Removing Transaction"
+msgstr "Błąd podczas usuwania transakcji"
+
+#: lib/controllers/processes_controller.php:91
+#, fuzzy
+msgid "Error Removing Workflow"
+msgstr "Błąd Przy Usuwaniu Przepływu Pracy"
+
+#: lib/controllers/processes_controller.php:167
+#, fuzzy
+msgid "Error saving process"
+msgstr "Błąd Przy Zapisywaniu Procesu"
+
+#: lib/helpers/email_helper.php:97
+#, fuzzy
+msgid "Error sending email"
+msgstr "Błąd podczas wysyłania e-maila"
+
+#: lib/controllers/customers_controller.php:88
+#, fuzzy
+msgid "Error setting customer as guest"
+msgstr "Błąd przy ustawianiu klienta jako gościa"
+
+#: lib/controllers/bookings_controller.php:343 
+#: lib/controllers/customer_cabinet_controller.php:198 
+#: lib/controllers/manage_booking_by_key_controller.php:182 
+#: lib/controllers/manage_booking_by_key_controller.php:205
+#, fuzzy
+msgid "Error Updating Booking Status!"
+msgstr "Błąd Aktualizacji Statusu Rezerwacji!"
+
+#: lib/controllers/bookings_controller.php:347
+#, fuzzy
+msgid "Error Updating Booking Status! Invalid ID"
+msgstr "Błąd Aktualizacji Statusu Rezerwacji! Nieprawidłowe ID"
+
+#: lib/controllers/customer_cabinet_controller.php:351
+#, fuzzy
+msgid "Error!"
+msgstr "Błąd!"
+
+#: lib/controllers/customer_cabinet_controller.php:309
+#, fuzzy
+msgid "Error! Email was not sent."
+msgstr "Błąd! E-mail nie został wysłany."
+
+#: lib/controllers/customer_cabinet_controller.php:158 
+#: lib/controllers/manage_booking_by_key_controller.php:142
+#, fuzzy
+msgid "Error! LKDFU343"
+msgstr "Błąd! LKDFU343"
+
+#: lib/controllers/customer_cabinet_controller.php:408
+#, fuzzy
+msgid "Error! Message Code: JS76SD"
+msgstr "Błąd! Kod Wiadomości: JS76SD"
+
+#: lib/controllers/customer_cabinet_controller.php:371 
+#: lib/controllers/customer_cabinet_controller.php:400
+#, fuzzy
+msgid "Error! Message Code: KS723J"
+msgstr "Błąd! Kod Wiadomości: KS723J"
+
+#: lib/controllers/customer_cabinet_controller.php:405
+#, fuzzy
+msgid "Error! Password is empty."
+msgstr "Błąd! Hasło jest puste."
+
+#: lib/controllers/customer_cabinet_controller.php:376
+#, fuzzy
+msgid "Error! Passwords do not match."
+msgstr "Błąd! Hasła nie pasują."
+
+#: lib/controllers/customer_cabinet_controller.php:152 
+#: lib/controllers/manage_booking_by_key_controller.php:136
+#, fuzzy
+msgid "Error! Please try again later"
+msgstr "Błąd! Spróbuj ponownie później"
+
+#: lib/controllers/process_jobs_controller.php:59
+#, fuzzy
+msgid "Error:"
+msgstr "Błąd:"
+
+#: lib/controllers/orders_controller.php:126 
+#: lib/controllers/orders_controller.php:144 
+#: lib/controllers/orders_controller.php:353
+#, fuzzy
+msgid "Error: "
+msgstr "Błąd: "
+
+#: lib/models/order_intent_model.php:297
+#, fuzzy
+#, php-format
+msgid "Error: %s"
+msgstr "Błąd: %s"
+
+#: lib/controllers/activities_controller.php:185
+#, fuzzy
+msgid "Errors:"
+msgstr "Błędy:"
+
+#: lib/views/process_jobs/index.php:22 lib/views/process_jobs/index.php:56
+#, fuzzy
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: lib/views/processes/_form.php:35
+#, fuzzy
+msgid "Event Type"
+msgstr "Typ wydarzenia"
+
+#: lib/helpers/processes_helper.php:102
+#, fuzzy
+msgid "Execute actions with a time offset"
+msgstr "Wykonaj działania z przesunięciem czasowym"
+
+#: lib/views/activities/index.php:22
+#, fuzzy
+msgid "Export"
+msgstr "Eksportuj"
+
+#: lib/views/integrations/external_calendars.php:9
+msgid "External Calendars"
+msgstr "Zewnętrzne kalendarze"
+
+#: lib/views/settings/general.php:345
+#, fuzzy
+msgid "Facebook App ID"
+msgstr "ID aplikacji Facebook"
+
+#: lib/views/settings/general.php:346
+#, fuzzy
+msgid "Facebook App Secret"
+msgstr "Sekret aplikacji Facebook"
+
+#: lib/helpers/payments_helper.php:302
+#, fuzzy
+msgid "Failed"
+msgstr "Niepowodzenie"
+
+#: lib/views/addons/load_addons_list.php:52
+#, fuzzy
+msgid "Featured"
+msgstr "Polecane"
+
+#: lib/helpers/util_helper.php:230 lib/helpers/util_helper.php:265
+#, fuzzy
+msgid "Feb"
+msgstr "Lut"
+
+#: lib/helpers/util_helper.php:218 lib/helpers/util_helper.php:253
+#, fuzzy
+msgid "February"
+msgstr "Luty"
+
+#: lib/controllers/wizard_controller.php:39
+#, fuzzy
+msgid "Fill Business Info"
+msgstr "Uzupełnij informacje o firmie"
+
+#: lib/views/activities/index.php:41 lib/views/activities/index.php:42 
+#: lib/views/customers/index.php:54 lib/views/customers/index.php:55 
+#: lib/views/orders/index.php:59 lib/views/orders/index.php:61 
+#: lib/views/process_jobs/index.php:39 lib/views/process_jobs/index.php:40 
+#: lib/views/transactions/index.php:53 lib/views/transactions/index.php:54
+#, fuzzy
+msgid "Filter By Date"
+msgstr "Filtruj według daty"
+
+#: lib/views/bookings/index.php:67 lib/views/bookings/index.php:82 
+#: lib/views/bookings/index.php:83
+#, fuzzy
+msgid "Filter Date"
+msgstr "Filtruj datę"
+
+#: lib/helpers/events_helper.php:307
+#, fuzzy
+msgid "Filters"
+msgstr "Filtry"
+
+#: lib/views/orders/quick_edit.php:152
+#, fuzzy
+msgid "Find"
+msgstr "Znajdź"
+
+#: lib/helpers/work_periods_helper.php:252
+#, fuzzy
+msgid "Finish"
+msgstr "Zakończ"
+
+#: lib/helpers/settings_helper.php:318 lib/models/agent_model.php:37 
+#: lib/views/booking_form_settings/previews/_customer.php:12 
+#: lib/views/customers/inline_edit_form.php:11 
+#: lib/views/customers/quick_edit.php:32 
+#: lib/views/default_agent/edit_form.php:12 
+#: lib/views/steps/partials/_contact_form.php:2 
+#: lib/views/wizard/steps/_default_agent.php:11 
+#: lib/views/wizard/steps/_form_agent.php:5
+#, fuzzy
+msgid "First Name"
+msgstr "Imię"
+
+#: lib/views/shared/_template_variables.php:40 
+#: lib/views/shared/_template_variables.php:52
+#, fuzzy
+msgid "First Name:"
+msgstr "Imię:"
+
+#: blocks/controls/TypographyControl.js:44
+#, fuzzy
+msgid "Font Family"
+msgstr "Rodzina Czcionek"
+
+#: lib/views/shared/_template_variables.php:4
+msgid "For Agent:"
+msgstr "Dla pracownika:"
+
+#: lib/views/notifications/templates_index.php:16
+msgid "For Agents"
+msgstr "Dla pracowników"
+
+#: lib/views/shared/_template_variables.php:5
+#, fuzzy
+msgid "For Customer:"
+msgstr "Dla klienta:"
+
+#: lib/views/notifications/templates_index.php:25
+#, fuzzy
+msgid "For Customers"
+msgstr "Dla klientów"
+
+#: lib/views/calendars/view.php:54
+#, fuzzy
+msgid "For:"
+msgstr "Dla:"
+
+#: lib/views/booking_form_settings/previews/_customer.php:37 
+#: lib/views/customer_cabinet/login.php:9 lib/views/steps/_customer.php:50
+#, fuzzy
+msgid "Forgot Password?"
+msgstr "Zapomniałeś hasła?"
+
+#: lib/controllers/form_fields_controller.php:22 lib/helpers/menu_helper.php:91
+#, fuzzy
+msgid "Form Fields"
+msgstr "Pola Formularza"
+
+#: lib/views/settings/general.php:206
+#, fuzzy
+msgid "Format phone number on input"
+msgstr "Formatuj numer telefonu podczas wprowadzania"
+
+#: lib/views/settings/general.php:129
+#, fuzzy
+msgid "Formatting"
+msgstr "Formatowanie"
+
+#: lib/helpers/booking_helper.php:1303
+#, fuzzy
+msgid "Fri"
+msgstr "Pt"
+
+#: lib/helpers/booking_helper.php:1293 lib/helpers/util_helper.php:295
+#, fuzzy
+msgid "Friday"
+msgstr "Piątek"
+
+#: latepoint.php:1005
+#, fuzzy
+msgid "From Email Address"
+msgstr "Od Adresu E-mail"
+
+#: latepoint.php:1004
+#, fuzzy
+msgid "From Name"
+msgstr "Od Nazwy"
+
+#: lib/helpers/orders_helper.php:82
+#, fuzzy
+msgid "Fulfilled"
+msgstr "Zrealizowane"
+
+#: lib/misc/process_event.php:332 lib/misc/process_event.php:341
+#, fuzzy
+msgid "Fulfillment Service"
+msgstr "Usługa realizacji"
+
+#: lib/models/order_model.php:323 lib/views/orders/index.php:44 
+#: lib/views/orders/index.php:82 lib/views/orders/quick_edit.php:43
+#, fuzzy
+msgid "Fulfillment Status"
+msgstr "Status realizacji"
+
+#: lib/views/shared/_template_variables.php:66
+#, fuzzy
+msgid "Full Address:"
+msgstr "Pełny adres:"
+
+#: lib/views/steps/_payment__portions.php:27
+#, fuzzy
+msgid "Full Amount"
+msgstr "Pełna kwota"
+
+#: lib/helpers/payments_helper.php:273
+#, fuzzy
+msgid "Full Balance"
+msgstr "Pełne saldo"
+
+#: lib/views/customers/index.php:32 lib/views/customers/index.php:70
+#, fuzzy
+msgid "Full Name"
+msgstr "Pełne imię i nazwisko"
+
+#: lib/views/shared/_template_variables.php:39 
+#: lib/views/shared/_template_variables.php:54
+#, fuzzy
+msgid "Full Name:"
+msgstr "Pełne imię i nazwisko:"
+
+#: lib/helpers/settings_helper.php:480
+#, fuzzy
+msgid "Full Width"
+msgstr "Pełna szerokość"
+
+#: lib/helpers/orders_helper.php:99
+#, fuzzy
+msgid "Fully Paid"
+msgstr "W pełni opłacone"
+
+#: lib/controllers/settings_controller.php:98 lib/helpers/menu_helper.php:66
+#, fuzzy
+msgid "General"
+msgstr "Ogólne"
+
+#: lib/views/services/_form.php:7
+#, fuzzy
+msgid "General Information"
+msgstr "Informacje ogólne"
+
+#: lib/views/settings/work_periods.php:6
+#, fuzzy
+msgid "General Weekly Schedule"
+msgstr "Ogólny tygodniowy harmonogram"
+
+#: lib/views/wizard/steps/_intro.php:4
+#, fuzzy
+msgid "Get Started"
+msgstr "Rozpocznij"
+
+#: lib/helpers/booking_helper.php:155
+#, fuzzy
+msgid "Google Calendar"
+msgstr "Kalendarz Google"
+
+#: lib/views/settings/general.php:340
+#, fuzzy
+msgid "Google Client ID"
+msgstr "ID klienta Google"
+
+#: lib/views/settings/general.php:341
+#, fuzzy
+msgid "Google Client Secret"
+msgstr "Sekret klienta Google"
+
+#: lib/views/booking_form_settings/show.php:25
+#, fuzzy
+msgid "Green"
+msgstr "Zielony"
+
+#: lib/views/bookings/grouped_bookings_quick_view.php:2
+msgid "Group Appointment"
+msgstr "Rezerwacja grupowa"
+
+#: lib/views/customers/quick_edit.php:66
+#, fuzzy
+msgid "Guest Account"
+msgstr "Konto gościa"
+
+#: lib/helpers/settings_helper.php:480
+#, fuzzy
+msgid "Half Width"
+msgstr "Połowa szerokości"
+
+#: lib/views/bookings/index.php:74
+#, fuzzy
+msgid "Happening Now"
+msgstr "Dzieje się teraz"
+
+#: lib/misc/process_event.php:294
+#, fuzzy
+msgid "has changed"
+msgstr "zostało zmienione"
+
+#: lib/misc/process_event.php:295
+#, fuzzy
+msgid "has not changed"
+msgstr "nie zostało zmienione"
+
+#: latepoint.php:1345 latepoint.php:1474
+#, fuzzy
+msgid "has to be checked"
+msgstr "musi być zaznaczone"
+
+#: lib/views/settings/general.php:329
+#, fuzzy
+msgid "Hide \"Create Account\" prompt on confirmation step"
+msgstr "Ukryj komunikat \"Utwórz konto\" na etapie potwierdzenia"
+
+#: lib/helpers/steps_helper.php:1944
+msgid "Hide agent name from summary and confirmation"
+msgstr "Ukryj nazwę pracownika w podsumowaniu i potwierdzeniu"
+
+#: lib/helpers/steps_helper.php:1956
+#, fuzzy
+msgid "Hide slot availability count"
+msgstr "Ukryj liczbę dostępnych slotów"
+
+#: lib/helpers/steps_helper.php:1957
+#, fuzzy
+msgid "Hide slots that are not available (time boxes)"
+msgstr "Ukryj sloty, które nie są dostępne (okna czasowe)"
+
+#: lib/helpers/steps_helper.php:1955
+#, fuzzy
+msgid "Hide time picker if single slot"
+msgstr "Ukryj wybór czasu, jeśli dostępny jest tylko jeden slot"
+
+#: lib/helpers/steps_helper.php:1957
+#, fuzzy
+msgid ""
+"Hides time boxes that are not available, instead of showing them in gray."
+msgstr ""
+"Ukrywa okna czasowe, które nie są dostępne, zamiast wyświetlać je w szarym "
+"kolorze."
+
+#: lib/views/bookings/_booking_data.php:12 
+#: lib/views/customers/quick_edit.php:22 lib/views/orders/quick_edit.php:35
+#, fuzzy
+msgid "History"
+msgstr "Historia"
+
+#: lib/views/services/_form.php:234 lib/views/settings/work_periods.php:28
+#, fuzzy
+msgid "Holidays & Days Off"
+msgstr "Święta i dni wolne"
+
+#: blocks/controls/BoxShadowControl.js:45
+#, fuzzy
+msgid "Horizontal"
+msgstr "Poziomy"
+
+#: lib/helpers/service_helper.php:38
+#, fuzzy
+msgid "Hour"
+msgstr "Godzina"
+
+#: lib/helpers/service_helper.php:38
+#, fuzzy
+msgid "Hours"
+msgstr "Godziny"
+
+#: lib/helpers/time_helper.php:99 lib/models/booking_model.php:828 
+#: lib/views/settings/general.php:259 lib/views/settings/general.php:296
+#, fuzzy
+msgid "hours"
+msgstr "godzin"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:83
+#, fuzzy
+msgid "Hours Worked"
+msgstr "Przepracowane godziny"
+
+#: lib/misc/process_action.php:213
+#, fuzzy
+msgid "HTTP Request"
+msgstr "Żądanie HTTP"
+
+#. Author URI of the plugin/theme
+msgid "http://latepoint.com"
+msgstr "http://latepoint.com"
+
+#: lib/controllers/bookings_controller.php:209 
+#: lib/controllers/customers_controller.php:305 
+#: lib/controllers/orders_controller.php:672 
+#: lib/controllers/transactions_controller.php:98 
+#: lib/views/bookings/index.php:44 lib/views/bookings/index.php:62 
+#: lib/views/bookings/index.php:112 lib/views/customers/index.php:31 
+#: lib/views/customers/index.php:43 lib/views/customers/index.php:69 
+#: lib/views/orders/index.php:39 lib/views/orders/index.php:49 
+#: lib/views/orders/index.php:77 lib/views/transactions/index.php:30 
+#: lib/views/transactions/index.php:42 lib/views/transactions/index.php:68
+#, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#: lib/helpers/location_helper.php:319
+#, fuzzy
+msgid "ID: "
+msgstr "ID: "
+
+#: lib/helpers/steps_helper.php:1947
+msgid "If \"Any Agent\" is selected then assign booking to"
+msgstr "Jeśli wybrano opcję \"Dowolny pracownik\", przypisz rezerwację do"
+
+#: lib/helpers/steps_helper.php:1955
+#, fuzzy
+msgid "If a single slot is available in a day, it will be preselected."
+msgstr "Jeśli dostępny jest jeden slot w dniu, zostanie on wstępnie wybrany."
+
+#: lib/views/settings/general.php:224
+msgid ""
+"If an agent is booked at one location, he will not be able to accept any "
+"bookings for the same timeslot at other locations"
+msgstr ""
+"Jeśli pracownik jest zarezerwowany w jednej lokalizacji, nie będzie mógł "
+"przyjmować rezerwacji w tym samym czasie w innych lokalizacjach"
+
+#: lib/views/settings/general.php:284
+msgid "If enable, shows a button on customer cabinet to cancel an appointment"
+msgstr ""
+"Jeśli włączone, wyświetla przycisk w panelu klienta do anulowania rezerwacji"
+
+#: lib/views/settings/general.php:247
+msgid ""
+"If enable, shows a button on customer cabinet to reschedule an appointment"
+msgstr ""
+"Jeśli włączone, wyświetla przycisk w panelu klienta do zmiany terminu "
+"rezerwacji"
+
+#: lib/views/settings/general.php:207
+#, fuzzy
+msgid ""
+"If enabled, will show a country code next to a flag, for example +1 for "
+"United States"
+msgstr ""
+"Jeśli włączone, pokaże kod kraju obok flagi, na przykład +1 dla Stanów "
+"Zjednoczonych"
+
+#: lib/helpers/steps_helper.php:1940
+#, fuzzy
+msgid "If turned on, services will be displayed in categories"
+msgstr "Jeśli włączone, usługi będą wyświetlane w kategoriach"
+
+#: lib/helpers/time_helper.php:89
+#, fuzzy
+msgid "in"
+msgstr "w"
+
+#: lib/views/calendars/scopes/_list.php:73 
+#: lib/views/dashboard/widget_upcoming_appointments.php:64
+#, fuzzy
+#, php-format
+msgid "in %s"
+msgstr "w %s"
+
+#: lib/views/steps/partials/_booking_form_summary_panel.php:48
+#, fuzzy
+msgid "In cart"
+msgstr "W koszyku"
+
+#: lib/helpers/calendar_helper.php:202
+#, fuzzy
+msgid "In order to generate the calendar, a service must be selected."
+msgstr "Aby wygenerować kalendarz, należy wybrać usługę."
+
+#: lib/controllers/activities_controller.php:136
+#, fuzzy
+msgid "Index"
+msgstr "Indeks"
+
+#: lib/views/steps/partials/_cart_summary.php:80 
+#: lib/views/steps/partials/_order_summary.php:40
+#, fuzzy
+msgid "Individual Services"
+msgstr "Usługi indywidualne"
+
+#: lib/controllers/customer_cabinet_controller.php:227
+#, fuzzy
+msgid "Information Saved"
+msgstr "Informacje Zapisane"
+
+#: lib/views/integrations/external_calendars.php:42
+#, fuzzy
+msgid "Install Google Calendar add-on"
+msgstr "Zainstaluj dodatek Google Calendar"
+
+#: lib/views/integrations/external_marketing_systems.php:47
+#, fuzzy
+msgid "Install Marketing add-ons"
+msgstr "Zainstaluj dodatki marketingowe"
+
+#: lib/views/addons/load_addons_list.php:120 
+#: lib/views/addons/load_addons_list.php:130
+#, fuzzy
+msgid "Install Now"
+msgstr "Zainstaluj teraz"
+
+#: lib/views/settings/payments.php:51
+#, fuzzy
+msgid "Install Payment Gateway Add-on"
+msgstr "Zainstaluj dodatek bramki płatności"
+
+#: lib/helpers/util_helper.php:423
+#, fuzzy
+msgid "Install PRO Addon to enable this feature"
+msgstr "Zainstaluj dodatek PRO, aby włączyć tę funkcję"
+
+#: lib/misc/process_action.php:149 lib/views/settings/notifications.php:42
+#, fuzzy
+msgid "Install SMS Addon"
+msgstr "Zainstaluj dodatek SMS"
+
+#: lib/misc/process_action.php:153
+#, fuzzy
+msgid "Install Webhooks Addon"
+msgstr "Zainstaluj dodatek Webhooks"
+
+#: lib/views/integrations/external_meeting_systems.php:47
+#, fuzzy
+msgid "Install Zoom or Google Meet add-on"
+msgstr "Zainstaluj dodatek Zoom lub Google Meet"
+
+#: lib/views/debug/status.php:39
+#, fuzzy
+msgid "Installed Addons"
+msgstr "Zainstalowane dodatki"
+
+#: lib/views/updates/check_version_status.php:39
+#, fuzzy
+msgid "Installed Version: "
+msgstr "Zainstalowana wersja: "
+
+#: lib/views/addons/load_addons_list.php:69 
+#: lib/views/addons/load_addons_list.php:71
+#, fuzzy
+msgid "Installed:"
+msgstr "Zainstalowane:"
+
+#: lib/controllers/integrations_controller.php:19 
+#: lib/helpers/menu_helper.php:84
+#, fuzzy
+msgid "Integrations"
+msgstr "Integracje"
+
+#: lib/controllers/wizard_controller.php:31
+#, fuzzy
+msgid "Intro"
+msgstr "Wstęp"
+
+#: lib/controllers/customer_cabinet_controller.php:256
+#, fuzzy
+msgid "Invalid Booking"
+msgstr "Nieprawidłowa Rezerwacja"
+
+#: lib/controllers/customer_cabinet_controller.php:235 
+#: lib/controllers/customers_controller.php:174
+#, fuzzy
+msgid "Invalid customer ID"
+msgstr "Nieprawidłowe ID Klienta"
+
+#: lib/controllers/settings_controller.php:110
+#, fuzzy
+msgid "Invalid Data"
+msgstr "Nieprawidłowe dane"
+
+#: lib/controllers/settings_controller.php:129
+#, fuzzy
+msgid "Invalid Date"
+msgstr "Nieprawidłowa data"
+
+#: lib/models/booking_model.php:764 lib/models/booking_model.php:774
+#, fuzzy
+msgid "Invalid Date/Time"
+msgstr "Nieprawidłowa data/godzina"
+
+#: lib/controllers/addons_controller.php:42
+#, fuzzy
+msgid "Invalid license key. Activate in LatePoint settings."
+msgstr "Nieprawidłowy klucz licencyjny. Aktywuj w ustawieniach LatePoint."
+
+#: lib/controllers/steps_controller.php:167
+#, fuzzy
+msgid "Invalid order intent key"
+msgstr "Nieprawidłowy klucz zamiaru zamówienia"
+
+#: lib/controllers/customer_cabinet_controller.php:284
+#, fuzzy
+msgid "Invalid password or email"
+msgstr "Nieprawidłowe hasło lub e-mail"
+
+#: lib/controllers/controller.php:38
+#, fuzzy
+msgid "Invalid Request"
+msgstr "Nieprawidłowe Żądanie"
+
+#: lib/helpers/roles_helper.php:207
+#, fuzzy
+msgid "Invalid role type"
+msgstr "Nieprawidłowy typ roli"
+
+#: lib/controllers/customer_cabinet_controller.php:346
+#, fuzzy
+msgid "Invalid Secret Key"
+msgstr "Nieprawidłowy Klucz Tajny"
+
+#: lib/views/bookings/view_booking_log.php:19 
+#: lib/views/orders/view_order_log.php:19
+#, fuzzy
+msgid "IP Address: "
+msgstr "Adres IP: "
+
+#: lib/misc/process_event.php:305
+#, fuzzy
+msgid "is equal to"
+msgstr "jest równe"
+
+#: latepoint.php:1346 latepoint.php:1475
+#, fuzzy
+msgid "is invalid"
+msgstr "jest nieprawidłowe"
+
+#: lib/misc/process_event.php:306
+#, fuzzy
+msgid "is not equal to"
+msgstr "nie jest równe"
+
+#: lib/helpers/util_helper.php:229 lib/helpers/util_helper.php:264
+#, fuzzy
+msgid "Jan"
+msgstr "Sty"
+
+#: lib/helpers/util_helper.php:217 lib/helpers/util_helper.php:252
+#, fuzzy
+msgid "January"
+msgstr "Styczeń"
+
+#: lib/controllers/process_jobs_controller.php:93
+#, fuzzy
+msgid "Job cancelled"
+msgstr "Zadanie anulowane"
+
+#: lib/models/process_job_model.php:170
+#, fuzzy
+msgid "Job process has no actions to run"
+msgstr "Proces zadania nie ma działań do wykonania"
+
+#: lib/controllers/process_jobs_controller.php:36
+#, fuzzy
+msgid "Job Results"
+msgstr "Wyniki Zadań"
+
+#: lib/helpers/util_helper.php:235 lib/helpers/util_helper.php:269
+#, fuzzy
+msgid "Jul"
+msgstr "Lip"
+
+#: lib/helpers/util_helper.php:223 lib/helpers/util_helper.php:258
+#, fuzzy
+msgid "July"
+msgstr "Lipiec"
+
+#: lib/helpers/util_helper.php:234 lib/helpers/util_helper.php:268
+#, fuzzy
+msgid "Jun"
+msgstr "Cze"
+
+#: lib/helpers/util_helper.php:222 lib/helpers/util_helper.php:257
+#, fuzzy
+msgid "June"
+msgstr "Czerwiec"
+
+#: latepoint.php:1452
+#, fuzzy
+msgid "Just click to copy"
+msgstr "Kliknij, aby skopiować"
+
+#: lib/helpers/settings_helper.php:319 lib/models/agent_model.php:41 
+#: lib/views/booking_form_settings/previews/_customer.php:13 
+#: lib/views/customers/inline_edit_form.php:14 
+#: lib/views/customers/quick_edit.php:35 
+#: lib/views/default_agent/edit_form.php:15 
+#: lib/views/steps/partials/_contact_form.php:3 
+#: lib/views/wizard/steps/_default_agent.php:14 
+#: lib/views/wizard/steps/_form_agent.php:8
+#, fuzzy
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: lib/views/shared/_template_variables.php:41 
+#: lib/views/shared/_template_variables.php:53
+#, fuzzy
+msgid "Last Name:"
+msgstr "Nazwisko:"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: latepoint.php:1206 latepoint.php:1207 latepoint.php:1223
+#, fuzzy
+msgid "LatePoint"
+msgstr "LatePoint"
+
+#: lib/views/updates/check_version_status.php:10
+#, fuzzy
+#, php-format
+msgid "LatePoint %s is available."
+msgstr "Dostępna jest wersja LatePoint %s."
+
+#: lib/misc/role.php:27 lib/misc/role.php:113
+msgid "LatePoint Agent"
+msgstr "Pracownik LatePoint"
+
+#: lib/views/debug/status.php:14
+#, fuzzy
+msgid "LatePoint Database Version:"
+msgstr "Wersja bazy danych LatePoint:"
+
+#: lib/views/debug/status.php:10
+#, fuzzy
+msgid "LatePoint Plugin Version:"
+msgstr "Wersja wtyczki LatePoint:"
+
+#: lib/controllers/debug_controller.php:18
+#, fuzzy
+msgid "LatePoint Status"
+msgstr "Status LatePoint"
+
+#: lib/views/settings/general.php:83
+#, fuzzy
+msgid "Latest Possible Booking"
+msgstr "Najpóźniejsza możliwa rezerwacja"
+
+#: lib/views/addons/load_addons_list.php:68 
+#: lib/views/addons/load_addons_list.php:74
+#, fuzzy
+msgid "Latest:"
+msgstr "Najnowsze:"
+
+#: lib/helpers/agent_helper.php:123 lib/helpers/agent_helper.php:174 
+#: lib/helpers/steps_helper.php:2332 lib/views/addons/load_addons_list.php:125 
+#: lib/views/addons/load_addons_list.php:144
+#, fuzzy
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: lib/helpers/settings_helper.php:200
+msgid "Least expensive agent"
+msgstr "Najtańszy pracownik"
+
+#: lib/controllers/updates_controller.php:47
+#, fuzzy
+msgid "License Deactivated"
+msgstr "Licencja dezaktywowana"
+
+#: lib/views/updates/_license_form.php:23
+#, fuzzy
+msgid "License Key"
+msgstr "Klucz licencyjny"
+
+#: lib/views/updates/_license_form.php:2
+#, fuzzy
+msgid "License Key Registration"
+msgstr "Rejestracja klucza licencyjnego"
+
+#: lib/views/steps/partials/_limit_reached.php:3
+#, fuzzy
+msgid "Limit Reached!"
+msgstr "Osiągnięto limit!"
+
+#: lib/views/calendars/view.php:39
+#, fuzzy
+msgid "List"
+msgstr "Lista"
+
+#: lib/views/settings/payments.php:34
+#, fuzzy
+msgid "Live"
+msgstr "Na żywo"
+
+#: lib/misc/process_action.php:131
+#, fuzzy
+msgid "Load from template"
+msgstr "Załaduj z szablonu"
+
+#: lib/views/bookings/quick_availability.php:33
+#, fuzzy
+msgid "Load next 30 days"
+msgstr "Załaduj następne 30 dni"
+
+#: lib/views/bookings/quick_availability.php:25
+#, fuzzy
+msgid "Load previous 30 days"
+msgstr "Załaduj poprzednie 30 dni"
+
+#: lib/views/addons/index.php:2
+#, fuzzy
+msgid "Loading Addons Information"
+msgstr "Ładowanie informacji o dodatkach"
+
+#: lib/views/settings/payments.php:40
+#, fuzzy
+msgid "Local Payments"
+msgstr "Płatności lokalne"
+
+#: lib/helpers/location_helper.php:41 lib/helpers/steps_helper.php:2293 
+#: lib/views/bookings/_booking_data.php:110 lib/views/bookings/index.php:49 
+#: lib/views/bookings/index.php:117 lib/views/shared/_template_variables.php:63
+#, fuzzy
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: lib/views/settings/general.php:223
+msgid "Location can only be used by one agent at a time"
+msgstr ""
+"Lokalizacja może być używana tylko przez jednego pracownika jednocześnie"
+
+#: lib/models/location_category_model.php:15
+#, fuzzy
+msgid "Location Category Name"
+msgstr "Nazwa kategorii lokalizacji"
+
+#: lib/models/location_category_model.php:17
+#, fuzzy
+msgid "Location Category Selection Image"
+msgstr "Obraz kategorii lokalizacji"
+
+#: lib/models/location_category_model.php:16
+#, fuzzy
+msgid "Location Category Short Description"
+msgstr "Krótki opis kategorii lokalizacji"
+
+#: lib/helpers/activities_helper.php:34
+#, fuzzy
+msgid "Location Created"
+msgstr "Lokalizacja utworzona"
+
+#: lib/controllers/activities_controller.php:50
+#, fuzzy
+msgid "Location ID"
+msgstr "ID Lokalizacji"
+
+#: lib/models/location_model.php:20
+#, fuzzy
+msgid "Location Name"
+msgstr "Nazwa lokalizacji"
+
+#: lib/helpers/activities_helper.php:33
+#, fuzzy
+msgid "Location Updated"
+msgstr "Lokalizacja zaktualizowana"
+
+#: lib/helpers/location_helper.php:150 lib/helpers/menu_helper.php:61 
+#: lib/helpers/menu_helper.php:113 lib/helpers/roles_helper.php:303
+#, fuzzy
+msgid "Locations"
+msgstr "Lokalizacje"
+
+#: lib/helpers/location_helper.php:322
+#, fuzzy
+msgid "Locations Linked"
+msgstr "Powiązane lokalizacje"
+
+#: lib/views/services/_form.php:148
+#, fuzzy
+msgid "Locations Selected"
+msgstr "Wybrane lokalizacje"
+
+#: lib/views/calendars/view.php:108
+#, fuzzy
+msgid "Locations:"
+msgstr "Lokalizacje:"
+
+#: lib/views/booking_form_settings/previews/_customer.php:32 
+#: lib/views/steps/_customer.php:45
+#, fuzzy
+msgid "Log Me In"
+msgstr "Zaloguj mnie"
+
+#: lib/views/customer_cabinet/login.php:8
+#, fuzzy
+msgid "Log me in"
+msgstr "Zaloguj mnie"
+
+#: lib/views/customer_cabinet/login.php:3
+#, fuzzy
+msgid "Login to your account"
+msgstr "Zaloguj się na swoje konto"
+
+#: lib/views/booking_form_settings/previews/_customer.php:50 
+#: lib/views/customer_cabinet/login.php:15 lib/views/steps/_customer.php:63
+#, fuzzy
+msgid "Login with Facebook"
+msgstr "Zaloguj się przez Facebooka"
+
+#: lib/views/customer_cabinet/dashboard.php:12 
+#: lib/views/partials/_side_menu.php:17 lib/views/partials/_side_menu.php:46 
+#: lib/views/steps/_customer.php:21
+#, fuzzy
+msgid "Logout"
+msgstr "Wyloguj się"
+
+#: lib/views/calendars/missing_resources.php:3
+msgid ""
+"Looks like you have not set work hours for these resources, or agents you "
+"selected do not offer these services."
+msgstr ""
+"Wygląda na to, że nie ustawiłeś godzin pracy dla tych zasobów lub wybrani "
+"pracownicy nie oferują tych usług."
+
+#: lib/views/calendars/scopes/_week.php:113
+msgid ""
+"Looks like you have not set your working hours yet, or the agent you "
+"selected does not offer this service."
+msgstr ""
+"Wygląda na to, że jeszcze nie ustawiłeś godzin pracy lub wybrany pracownik "
+"nie oferuje tej usługi."
+
+#: blocks/controls/TypographyControl.js:74
+#, fuzzy
+msgid "Lowercase"
+msgstr "Małe Litery"
+
+#: lib/helpers/location_helper.php:282
+#, fuzzy
+msgid "Main Location"
+msgstr "Główna lokalizacja"
+
+#: lib/views/steps/partials/_booking_summary.php:35 
+#: lib/views/steps/partials/_booking_summary.php:59
+#, fuzzy
+msgid "Manage Order"
+msgstr "Zarządzaj zamówieniem"
+
+#: lib/helpers/util_helper.php:231 lib/helpers/util_helper.php:266
+#, fuzzy
+msgid "Mar"
+msgstr "Mar"
+
+#: lib/helpers/util_helper.php:219 lib/helpers/util_helper.php:254
+#, fuzzy
+msgid "March"
+msgstr "Marzec"
+
+#: lib/helpers/menu_helper.php:88
+#, fuzzy
+msgid "Marketing"
+msgstr "Marketing"
+
+#: lib/views/integrations/external_marketing_systems.php:13
+#, fuzzy
+msgid "Marketing Systems"
+msgstr "Systemy marketingowe"
+
+#: lib/views/settings/general.php:93
+#, fuzzy
+msgid "Maximum Number of Future Bookings per Customer"
+msgstr "Maksymalna liczba przyszłych rezerwacji na klienta"
+
+#: lib/models/service_model.php:47 lib/views/services/_form.php:89
+#, fuzzy
+msgid "Maximum Price"
+msgstr "Cena maksymalna"
+
+#: lib/helpers/util_helper.php:221 lib/helpers/util_helper.php:256
+#, fuzzy
+msgid "May"
+msgstr "Maj"
+
+#: lib/views/services/_form.php:32
+#, fuzzy
+msgid "Media"
+msgstr "Media"
+
+#: lib/helpers/menu_helper.php:87
+#, fuzzy
+msgid "Meetings"
+msgstr "Spotkania"
+
+#: lib/views/partials/_top_bar.php:2
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+#: lib/misc/process_action.php:147
+#, fuzzy
+msgid "Message"
+msgstr "Wiadomość"
+
+#: lib/misc/process_action.php:147
+#, fuzzy
+msgid "Message Content"
+msgstr "Treść wiadomości"
+
+#: lib/controllers/orders_controller.php:677 
+#: lib/controllers/transactions_controller.php:103 
+#: lib/views/transactions/index.php:35 lib/views/transactions/index.php:73
+#, fuzzy
+msgid "Method"
+msgstr "Metoda"
+
+#: lib/helpers/booking_helper.php:163
+#, fuzzy
+msgid "Microsoft 365"
+msgstr "Microsoft 365"
+
+#: lib/views/services/_service_index_item.php:20 
+#: lib/views/services/_service_index_item.php:28
+#, fuzzy
+msgid "min"
+msgstr "min"
+
+#: lib/views/settings/general.php:401
+#, fuzzy
+msgid "Minimum height of a daily calendar (in pixels)"
+msgstr "Minimalna wysokość dziennego kalendarza (w pikselach)"
+
+#: lib/models/service_model.php:46 lib/views/services/_form.php:86
+#, fuzzy
+msgid "Minimum Price"
+msgstr "Cena minimalna"
+
+#: lib/helpers/service_helper.php:39 lib/helpers/service_helper.php:41
+#, fuzzy
+msgid "Minutes"
+msgstr "Minuty"
+
+#: latepoint.php:1459 lib/helpers/replacer_helper.php:474 
+#: lib/helpers/time_helper.php:102 lib/models/booking_model.php:831 
+#: lib/views/settings/general.php:258 lib/views/settings/general.php:295
+#, fuzzy
+msgid "minutes"
+msgstr "minuty"
+
+#: lib/helpers/time_helper.php:152
+#, fuzzy
+msgid "MM.DD.YYYY"
+msgstr "MM.DD.YYYY"
+
+#: lib/helpers/time_helper.php:151
+#, fuzzy
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+#: lib/views/process_jobs/_table_body.php:13
+#, fuzzy
+msgid "Modified"
+msgstr "Zmodyfikowany"
+
+#: lib/helpers/booking_helper.php:1299
+#, fuzzy
+msgid "Mon"
+msgstr "Pn"
+
+#: lib/helpers/booking_helper.php:1289 lib/helpers/util_helper.php:291
+#, fuzzy
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: lib/views/calendars/view.php:39
+#, fuzzy
+msgid "Month"
+msgstr "Miesiąc"
+
+#: lib/views/services/_service_index_item.php:14 
+#: lib/views/wizard/steps/_list_services.php:24
+#, fuzzy
+msgid "more"
+msgstr "więcej"
+
+#: lib/helpers/settings_helper.php:199
+msgid "Most expensive agent"
+msgstr "Najdroższy pracownika"
+
+#: lib/views/debug/status.php:26
+#, fuzzy
+msgid "MySQL Version:"
+msgstr "Wersja MySQL:"
+
+#: lib/helpers/process_jobs_helper.php:247 lib/helpers/replacer_helper.php:474 
+#: lib/helpers/time_helper.php:309 lib/misc/process_action.php:228 
+#: lib/models/process_job_model.php:52 lib/views/customers/_table_body.php:29
+#, fuzzy
+msgid "n/a"
+msgstr "n/d"
+
+#: lib/controllers/customers_controller.php:306 
+#: lib/views/processes/_form.php:27
+#, fuzzy
+msgid "Name"
+msgstr "Imię"
+
+#: lib/views/shared/_template_variables.php:65
+#, fuzzy
+msgid "Name:"
+msgstr "Nazwa:"
+
+#: lib/views/orders/quick_edit.php:148
+#, fuzzy
+msgid "New"
+msgstr "Nowy"
+
+#: lib/helpers/activities_helper.php:27
+msgid "New Agent"
+msgstr "Nowy pracownik"
+
+#: lib/helpers/activities_helper.php:23 
+#: lib/views/customer_cabinet/dashboard.php:20 
+#: lib/views/customer_cabinet/dashboard.php:39 
+#: lib/views/customer_cabinet/dashboard.php:72 
+#: lib/views/customer_cabinet/dashboard.php:89
+msgid "New Appointment"
+msgstr "Nowa rezerwacja"
+
+#: lib/views/shared/process_reschedule_request.php:18
+msgid "New Appointment Time"
+msgstr "Nowy czas rezerwacji"
+
+#: lib/helpers/orders_helper.php:269 lib/misc/process_event.php:192 
+#: lib/views/partials/_top_bar.php:33 lib/views/partials/_top_bar.php:41
+#, fuzzy
+msgid "New Booking"
+msgstr "Nowa rezerwacja"
+
+#: lib/helpers/activities_helper.php:29
+#, fuzzy
+msgid "New Coupon"
+msgstr "Nowy kupon"
+
+#: lib/misc/role.php:31
+#, fuzzy
+msgid "New Custom Role"
+msgstr "Nowa niestandardowa rola"
+
+#: lib/views/booking_form_settings/previews/_customer.php:5 
+#: lib/views/customers/index.php:22 lib/views/customers/quick_edit.php:12 
+#: lib/views/steps/_customer.php:29
+#, fuzzy
+msgid "New Customer"
+msgstr "Nowy klient"
+
+#: lib/helpers/activities_helper.php:16
+#, fuzzy
+msgid "New Customer Registration"
+msgstr "Rejestracja nowego klienta"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:93
+#, fuzzy
+msgid "New Customers"
+msgstr "Nowi klienci"
+
+#: lib/helpers/activities_helper.php:18 lib/misc/process_event.php:196 
+#: lib/views/orders/quick_edit.php:24
+#, fuzzy
+msgid "New Order"
+msgstr "Nowe zamówienie"
+
+#: lib/helpers/activities_helper.php:20
+#, fuzzy
+msgid "New Order Item"
+msgstr "Nowa pozycja zamówienia"
+
+#: lib/views/customer_cabinet/dashboard.php:125 
+#: lib/views/customer_cabinet/password_reset_form.php:9 
+#: lib/views/customer_cabinet/password_reset_form.php:19
+#, fuzzy
+msgid "New Password"
+msgstr "Nowe hasło"
+
+#: lib/controllers/services_controller.php:60
+#, fuzzy
+msgid "New Service"
+msgstr "Nowa Usługa"
+
+#: lib/views/transactions/edit_form.php:13
+#, fuzzy
+msgid "New Transaction"
+msgstr "Nowa transakcja"
+
+#: lib/views/processes/_form.php:12
+#, fuzzy
+msgid "New Workflow"
+msgstr "Nowy przepływ pracy"
+
+#: lib/helpers/steps_helper.php:1369 
+#: lib/views/booking_form_settings/_booking_form_preview.php:48 
+#: lib/views/steps/start.php:111 lib/views/wizard/setup.php:11
+#, fuzzy
+msgid "Next"
+msgstr "Dalej"
+
+#: lib/views/customers/index.php:37 lib/views/customers/index.php:75
+#, fuzzy
+msgid "Next App"
+msgstr "Następna aplikacja"
+
+#: lib/views/customers/mini_profile.php:29
+msgid "Next Appointment"
+msgstr "Następna rezerwacja"
+
+#: lib/models/process_job_model.php:84
+#, fuzzy
+msgid "No Actions"
+msgstr "Brak działań"
+
+#: lib/views/processes/test_preview.php:23
+#, fuzzy
+msgid ""
+"No actions were created for this process. Create actions first in order to "
+"test them."
+msgstr ""
+"Nie utworzono działań dla tego procesu. Utwórz działania, aby je "
+"przetestować."
+
+#: lib/views/services/index.php:47
+#, fuzzy
+msgid "No Active Services Found"
+msgstr "Nie znaleziono aktywnych usług"
+
+#: lib/views/bookings/_booking_data.php:76
+#, fuzzy
+msgid "No Active Services Found."
+msgstr "Nie znaleziono aktywnych usług."
+
+#: lib/views/activities/index.php:84
+#, fuzzy
+msgid "No Activity"
+msgstr "Brak aktywności"
+
+#: lib/views/calendars/scopes/_month.php:158 
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:141
+msgid "No Agents Created"
+msgstr "Nie utworzono pracowników"
+
+#: lib/views/calendars/view.php:176
+msgid "No Agents or Services Created"
+msgstr "Nie utworzono pracowników ani usług"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:106
+msgid "No Appointments Found"
+msgstr "Nie znaleziono rezerwacji"
+
+#: lib/views/customer_cabinet/dashboard.php:94
+msgid "No appointments found"
+msgstr "Nie znaleziono rezerwacji"
+
+#: lib/views/calendars/scopes/_list.php:18 
+#: lib/views/calendars/scopes/_list.php:32 
+#: lib/views/calendars/scopes/_list.php:40 
+#: lib/views/calendars/scopes/_list.php:50
+#, fuzzy
+msgid "No bookings"
+msgstr "Brak rezerwacji"
+
+#: lib/views/customers/index.php:102
+#, fuzzy
+msgid "No Customers Found"
+msgstr "Nie znaleziono klientów"
+
+#: lib/helpers/email_helper.php:64
+#, fuzzy
+msgid "No email processor is selected."
+msgstr "Nie wybrano procesora e-mail."
+
+#: lib/views/services/_form.php:188
+msgid "No Existing Agents Found"
+msgstr "Nie znaleziono istniejących pracowników"
+
+#: lib/views/bookings/index.php:152
+msgid "No Existing Appointments Found"
+msgstr "Nie znaleziono istniejących rezerwacji"
+
+#: lib/views/process_jobs/index.php:87
+#, fuzzy
+msgid "No Jobs Found"
+msgstr "Nie znaleziono zadań"
+
+#: lib/views/search/query_results.php:49
+msgid "No Matched Agents found."
+msgstr "Nie znaleziono pasujących pracowników."
+
+#: lib/views/search/query_results.php:20
+msgid "No Matched Appointments found."
+msgstr "Nie znaleziono pasujących rezerwacji."
+
+#: lib/views/search/query_results.php:33
+#, fuzzy
+msgid "No Matched Customers found."
+msgstr "Nie znaleziono pasujących klientów."
+
+#: lib/views/search/query_results.php:64
+#, fuzzy
+msgid "No Matched Services found."
+msgstr "Nie znaleziono pasujących usług."
+
+#: lib/views/customers/query_for_booking_form.php:25
+#, fuzzy
+msgid "No matches found."
+msgstr "Nie znaleziono pasujących wyników."
+
+#: lib/views/orders/index.php:110
+#, fuzzy
+msgid "No Orders Found"
+msgstr "Nie znaleziono zamówień"
+
+#: lib/views/bookings/pending_approval.php:86
+msgid "No Pending Appointments Found"
+msgstr "Nie znaleziono oczekujących rezerwacji"
+
+#: lib/helpers/booking_helper.php:1259
+#, fuzzy
+msgid "No Show"
+msgstr "Nieobecny"
+
+#: lib/helpers/sms_helper.php:25
+#, fuzzy
+msgid "No SMS processor is selected."
+msgstr "Nie wybrano procesora SMS."
+
+#: lib/views/transactions/index.php:102
+#, fuzzy
+msgid "No Transactions Found"
+msgstr "Nie znaleziono transakcji"
+
+#: lib/helpers/orders_helper.php:440
+#, fuzzy
+msgid "No transactions found."
+msgstr "Nie znaleziono transakcji."
+
+#: lib/views/calendars/scopes/_list.php:104 
+#: lib/views/customers/mini_profile.php:47 
+#: lib/views/dashboard/widget_upcoming_appointments.php:81
+msgid "No Upcoming Appointments"
+msgstr "Brak nadchodzących rezerwacji"
+
+#: blocks/controls/BorderControl.js:22 blocks/controls/TypographyControl.js:72 
+#: lib/views/settings/general.php:138
+#, fuzzy
+msgid "None"
+msgstr "Brak"
+
+#: lib/controllers/carts_controller.php:32
+#, fuzzy
+msgid "Not Allowed"
+msgstr "Niedozwolone"
+
+#: lib/controllers/customer_cabinet_controller.php:202 
+#: lib/controllers/manage_booking_by_key_controller.php:186
+#, fuzzy
+msgid "Not allowed to cancel"
+msgstr "Nie można anulować"
+
+#: lib/helpers/router_helper.php:83 lib/helpers/router_helper.php:85
+#, fuzzy
+msgid "Not Authorized"
+msgstr "Nieautoryzowany"
+
+#: latepoint.php:1319 latepoint.php:1456 lib/helpers/agent_helper.php:262 
+#: lib/helpers/timeline_helper.php:80 lib/helpers/timeline_helper.php:137
+#, fuzzy
+msgid "Not Available"
+msgstr "Niedostępne"
+
+#: lib/models/location_category_model.php:73
+#, fuzzy
+msgid "Not categorized"
+msgstr "Nie skategoryzowane"
+
+#: lib/views/customers/quick_edit.php:83
+#, fuzzy
+msgid "Not Connected"
+msgstr "Nie połączono"
+
+#: lib/helpers/orders_helper.php:81
+#, fuzzy
+msgid "Not Fulfilled"
+msgstr "Nie zrealizowane"
+
+#: lib/helpers/orders_helper.php:97
+#, fuzzy
+msgid "Not Paid"
+msgstr "Nieopłacone"
+
+#: lib/views/customer_cabinet/_bundle_tile.php:23
+#, fuzzy
+msgid "Not Scheduled"
+msgstr "Nie zaplanowano"
+
+#: lib/views/steps/_customer.php:19
+#, fuzzy
+msgid "Not You?"
+msgstr "Nie Ty?"
+
+#: lib/views/customers/quick_edit.php:51 
+#: lib/views/transactions/edit_form.php:58
+#, fuzzy
+msgid "Notes"
+msgstr "Notatki"
+
+#: lib/views/customers/quick_edit.php:55
+#, fuzzy
+msgid "Notes left by the customer"
+msgstr "Notatki pozostawione przez klienta"
+
+#: lib/views/customers/inline_edit_form.php:34
+#, fuzzy
+msgid "Notes only visible to admins"
+msgstr "Notatki widoczne tylko dla administratorów"
+
+#: lib/views/shared/_template_variables.php:78
+#, fuzzy
+msgid "Notes:"
+msgstr "Notatki:"
+
+#: lib/views/debug/status.php:85
+#, fuzzy
+msgid "Nothing to do"
+msgstr "Nic do zrobienia"
+
+#: lib/helpers/notifications_helper.php:70 lib/misc/process_action.php:300
+#, fuzzy
+msgid "Nothing to run"
+msgstr "Brak do uruchomienia"
+
+#: lib/controllers/notifications_controller.php:17 
+#: lib/helpers/menu_helper.php:72
+#, fuzzy
+msgid "Notifications"
+msgstr "Powiadomienia"
+
+#: lib/helpers/util_helper.php:239 lib/helpers/util_helper.php:273
+#, fuzzy
+msgid "Nov"
+msgstr "Lis"
+
+#: lib/helpers/util_helper.php:227 lib/helpers/util_helper.php:262
+#, fuzzy
+msgid "November"
+msgstr "Listopad"
+
+#: lib/views/bookings/_table_body.php:35
+#, fuzzy
+msgid "Now"
+msgstr "Teraz"
+
+#: lib/views/settings/general.php:148
+#, fuzzy
+msgid "Number of Decimals"
+msgstr "Liczba miejsc dziesiętnych"
+
+#: lib/views/settings/general.php:457
+#, fuzzy
+msgid "Number of records per page"
+msgstr "Liczba rekordów na stronę"
+
+#: lib/views/process_jobs/index.php:24 lib/views/process_jobs/index.php:34 
+#: lib/views/process_jobs/index.php:58
+#, fuzzy
+msgid "Object ID"
+msgstr "ID obiektu"
+
+#: lib/helpers/util_helper.php:238 lib/helpers/util_helper.php:272
+#, fuzzy
+msgid "Oct"
+msgstr "Paź"
+
+#: lib/helpers/util_helper.php:226 lib/helpers/util_helper.php:261
+#, fuzzy
+msgid "October"
+msgstr "Październik"
+
+#: lib/views/activities/index.php:17 lib/views/activities/index.php:67 
+#: lib/views/bookings/index.php:26 lib/views/bookings/index.php:135 
+#: lib/views/customers/index.php:9 lib/views/customers/index.php:86 
+#: lib/views/dashboard/_booking_info_box_small.php:48 
+#: lib/views/orders/index.php:20 lib/views/orders/index.php:92 
+#: lib/views/process_jobs/index.php:71 lib/views/transactions/index.php:15 
+#: lib/views/transactions/index.php:84
+#, fuzzy
+msgid "of"
+msgstr "z"
+
+#: lib/helpers/agent_helper.php:255
+#, fuzzy
+msgid "Off Duty"
+msgstr "Poza służbą"
+
+#: lib/views/updates/check_version_status.php:48
+#, fuzzy
+msgid "Official Website"
+msgstr "Oficjalna strona internetowa"
+
+#: lib/misc/process_event.php:191
+#, fuzzy
+msgid "Old Booking"
+msgstr "Stara rezerwacja"
+
+#: lib/misc/process_event.php:195
+#, fuzzy
+msgid "Old Order"
+msgstr "Stare zamówienie"
+
+#: lib/helpers/agent_helper.php:255
+#, fuzzy
+msgid "On Duty"
+msgstr "Na służbie"
+
+#: latepoint.php:981
+#, fuzzy
+msgid "Once every 5 minutes"
+msgstr "Raz na 5 minut"
+
+#: lib/views/settings/general.php:232
+msgid "One agent can perform different services simultaneously"
+msgstr "Jeden pracownik może jednocześnie świadczyć różne usługi"
+
+#: lib/views/settings/general.php:453
+#, fuzzy
+msgid "Only admins will be able to download table data as csv"
+msgstr "Tylko administratorzy będą mogli pobierać dane tabeli jako plik CSV"
+
+#: lib/helpers/orders_helper.php:35
+#, fuzzy
+msgid "Open"
+msgstr "Otwórz"
+
+#: lib/views/wizard/steps/_complete.php:5
+#, fuzzy
+msgid "Open Dashboard"
+msgstr "Otwórz pulpit nawigacyjny"
+
+#: lib/helpers/stripe_connect_helper.php:28
+#, fuzzy
+msgid "Open in Stripe"
+msgstr "Otwórz w Stripe"
+
+#: lib/views/steps/_confirmation.php:99
+#, fuzzy
+msgid "Open My Cabinet"
+msgstr "Otwórz mój panel"
+
+#: lib/views/services/_form.php:62
+#, fuzzy
+msgid "Optional Duration Name"
+msgstr "Opcjonalna nazwa czasu trwania"
+
+#: lib/views/booking_form_settings/previews/_customer.php:44 
+#: lib/views/customer_cabinet/login.php:12 lib/views/steps/_customer.php:57
+#, fuzzy
+msgid "OR"
+msgstr "LUB"
+
+#: lib/views/booking_form_settings/show.php:27
+#, fuzzy
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+#: lib/misc/process_event.php:199 
+#: lib/views/customer_cabinet/_bundle_tile.php:12 
+#: lib/views/shared/_template_variables.php:7
+#, fuzzy
+msgid "Order"
+msgstr "Zamówienie"
+
+#: lib/helpers/bundles_helper.php:120
+#, fuzzy
+#, php-format
+msgid "Order %s"
+msgstr "Zamów %s"
+
+#: lib/views/shared/_template_variables.php:10
+#, fuzzy
+msgid "Order Confirmation Code:"
+msgstr "Kod potwierdzenia zamówienia:"
+
+#: lib/misc/process_event.php:389
+#, fuzzy
+msgid "Order Created"
+msgstr "Zamówienie utworzone"
+
+#: lib/controllers/orders_controller.php:349
+#, fuzzy
+#, php-format
+msgid "Order Created ID: %s"
+msgstr "Zamówienie Utworzone ID: %s"
+
+#: lib/helpers/activities_helper.php:19
+#, fuzzy
+msgid "Order Edited"
+msgstr "Zamówienie edytowane"
+
+#: lib/views/shared/_template_variables.php:16
+#, fuzzy
+msgid "Order Fulfillment Status:"
+msgstr "Status realizacji zamówienia:"
+
+#: lib/controllers/transactions_controller.php:100 
+#: lib/views/transactions/index.php:32 lib/views/transactions/index.php:44 
+#: lib/views/transactions/index.php:70
+#, fuzzy
+msgid "Order ID"
+msgstr "ID zamówienia"
+
+#: lib/views/settings/general.php:422 
+#: lib/views/shared/_template_variables.php:9
+msgid "Order ID#:"
+msgstr "ID zamówienia:"
+
+#: lib/views/orders/quick_edit.php:33
+#, fuzzy
+msgid "Order ID:"
+msgstr "ID zamówienia:"
+
+#: lib/controllers/steps_controller.php:69
+#, fuzzy
+msgid "Order intent can be converted to order"
+msgstr "Z zamiaru zamówienia można stworzyć zamówienie"
+
+#: lib/helpers/activities_helper.php:38
+#, fuzzy
+msgid "Order Intent Converted"
+msgstr "Zamiar zamówienia przekształcony"
+
+#: lib/helpers/activities_helper.php:39
+#, fuzzy
+msgid "Order Intent Created"
+msgstr "Zamiar zamówienia utworzony"
+
+#: lib/helpers/activities_helper.php:40
+#, fuzzy
+msgid "Order Intent Updated"
+msgstr "Zamiar zamówienia zaktualizowany"
+
+#: lib/views/orders/quick_edit.php:101
+#, fuzzy
+msgid "Order is empty"
+msgstr "Zamówienie jest puste"
+
+#: lib/helpers/activities_helper.php:22
+#, fuzzy
+msgid "Order Item Deleted"
+msgstr "Pozycja zamówienia usunięta"
+
+#: lib/helpers/activities_helper.php:21
+#, fuzzy
+msgid "Order Item Edited"
+msgstr "Pozycja zamówienia zaktualizowana"
+
+#: lib/views/orders/quick_edit.php:49
+#, fuzzy
+msgid "Order Items"
+msgstr "Elementy zamówienia"
+
+#: lib/views/settings/steps_order_modal.php:7
+#, fuzzy
+msgid "Order of Steps"
+msgstr "Kolejność kroków"
+
+#: lib/controllers/settings_controller.php:39
+#, fuzzy
+msgid "Order of steps has been successfully updated"
+msgstr "Kolejność kroków została pomyślnie zaktualizowana"
+
+#: lib/helpers/steps_helper.php:325
+#, fuzzy
+msgid "Order of this step can not be changed."
+msgstr "Kolejność tego kroku nie może zostać zmieniona."
+
+#: lib/controllers/orders_controller.php:597
+#, fuzzy
+msgid "Order Removed"
+msgstr "Zamówienie Usunięte"
+
+#: lib/misc/process_event.php:331 lib/misc/process_event.php:340 
+#: lib/models/order_model.php:322 lib/views/orders/quick_edit.php:40
+#, fuzzy
+msgid "Order Status"
+msgstr "Status zamówienia"
+
+#: lib/views/shared/_template_variables.php:15
+#, fuzzy
+msgid "Order Status:"
+msgstr "Status zamówienia:"
+
+#: lib/views/customer_cabinet/view_order_summary_in_lightbox.php:2 
+#: lib/views/shared/print_order_info.php:2
+#, fuzzy
+msgid "Order Summary"
+msgstr "Podsumowanie zamówienia"
+
+#: lib/views/shared/_template_variables.php:18
+#, fuzzy
+msgid "Order Summary Breakdown:"
+msgstr "Podział podsumowania zamówienia:"
+
+#: lib/views/settings/general.php:430
+#, fuzzy
+msgid "Order Total:"
+msgstr "Suma zamówienia:"
+
+#: lib/misc/process_event.php:390
+#, fuzzy
+msgid "Order Updated"
+msgstr "Zamówienie zaktualizowane"
+
+#: lib/controllers/orders_controller.php:349
+#, fuzzy
+#, php-format
+msgid "Order Updated ID: %s"
+msgstr "Zamówienie Zaktualizowane ID: %s"
+
+#: lib/controllers/orders_controller.php:22 lib/helpers/menu_helper.php:48 
+#: lib/helpers/menu_helper.php:102 lib/views/customer_cabinet/dashboard.php:17 
+#: lib/views/orders/index.php:18
+#, fuzzy
+msgid "Orders"
+msgstr "Zamówienia"
+
+#: lib/helpers/payments_helper.php:12 lib/helpers/payments_helper.php:121
+#, fuzzy
+msgid "Other"
+msgstr "Inne"
+
+#: lib/helpers/stripe_connect_helper.php:138 lib/views/services/_form.php:96 
+#: lib/views/settings/general.php:370 lib/views/settings/notifications.php:48 
+#: lib/views/settings/payments.php:23
+#, fuzzy
+msgid "Other Settings"
+msgstr "Inne ustawienia"
+
+#: lib/helpers/booking_helper.php:159
+#, fuzzy
+msgid "Outlook.com"
+msgstr "Outlook.com"
+
+#: lib/views/calendars/view.php:52
+#, fuzzy
+msgid "Overlay service hours"
+msgstr "Nałóż godziny pracy usługi"
+
+#: lib/views/services/_form.php:110
+#, fuzzy
+msgid "Override status for bookings"
+msgstr "Zastąp status rezerwacji"
+
+#: lib/views/services/_form.php:107
+#, fuzzy
+msgid "Override Time Intervals"
+msgstr "Zastąp interwały czasowe"
+
+#: blocks/src/book-button/edit.js:307
+#, fuzzy
+msgid "Padding"
+msgstr "Wewnętrzny Margines"
+
+#: lib/helpers/router_helper.php:90
+#, fuzzy
+msgid "Page Not Found"
+msgstr "Strona nie znaleziona"
+
+#: lib/views/activities/index.php:69 lib/views/bookings/index.php:137 
+#: lib/views/customers/index.php:88 lib/views/orders/index.php:94 
+#: lib/views/process_jobs/index.php:73 lib/views/transactions/index.php:86
+#, fuzzy
+msgid "Page:"
+msgstr "Strona:"
+
+#: lib/controllers/settings_controller.php:67
+#, fuzzy
+msgid "Pages Setup"
+msgstr "Konfiguracja stron"
+
+#: lib/helpers/bundles_helper.php:28
+#, fuzzy
+#, php-format
+msgid "Part of a %s bundle."
+msgstr "Część pakietu %s."
+
+#: lib/helpers/orders_helper.php:83
+#, fuzzy
+msgid "Partially Fulfilled"
+msgstr "Częściowo zrealizowane"
+
+#: lib/helpers/orders_helper.php:98
+#, fuzzy
+msgid "Partially Paid"
+msgstr "Częściowo opłacone"
+
+#: lib/models/agent_model.php:38 
+#: lib/views/booking_form_settings/previews/_customer.php:17 
+#: lib/views/customer_cabinet/login.php:6 
+#: lib/views/steps/partials/_contact_form.php:7
+#, fuzzy
+msgid "Password"
+msgstr "Hasło"
+
+#: lib/views/customers/quick_edit.php:68
+#, fuzzy
+msgid "Password Protected"
+msgstr "Chronione hasłem"
+
+#: lib/views/settings/notifications.php:67
+#, fuzzy
+msgid "Password Reset"
+msgstr "Resetowanie hasła"
+
+#: lib/views/shared/_template_variables.php:45
+#, fuzzy
+msgid "Password Reset Token:"
+msgstr "Token resetowania hasła:"
+
+#: lib/views/bookings/_table_body.php:38 lib/views/bookings/index.php:74 
+#: lib/views/customer_cabinet/dashboard.php:62 
+#: lib/views/customers/_table_body.php:30
+#, fuzzy
+msgid "Past"
+msgstr "Przeszłość"
+
+#: lib/views/customer_cabinet/_order_tile.php:35
+#, fuzzy
+msgid "Pay Balance"
+msgstr "Zapłać saldo"
+
+#: lib/views/steps/_payment__times.php:31
+#, fuzzy
+msgid "Pay Later"
+msgstr "Zapłać później"
+
+#: lib/helpers/payments_helper.php:139
+#, fuzzy
+msgid "Pay Locally"
+msgstr "Zapłać lokalnie"
+
+#: lib/views/steps/_payment__times.php:31
+#, fuzzy
+msgid "Pay Now"
+msgstr "Zapłać teraz"
+
+#: lib/helpers/orders_helper.php:435
+#, fuzzy
+msgid "Payment Amount: "
+msgstr "Kwota płatności: "
+
+#: lib/helpers/stripe_connect_helper.php:93
+#, fuzzy
+msgid "Payment Element"
+msgstr "Element płatności"
+
+#: lib/helpers/stripe_connect_helper.php:49
+#, fuzzy
+msgid "Payment Error"
+msgstr "Błąd płatności"
+
+#: lib/helpers/stripe_connect_helper.php:535
+#, fuzzy
+msgid "Payment error"
+msgstr "Błąd płatności"
+
+#: lib/helpers/stripe_connect_helper.php:56
+#, fuzzy
+msgid "Payment Error 23JDF38"
+msgstr "Błąd płatności 23JDF38"
+
+#: lib/helpers/stripe_connect_helper.php:535
+#, fuzzy
+msgid "Payment Error: "
+msgstr "Błąd płatności: "
+
+#: lib/helpers/settings_helper.php:260 lib/misc/process_event.php:362 
+#: lib/models/transaction_model.php:30 lib/views/transactions/edit_form.php:53
+#, fuzzy
+msgid "Payment Method"
+msgstr "Metoda płatności"
+
+#: lib/views/shared/_template_variables.php:75
+#, fuzzy
+msgid "Payment Method:"
+msgstr "Metoda płatności:"
+
+#: lib/helpers/settings_helper.php:261 lib/models/transaction_model.php:31 
+#: lib/views/transactions/edit_form.php:42
+#, fuzzy
+msgid "Payment Portion"
+msgstr "Część płatności"
+
+#: lib/views/shared/_template_variables.php:79
+#, fuzzy
+msgid "Payment Portion:"
+msgstr "Część płatności:"
+
+#: lib/helpers/orders_helper.php:434
+#, fuzzy
+msgid "Payment Portion: "
+msgstr "Część płatności: "
+
+#: lib/controllers/settings_controller.php:77
+#, fuzzy
+msgid "Payment Processing"
+msgstr "Przetwarzanie płatności"
+
+#: lib/helpers/steps_helper.php:335
+#, fuzzy
+msgid "Payment processing is disabled. Click to setup."
+msgstr "Przetwarzanie płatności jest wyłączone. Kliknij, aby skonfigurować."
+
+#: lib/views/transactions/edit_form.php:50
+#, fuzzy
+msgid "Payment Processor"
+msgstr "Procesor płatności"
+
+#: lib/views/settings/payments.php:5
+#, fuzzy
+msgid "Payment Processors"
+msgstr "Procesory płatności"
+
+#: lib/views/settings/payments.php:26
+#, fuzzy
+msgid "Payment Settings"
+msgstr "Ustawienia płatności"
+
+#: lib/misc/process_event.php:333 lib/misc/process_event.php:342 
+#: lib/models/order_model.php:324 lib/views/bookings/index.php:52 
+#: lib/views/bookings/index.php:120 lib/views/orders/index.php:43 
+#: lib/views/orders/index.php:81
+#, fuzzy
+msgid "Payment Status"
+msgstr "Status płatności"
+
+#: lib/helpers/menu_helper.php:49 lib/helpers/menu_helper.php:71 
+#: lib/helpers/menu_helper.php:103 lib/helpers/roles_helper.php:306 
+#: lib/views/transactions/index.php:14
+#, fuzzy
+msgid "Payments"
+msgstr "Płatności"
+
+#: lib/views/shared/_template_variables.php:13
+#, fuzzy
+msgid "Payments & Credits:"
+msgstr "Płatności i kredyty:"
+
+#: lib/models/order_model.php:410
+#, fuzzy
+msgid "Payments and Credits"
+msgstr "Płatności i kredyty"
+
+#: lib/helpers/stripe_connect_helper.php:286
+#, fuzzy
+msgid "Pending Action"
+msgstr "Działanie oczekujące"
+
+#: lib/controllers/bookings_controller.php:58 
+#: lib/controllers/bookings_controller.php:59
+msgid "Pending Appointments"
+msgstr "Oczekujące Rezerwacje"
+
+#: lib/helpers/booking_helper.php:1257
+#, fuzzy
+msgid "Pending Approval"
+msgstr "Oczekuje na zatwierdzenie"
+
+#: lib/views/partials/_top_bar.php:25
+#, fuzzy
+msgid "Pending Bookings"
+msgstr "Oczekujące rezerwacje"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:9
+#, fuzzy
+msgid "Performance"
+msgstr "Wydajność"
+
+#: lib/views/settings/general.php:229
+#, fuzzy
+msgid "Permissions"
+msgstr "Uprawnienia"
+
+#: lib/controllers/customers_controller.php:307 
+#: lib/helpers/settings_helper.php:255 lib/views/customers/index.php:33 
+#: lib/views/customers/index.php:71
+#, fuzzy
+msgid "Phone"
+msgstr "Telefon"
+
+#: lib/helpers/settings_helper.php:321 lib/misc/process_action.php:146 
+#: lib/models/customer_model.php:32 
+#: lib/views/booking_form_settings/previews/_customer.php:14 
+#: lib/views/customers/quick_edit.php:47 
+#: lib/views/default_agent/edit_form.php:23 
+#: lib/views/steps/partials/_contact_form.php:4 
+#: lib/views/wizard/steps/_default_agent.php:22 
+#: lib/views/wizard/steps/_form_agent.php:16
+#, fuzzy
+msgid "Phone Number"
+msgstr "Numer telefonu"
+
+#: lib/views/settings/general.php:171
+#, fuzzy
+msgid "Phone Settings"
+msgstr "Ustawienia telefonu"
+
+#: lib/views/customers/index.php:45
+#, fuzzy
+msgid "Phone..."
+msgstr "Telefon..."
+
+#: lib/views/shared/_template_variables.php:43 
+#: lib/views/shared/_template_variables.php:57
+#, fuzzy
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: lib/views/customers/mini_profile.php:12
+#, fuzzy
+msgid "phone:"
+msgstr "telefon:"
+
+#: lib/views/bookings/pending_approval.php:27 
+#: lib/views/bookings/pending_approval.php:46 
+#: lib/views/customers/query_for_booking_form.php:16 
+#: lib/views/dashboard/_booking_info_box_small.php:16 
+#: lib/views/dashboard/_booking_info_box_small.php:32 
+#: lib/views/orders/quick_edit.php:182
+#, fuzzy
+msgid "Phone: "
+msgstr "Telefon: "
+
+#: lib/views/debug/status.php:21
+#, fuzzy
+msgid "PHP Version:"
+msgstr "Wersja PHP:"
+
+#: lib/helpers/form_helper.php:526
+#, fuzzy
+msgid "Pick a color"
+msgstr "Wybierz kolor"
+
+#: lib/views/settings/custom_day_schedule_form.php:21 
+#: lib/views/settings/custom_day_schedule_form.php:23
+#, fuzzy
+msgid "Pick a Date"
+msgstr "Wybierz datę"
+
+#: lib/helpers/steps_helper.php:2173 
+#: lib/views/shared/request_reschedule_calendar.php:25 
+#: lib/views/steps/_booking__datepicker.php:24
+#, fuzzy
+msgid "Pick a slot for"
+msgstr "Wybierz slot dla"
+
+#: lib/views/settings/custom_day_schedule_form.php:13
+#, fuzzy
+msgid "Pick a Start"
+msgstr "Wybierz początek"
+
+#: lib/views/settings/custom_day_schedule_form.php:22
+#, fuzzy
+msgid "Pick a Start Date"
+msgstr "Wybierz datę początkową"
+
+#: lib/views/settings/custom_day_schedule_form.php:16
+#, fuzzy
+msgid "Pick an End"
+msgstr "Wybierz koniec"
+
+#: lib/views/settings/custom_day_schedule_form.php:23
+#, fuzzy
+msgid "Pick an End Date"
+msgstr "Wybierz datę końcową"
+
+#: lib/views/booking_form_settings/show.php:55
+#, fuzzy
+msgid "Pick Custom Color"
+msgstr "Wybierz niestandardowy kolor"
+
+#: lib/views/updates/_license_form.php:11
+#, fuzzy
+msgid ""
+"Please enter your LatePoint license key to receive free plugin updates and "
+"install addons."
+msgstr ""
+"Wprowadź klucz licencyjny LatePoint, aby otrzymywać darmowe aktualizacje "
+"wtyczki i instalować dodatki."
+
+#: lib/helpers/license_helper.php:43
+#, fuzzy
+msgid "Please enter your license key"
+msgstr "Proszę wprowadzić klucz licencyjny"
+
+#: lib/views/notifications/templates_index.php:39
+#, fuzzy
+msgid ""
+"Please select a template from the list on the left to generate a preview."
+msgstr "Wybierz szablon z listy po lewej, aby wygenerować podgląd."
+
+#: lib/views/wizard/steps/_settings.php:7
+#, fuzzy
+msgid "Plugin Purchase Code"
+msgstr "Kod zakupu wtyczki"
+
+#: lib/helpers/form_helper.php:501
+#, fuzzy
+msgid "pm"
+msgstr "pm"
+
+#: blocks/src/book-button/edit.js:164 blocks/src/book-form/edit.js:293
+msgid "Preselected Agent"
+msgstr "Wstępnie Wybrany Pracownik"
+
+#: blocks/src/book-button/edit.js:195 blocks/src/book-form/edit.js:325
+#, fuzzy
+msgid "Preselected Booking Start Date"
+msgstr "Wstępnie Wybrana Data Rozpoczęcia Rezerwacji"
+
+#: blocks/src/book-button/edit.js:203 blocks/src/book-form/edit.js:333
+#, fuzzy
+msgid "Preselected Booking Start Time"
+msgstr "Wstępnie Wybrany Czas Rozpoczęcia Rezerwacji"
+
+#: blocks/src/book-button/edit.js:211 blocks/src/book-form/edit.js:341
+#, fuzzy
+msgid "Preselected Duration"
+msgstr "Wstępnie Wybrany Czas Trwania"
+
+#: blocks/src/book-button/edit.js:188 blocks/src/book-form/edit.js:317
+#, fuzzy
+msgid "Preselected Location"
+msgstr "Wstępnie Wybrana Lokalizacja"
+
+#: blocks/src/book-button/edit.js:172 blocks/src/book-form/edit.js:301
+#, fuzzy
+msgid "Preselected Service"
+msgstr "Wstępnie Wybrana Usługa"
+
+#: blocks/src/book-button/edit.js:180 blocks/src/book-form/edit.js:309
+#, fuzzy
+msgid "Preselected Service Category"
+msgstr "Wstępnie Wybrana Kategoria Usług"
+
+#: blocks/src/book-button/edit.js:219 blocks/src/book-form/edit.js:349
+#, fuzzy
+msgid "Preselected Total Attendees"
+msgstr "Wstępnie Wybrana Liczba Uczestników"
+
+#: lib/misc/process_event.php:354
+msgid "Previous Agent"
+msgstr "Poprzedni pracownik"
+
+#: lib/misc/process_event.php:352
+#, fuzzy
+msgid "Previous Booking Status"
+msgstr "Poprzedni status rezerwacji"
+
+#: lib/misc/process_event.php:338
+#, fuzzy
+msgid "Previous Fulfillment Service"
+msgstr "Poprzednia usługa realizacji"
+
+#: lib/misc/process_event.php:337
+#, fuzzy
+msgid "Previous Order Status"
+msgstr "Poprzedni status zamówienia"
+
+#: lib/misc/process_event.php:339
+#, fuzzy
+msgid "Previous Payment Status"
+msgstr "Poprzedni status płatności"
+
+#: lib/misc/process_event.php:353
+#, fuzzy
+msgid "Previous Service"
+msgstr "Poprzednia usługa"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:58 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:69 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:80 
+#: lib/views/dashboard/widget_daily_bookings_chart.php:90
+#, fuzzy
+msgid "Previously:"
+msgstr "Poprzednio:"
+
+#: lib/controllers/bookings_controller.php:220 
+#: lib/helpers/settings_helper.php:262
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: lib/views/orders/quick_edit.php:198
+#, fuzzy
+msgid "Price Breakdown"
+msgstr "Podział ceny"
+
+#: lib/views/services/_service_index_item.php:23
+#, fuzzy
+msgid "Price:"
+msgstr "Cena:"
+
+#: lib/views/settings/general.php:161
+#, fuzzy
+msgid "Prices"
+msgstr "Ceny"
+
+#: lib/views/bookings/_full_summary.php:34 
+#: lib/views/orders/_full_summary.php:41 lib/views/steps/_confirmation.php:29 
+#: lib/views/steps/_confirmation.php:70
+#, fuzzy
+msgid "Print"
+msgstr "Drukuj"
+
+#: lib/models/process_job_model.php:146
+#, fuzzy
+msgid "Process action have been modified since the job was created."
+msgstr "Działanie procesu zostało zmodyfikowane od czasu utworzenia zadania."
+
+#: lib/helpers/activities_helper.php:37
+#, fuzzy
+msgid "Process Job Run"
+msgstr "Przebieg procesu zadania"
+
+#: lib/controllers/process_jobs_controller.php:25
+#, fuzzy
+msgid "Process Jobs"
+msgstr "Przetwarzaj Zadania"
+
+#: lib/views/processes/_form.php:30
+#, fuzzy
+msgid "Process Name"
+msgstr "Nazwa procesu"
+
+#: lib/controllers/processes_controller.php:88 
+#: lib/controllers/processes_controller.php:95
+#, fuzzy
+msgid "Process Removed"
+msgstr "Proces Usunięty"
+
+#: lib/controllers/processes_controller.php:164
+#, fuzzy
+msgid "Process Saved"
+msgstr "Proces Zapisany"
+
+#: lib/controllers/activities_controller.php:251 
+#: lib/controllers/process_jobs_controller.php:34
+#, fuzzy
+msgid "Process:"
+msgstr "Proces:"
+
+#: lib/controllers/process_jobs_controller.php:38
+#, fuzzy
+msgid "Processed on (UTC):"
+msgstr "Przetworzono dnia (UTC):"
+
+#: lib/controllers/activities_controller.php:183 
+#: lib/controllers/process_jobs_controller.php:58
+#, fuzzy
+msgid "Processed on:"
+msgstr "Przetworzono dnia:"
+
+#: lib/helpers/orders_helper.php:100 lib/helpers/payments_helper.php:301
+#, fuzzy
+msgid "Processing"
+msgstr "Przetwarzanie"
+
+#: lib/helpers/steps_helper.php:1819
+#, fuzzy
+msgid "Processing..."
+msgstr "Przetwarzanie..."
+
+#: lib/controllers/orders_controller.php:676 
+#: lib/controllers/transactions_controller.php:102 
+#: lib/views/transactions/index.php:34 lib/views/transactions/index.php:72
+#, fuzzy
+msgid "Processor"
+msgstr "Procesor"
+
+#: lib/views/shared/_template_variables.php:74
+#, fuzzy
+msgid "Processor:"
+msgstr "Procesor:"
+
+#: lib/views/customer_cabinet/dashboard.php:18
+#, fuzzy
+msgid "Profile"
+msgstr "Profil"
+
+#: lib/views/booking_form_settings/show.php:26
+#, fuzzy
+msgid "Purple"
+msgstr "Fioletowy"
+
+#: lib/views/settings/general.php:90
+#, fuzzy
+msgid "Quantity Restrictions"
+msgstr "Ograniczenia ilościowe"
+
+#: lib/helpers/settings_helper.php:198
+msgid "Randomly picked agent"
+msgstr "Losowo wybrany pracownik"
+
+#: lib/views/orders/quick_edit.php:203
+#, fuzzy
+msgid "Recalculate"
+msgstr "Przelicz ponownie"
+
+#: lib/views/default_agent/edit_form.php:5
+#, fuzzy
+msgid "Recipient of Notifications"
+msgstr "Odbiorca powiadomień"
+
+#: lib/views/booking_form_settings/show.php:22
+#, fuzzy
+msgid "Red"
+msgstr "Czerwony"
+
+#: lib/controllers/stripe_connect_controller.php:67
+#, fuzzy
+msgid "Redirecting to Stripe"
+msgstr "Przekierowywanie do Stripe"
+
+#: lib/helpers/payments_helper.php:286
+#, fuzzy
+msgid "Refund"
+msgstr "Zwrot"
+
+#: lib/controllers/customers_controller.php:310 
+#: lib/views/customers/index.php:40 lib/views/customers/index.php:78
+#, fuzzy
+msgid "Registered On"
+msgstr "Zarejestrowano Dnia"
+
+#: lib/views/customers/view_customer_log.php:19
+#, fuzzy
+msgid "Registered On: "
+msgstr "Zarejestrowano dnia: "
+
+#: lib/views/bookings/pending_approval.php:60
+#, fuzzy
+msgid "Reject"
+msgstr "Odrzuć"
+
+#: lib/views/settings/general.php:205
+msgid ""
+"Reject invalid phone for customers and agents if the phone field is set as "
+"required"
+msgstr ""
+"Odrzuć nieprawidłowy telefon dla klientów i pracowników, jeśli pole telefonu "
+"jest ustawione jako wymagane"
+
+#: lib/helpers/payments_helper.php:274
+#, fuzzy
+msgid "Remaining Balance"
+msgstr "Pozostałe saldo"
+
+#: lib/views/wizard/steps/_form_agent.php:19
+msgid "Remove Agent's Photo"
+msgstr "Usuń zdjęcie pracownika"
+
+#: lib/views/customers/quick_edit.php:28
+#, fuzzy
+msgid "Remove Avatar"
+msgstr "Usuń awatar"
+
+#: lib/helpers/work_periods_helper.php:476
+#, fuzzy
+msgid "Remove Date Range Schedule"
+msgstr "Usuń harmonogram zakresu dat"
+
+#: lib/helpers/work_periods_helper.php:590
+#, fuzzy
+msgid "Remove Day Off"
+msgstr "Usuń dzień wolny"
+
+#: lib/helpers/work_periods_helper.php:572
+#, fuzzy
+msgid "Remove Day Off Range"
+msgstr "Usuń zakres dni wolnych"
+
+#: lib/helpers/work_periods_helper.php:503
+#, fuzzy
+msgid "Remove Day Schedule"
+msgstr "Usuń harmonogram dnia"
+
+#: lib/helpers/steps_helper.php:389 lib/views/services/_form.php:42 
+#: lib/views/services/_form.php:49 lib/views/settings/general.php:380 
+#: lib/views/wizard/steps/_form_service.php:12
+#, fuzzy
+msgid "Remove Image"
+msgstr "Usuń obraz"
+
+#: lib/views/settings/general.php:328
+#, fuzzy
+msgid "Remove login and register tabs"
+msgstr "Usuń zakładki logowania i rejestracji"
+
+#: lib/views/steps/preset_slot_not_available.php:14
+#, fuzzy
+msgid "Requested:"
+msgstr "Żądany:"
+
+#: lib/views/settings/general.php:327
+#, fuzzy
+msgid "Require customers to set password"
+msgstr "Wymagaj od klientów ustawienia hasła"
+
+#: lib/helpers/settings_helper.php:477
+#, fuzzy
+msgid "Required?"
+msgstr "Wymagane?"
+
+#: lib/views/addons/load_addons_list.php:81
+#, fuzzy
+msgid "Requires LatePoint"
+msgstr "Wymaga LatePoint"
+
+#: lib/views/customer_cabinet/_booking_tile.php:30 
+#: lib/views/manage_booking_by_key/show.php:20 
+#: lib/views/manage_booking_by_key/show.php:33 
+#: lib/views/shared/request_reschedule_calendar.php:48
+#, fuzzy
+msgid "Reschedule"
+msgstr "Zmień harmonogram"
+
+#: lib/controllers/customer_cabinet_controller.php:180 
+#: lib/controllers/manage_booking_by_key_controller.php:166
+#, fuzzy
+msgid "Reschedule is not allowed"
+msgstr "Zmiana terminu jest niedozwolona"
+
+#: lib/views/settings/general.php:244
+#, fuzzy
+msgid "Rescheduling"
+msgstr "Zmiana terminu"
+
+#: lib/views/debug/status.php:17 lib/views/debug/status.php:56
+#, fuzzy
+msgid "reset"
+msgstr "zresetuj"
+
+#: lib/views/activities/index.php:41 lib/views/customers/index.php:54 
+#: lib/views/orders/index.php:60 lib/views/process_jobs/index.php:39 
+#: lib/views/transactions/index.php:53
+#, fuzzy
+msgid "Reset Date Filtering"
+msgstr "Zresetuj filtrowanie daty"
+
+#: lib/views/bookings/index.php:66 lib/views/bookings/index.php:82
+#, fuzzy
+msgid "Reset Date Search"
+msgstr "Zresetuj wyszukiwanie daty"
+
+#: lib/views/customer_cabinet/request_password_reset_token.php:5
+#, fuzzy
+msgid "Reset Password Request"
+msgstr "Prośba o zresetowanie hasła"
+
+#: lib/mailers/customer_mailer.php:33
+#, fuzzy
+msgid "Reset Your Password"
+msgstr "Zresetuj swoje hasło"
+
+#: lib/helpers/roles_helper.php:307
+#, fuzzy
+msgid "Resource Schedules"
+msgstr "Harmonogramy zasobów"
+
+#: lib/helpers/menu_helper.php:51
+#, fuzzy
+msgid "Resources"
+msgstr "Zasoby"
+
+#: lib/views/settings/general.php:68 lib/views/settings/general.php:220
+#, fuzzy
+msgid "Restrictions"
+msgstr "Ograniczenia"
+
+#: lib/helpers/menu_helper.php:73
+#, fuzzy
+msgid "Roles"
+msgstr "Role"
+
+#: lib/views/process_jobs/_table_body.php:57 
+#: lib/views/process_jobs/view_job_run_result.php:39
+#, fuzzy
+msgid "Run"
+msgstr "Uruchom"
+
+#: lib/views/process_jobs/_table_body.php:51 
+#: lib/views/process_jobs/preview_job_action.php:22 
+#: lib/views/process_jobs/view_job_run_result.php:33
+#, fuzzy
+msgid "Run Again"
+msgstr "Uruchom ponownie"
+
+#: lib/controllers/processes_controller.php:247
+#, fuzzy
+msgid "Run complete"
+msgstr "Uruchomienie Zakończone"
+
+#: lib/views/process_jobs/index.php:28 lib/views/process_jobs/index.php:62
+#, fuzzy
+msgid "Run Info"
+msgstr "Informacje o uruchomieniu"
+
+#: lib/views/debug/status.php:74 lib/views/debug/status.php:80
+#, fuzzy
+msgid "Run Migration"
+msgstr "Uruchom migrację"
+
+#: lib/views/process_jobs/_table_body.php:54 
+#: lib/views/process_jobs/preview_job_action.php:25 
+#: lib/views/process_jobs/view_job_run_result.php:36 
+#: lib/views/processes/action_test_preview.php:20 
+#: lib/views/processes/test_preview.php:33
+#, fuzzy
+msgid "Run Now"
+msgstr "Uruchom teraz"
+
+#: lib/views/process_jobs/index.php:27 lib/views/process_jobs/index.php:61
+#, fuzzy
+msgid "Run Time (UTC)"
+msgstr "Czas uruchomienia (UTC)"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:72
+#, fuzzy
+msgid "Sales Revenue"
+msgstr "Przychody ze sprzedaży"
+
+#: lib/helpers/booking_helper.php:1304
+#, fuzzy
+msgid "Sat"
+msgstr "So"
+
+#: lib/helpers/booking_helper.php:1294 lib/helpers/util_helper.php:296
+#, fuzzy
+msgid "Saturday"
+msgstr "Sobota"
+
+#: lib/views/steps/_confirmation.php:90 
+#: lib/views/wizard/steps/_form_agent.php:32 
+#: lib/views/wizard/steps/_form_service.php:45
+#, fuzzy
+msgid "Save"
+msgstr "Zapisz"
+
+#: lib/views/booking_form_settings/_booking_form_preview.php:41 
+#: lib/views/customer_cabinet/dashboard.php:119 
+#: lib/views/customers/quick_edit.php:150 
+#: lib/views/default_agent/edit_form.php:32 
+#: lib/views/orders/quick_edit.php:246 lib/views/services/_form.php:252
+#, fuzzy
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: lib/views/customer_cabinet/password_reset_form.php:13 
+#: lib/views/customer_cabinet/password_reset_form.php:22
+#, fuzzy
+msgid "Save Password"
+msgstr "Zapisz hasło"
+
+#: lib/views/settings/custom_day_schedule_form.php:91
+#, fuzzy
+msgid "Save Schedule"
+msgstr "Zapisz harmonogram"
+
+#: lib/views/integrations/external_calendars.php:39 
+#: lib/views/integrations/external_marketing_systems.php:44 
+#: lib/views/integrations/external_meeting_systems.php:44 
+#: lib/views/settings/general.php:489 lib/views/settings/notifications.php:89 
+#: lib/views/settings/payments.php:55
+#, fuzzy
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: lib/helpers/steps_helper.php:399
+#, fuzzy
+msgid "Save Step"
+msgstr "Zapisz krok"
+
+#: lib/views/bookings/customize_table.php:24
+#, fuzzy
+msgid "Save Table Columns"
+msgstr "Zapisz kolumny tabeli"
+
+#: lib/views/settings/work_periods.php:13
+#, fuzzy
+msgid "Save Weekly Schedule"
+msgstr "Zapisz tygodniowy harmonogram"
+
+#: lib/views/processes/_form.php:73
+#, fuzzy
+msgid "Save Workflow"
+msgstr "Zapisz przepływ pracy"
+
+#: lib/helpers/menu_helper.php:67
+#, fuzzy
+msgid "Schedule"
+msgstr "Harmonogram"
+
+#: lib/helpers/bundles_helper.php:141 lib/helpers/bundles_helper.php:143 
+#: lib/helpers/orders_helper.php:366
+#, fuzzy
+msgid "Schedule now"
+msgstr "Zaplanować teraz"
+
+#: lib/helpers/process_jobs_helper.php:243 lib/views/process_jobs/index.php:36
+#, fuzzy
+msgid "Scheduled"
+msgstr "Zaplanowane"
+
+#: lib/helpers/menu_helper.php:80
+#, fuzzy
+msgid "Scheduled Jobs"
+msgstr "Zaplanowane zadania"
+
+#: lib/views/steps/_verify.php:26
+#, php-format
+msgid ""
+"Scheduling this booking will use a slot from a bundle which is part of order "
+"#%s."
+msgstr ""
+"Zaplanowanie tej rezerwacji spowoduje użycie slotu z pakietu, który jest "
+"częścią zamówienia #%s."
+
+#: lib/views/partials/_top_bar.php:15
+#, fuzzy
+msgid "Search"
+msgstr "Szukaj"
+
+#: lib/views/bookings/index.php:66
+msgid "Search by Appointment Date"
+msgstr "Wyszukaj według daty rezerwacji"
+
+#: lib/views/bookings/index.php:77
+#, fuzzy
+msgid "Search by Customer"
+msgstr "Wyszukaj według klienta"
+
+#: lib/views/customers/index.php:46
+#, fuzzy
+msgid "Search by Email"
+msgstr "Wyszukaj według e-maila"
+
+#: lib/views/customers/index.php:44
+#, fuzzy
+msgid "Search by Name"
+msgstr "Wyszukaj według nazwy"
+
+#: lib/views/partials/_top_bar.php:11
+#, fuzzy
+msgid "Search..."
+msgstr "Szukaj..."
+
+#: lib/views/orders/quick_edit.php:63
+#, fuzzy
+msgid "Select a bundle that you want to add"
+msgstr "Wybierz pakiet, który chcesz dodać"
+
+#: lib/helpers/time_helper.php:381
+#, fuzzy
+msgid "Select a city"
+msgstr "Wybierz miasto"
+
+#: lib/controllers/notifications_controller.php:32 
+#: lib/controllers/notifications_controller.php:35
+#, fuzzy
+msgid "Select a template"
+msgstr "Wybierz szablon"
+
+#: lib/views/services/_form.php:122
+#, fuzzy
+msgid "Select All"
+msgstr "Zaznacz wszystko"
+
+#: lib/views/settings/general.php:194
+#, fuzzy
+msgid "Select countries available for phone number field"
+msgstr "Wybierz kraje dostępne w polu numeru telefonu"
+
+#: lib/views/settings/work_periods.php:37
+#, fuzzy
+msgid "Select Date"
+msgstr "Wybierz datę"
+
+#: lib/views/shared/request_reschedule_calendar.php:13
+#, fuzzy
+msgid "Select date and time"
+msgstr "Wybierz datę i czas"
+
+#: lib/views/services/_form.php:154
+#, fuzzy
+#, php-format
+msgid "Select locations where %s will be offering this service:"
+msgstr "Wybierz lokalizacje, w których %s będzie oferować tę usługę:"
+
+#: lib/views/settings/pages.php:4 lib/views/settings/pages.php:15
+#, fuzzy
+msgid "Select Page"
+msgstr "Wybierz stronę"
+
+#: lib/views/bookings/_booking_data.php:70
+#, fuzzy
+msgid "Select Service"
+msgstr "Wybierz usługę"
+
+#: lib/views/settings/general.php:50
+#, fuzzy
+msgid "Selectable intervals"
+msgstr "Wybieralne interwały"
+
+#: latepoint.php:1352 latepoint.php:1458 lib/views/steps/start.php:75
+#, fuzzy
+msgid "Selected"
+msgstr "Wybrane"
+
+#: lib/models/process_job_model.php:163
+#, fuzzy
+msgid "Selected actions ran successfully."
+msgstr "Wybrane działania zakończyły się pomyślnie."
+
+#: lib/controllers/steps_controller.php:74
+#, fuzzy
+msgid ""
+"Selected booking slot is not available anymore. Please pick a different time "
+"slot."
+msgstr ""
+"Wybrany termin rezerwacji nie jest już dostępny. Proszę wybrać inny termin."
+
+#: lib/views/services/_form.php:39
+#, fuzzy
+msgid "Selection Image"
+msgstr "Obraz wyboru"
+
+#: lib/misc/process_action.php:211
+#, fuzzy
+msgid "Send Email"
+msgstr "Wyślij e-mail"
+
+#: lib/misc/process_action.php:212
+#, fuzzy
+msgid "Send SMS"
+msgstr "Wyślij SMS"
+
+#: lib/helpers/util_helper.php:237 lib/helpers/util_helper.php:271
+#, fuzzy
+msgid "Sep"
+msgstr "Wrz"
+
+#: lib/helpers/util_helper.php:225 lib/helpers/util_helper.php:260
+#, fuzzy
+msgid "September"
+msgstr "Wrzesień"
+
+#: lib/controllers/bookings_controller.php:210 lib/misc/process_event.php:211 
+#: lib/misc/process_event.php:347 lib/misc/process_event.php:357 
+#: lib/models/booking_model.php:39 lib/models/booking_model.php:119 
+#: lib/models/cart_model.php:250 lib/views/bookings/_booking_data.php:23 
+#: lib/views/bookings/index.php:45 lib/views/bookings/index.php:113
+#, fuzzy
+msgid "Service"
+msgstr "Usługa"
+
+#: lib/views/steps/partials/_cart_summary.php:26 
+#: lib/views/steps/partials/_order_summary.php:18
+#, fuzzy
+msgid "Service Bundles"
+msgstr "Pakiety usług"
+
+#: lib/models/service_model.php:55
+#, fuzzy
+msgid "Service Category"
+msgstr "Kategoria usługi"
+
+#: lib/models/service_category_model.php:17
+#, fuzzy
+msgid "Service Category Name"
+msgstr "Nazwa kategorii usługi"
+
+#: lib/models/service_category_model.php:19
+#, fuzzy
+msgid "Service Category Selection Image"
+msgstr "Obraz kategorii usługi"
+
+#: lib/models/service_category_model.php:18
+#, fuzzy
+msgid "Service Category Short Description"
+msgstr "Krótki opis kategorii usługi"
+
+#: lib/views/shared/_template_variables.php:26
+#, fuzzy
+msgid "Service Category:"
+msgstr "Kategoria usługi:"
+
+#: lib/helpers/activities_helper.php:32
+#, fuzzy
+msgid "Service Created"
+msgstr "Usługa utworzona"
+
+#: lib/controllers/services_controller.php:138
+#, fuzzy
+msgid "Service Created. ID:"
+msgstr "Utworzono Usługę. ID:"
+
+#: lib/models/service_model.php:44
+#, fuzzy
+msgid "Service Description Image"
+msgstr "Obraz opisu usługi"
+
+#: lib/models/service_model.php:51
+#, fuzzy
+msgid "Service Duration"
+msgstr "Czas trwania usługi"
+
+#: lib/views/services/_form.php:56
+#, fuzzy
+msgid "Service Duration and Price"
+msgstr "Czas trwania i cena usługi"
+
+#: lib/views/shared/_template_variables.php:30
+#, fuzzy
+msgid "Service Duration:"
+msgstr "Czas trwania usługi:"
+
+#: lib/helpers/menu_helper.php:57 lib/helpers/menu_helper.php:110
+#, fuzzy
+msgid "Service Extras"
+msgstr "Dodatki do usług"
+
+#: lib/controllers/activities_controller.php:48
+#, fuzzy
+msgid "Service ID"
+msgstr "ID Usługi"
+
+#: lib/views/services/_form.php:9
+#, fuzzy
+msgid "Service ID:"
+msgstr "ID usługi:"
+
+#: lib/models/service_model.php:41 lib/views/services/_form.php:16 
+#: lib/views/wizard/steps/_form_service.php:5
+#, fuzzy
+msgid "Service Name"
+msgstr "Nazwa usługi"
+
+#: lib/views/shared/_template_variables.php:25
+#, fuzzy
+msgid "Service Name:"
+msgstr "Nazwa usługi:"
+
+#: lib/controllers/services_controller.php:174
+#, fuzzy
+msgid "Service Removed"
+msgstr "Usługa Usunięta"
+
+#: lib/views/services/_form.php:201
+#, fuzzy
+msgid "Service Schedule"
+msgstr "Harmonogram usługi"
+
+#: lib/models/service_model.php:43
+#, fuzzy
+msgid "Service Selection Image"
+msgstr "Obraz wyboru usługi"
+
+#: lib/views/services/_form.php:228
+#, fuzzy
+msgid ""
+"Service shares custom daily schedules that you set in general settings for "
+"your company, however you can add additional days with custom hours which "
+"will be specific to this service only."
+msgstr ""
+"Usługa współdzieli niestandardowe harmonogramy dzienne, które ustawiłeś w "
+"ustawieniach ogólnych dla swojej firmy, jednak możesz dodać dodatkowe dni z "
+"niestandardowymi godzinami specyficznymi dla tej usługi."
+
+#: lib/models/service_model.php:42
+#, fuzzy
+msgid "Service Short Description"
+msgstr "Krótki opis usługi"
+
+#: lib/views/services/_form.php:46
+#, fuzzy
+msgid "Service Tile Image"
+msgstr "Obraz kafelka usługi"
+
+#: lib/helpers/activities_helper.php:31
+#, fuzzy
+msgid "Service Updated"
+msgstr "Usługa zaktualizowana"
+
+#: lib/controllers/services_controller.php:141
+#, fuzzy
+msgid "Service Updated. ID:"
+msgstr "Zaktualizowano Usługę. ID:"
+
+#: lib/views/services/_form.php:237
+#, fuzzy
+msgid ""
+"Service uses the same holidays you set in general settings for your company, "
+"however you can add additional holidays for this service here."
+msgstr ""
+"Usługa korzysta z tych samych świąt, które ustawiłeś w ustawieniach ogólnych "
+"dla swojej firmy, jednak możesz dodać tutaj dodatkowe święta dla tej usługi."
+
+#: lib/controllers/services_controller.php:20 
+#: lib/helpers/booking_helper.php:787 lib/helpers/menu_helper.php:52 
+#: lib/helpers/menu_helper.php:54 lib/helpers/menu_helper.php:105 
+#: lib/helpers/menu_helper.php:107 lib/helpers/roles_helper.php:301 
+#: lib/views/search/query_results.php:53
+#, fuzzy
+msgid "Services"
+msgstr "Usługi"
+
+#: lib/views/calendars/view.php:62
+#, fuzzy
+msgid "Services:"
+msgstr "Usługi:"
+
+#: lib/views/settings/custom_day_schedule_form.php:91
+#, fuzzy
+msgid "Set as Day Off"
+msgstr "Ustaw jako dzień wolny"
+
+#: lib/views/customers/quick_edit.php:28
+#, fuzzy
+msgid "Set Avatar"
+msgstr "Ustaw awatar"
+
+#: lib/views/services/_form.php:203
+#, fuzzy
+msgid "Set Custom Schedule"
+msgstr "Ustaw niestandardowy harmonogram"
+
+#: lib/views/customer_cabinet/dashboard.php:123 
+#: lib/views/customer_cabinet/dashboard.php:128
+#, fuzzy
+msgid "Set New Password"
+msgstr "Ustaw nowe hasło"
+
+#: lib/views/settings/general.php:359
+#, fuzzy
+msgid "Set Page URLs"
+msgstr "Ustaw URL stron"
+
+#: lib/views/settings/general.php:287
+#, fuzzy
+msgid "Set restriction on when customer can cancel"
+msgstr "Ustaw ograniczenia dotyczące anulowania przez klienta"
+
+#: lib/views/settings/general.php:250
+#, fuzzy
+msgid "Set restriction on when customer can reschedule"
+msgstr "Ustaw ograniczenia dotyczące zmiany terminu przez klienta"
+
+#: lib/views/settings/custom_day_schedule_form.php:33
+#, fuzzy
+msgid "Set Schedule"
+msgstr "Ustaw harmonogram"
+
+#: lib/views/bookings/_booking_data.php:149 lib/views/orders/quick_edit.php:40 
+#: lib/views/orders/quick_edit.php:43
+#, fuzzy
+msgid "Set Status"
+msgstr "Ustaw status"
+
+#: lib/controllers/wizard_controller.php:35
+#, fuzzy
+msgid "Set Working Hours"
+msgstr "Ustaw godziny pracy"
+
+#: lib/views/steps/_confirmation.php:88
+#, fuzzy
+msgid "Set Your Password"
+msgstr "Ustaw swoje hasło"
+
+#: lib/views/wizard/steps/_work_periods.php:2
+#, fuzzy
+msgid "Set Your Work Hours"
+msgstr "Ustaw swoje godziny pracy"
+
+#: lib/helpers/steps_helper.php:1666
+#, fuzzy
+msgid "Setting password is required and should match password confirmation"
+msgstr "Ustawienie hasła jest wymagane i musi pasować do potwierdzenia hasła"
+
+#: lib/controllers/settings_controller.php:19 lib/helpers/menu_helper.php:62 
+#: lib/helpers/menu_helper.php:64 lib/helpers/menu_helper.php:114 
+#: lib/helpers/roles_helper.php:308 lib/views/partials/_side_menu.php:39
+#, fuzzy
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: lib/controllers/settings_controller.php:272
+#, fuzzy
+msgid "Settings Updated"
+msgstr "Ustawienia zaktualizowane"
+
+#: lib/controllers/settings_controller.php:275
+#, fuzzy
+msgid "Settings Updated With Errors:"
+msgstr "Ustawienia zaktualizowane z błędami:"
+
+#: lib/controllers/wizard_controller.php:41 
+#: lib/views/wizard/steps/_complete.php:2
+#, fuzzy
+msgid "Setup Complete"
+msgstr "Konfiguracja zakończona"
+
+#: lib/controllers/wizard_controller.php:28 
+#: lib/views/wizard/steps/_default_agent.php:2
+#, fuzzy
+msgid "Setup Notifications"
+msgstr "Konfiguracja powiadomień"
+
+#: lib/views/settings/general.php:354
+#, fuzzy
+msgid "Setup Pages"
+msgstr "Konfiguracja stron"
+
+#: lib/views/wizard/steps/_intro.php:2
+#, fuzzy
+msgid "Setup Wizard"
+msgstr "Kreator konfiguracji"
+
+#: lib/helpers/steps_helper.php:371 lib/views/services/_form.php:21
+#, fuzzy
+msgid "Short Description"
+msgstr "Krótki opis"
+
+#: lib/helpers/util_helper.php:233
+#, fuzzy
+msgctxt "short version of May month"
+msgid "May"
+msgstr "Maj"
+
+#: lib/views/settings/general.php:312
+msgid "Shortcode for contents of New Appointment tab"
+msgstr "Kod skrótu dla zawartości zakładki Nowa rezerwacja"
+
+#: lib/views/settings/payments.php:43
+#, fuzzy
+msgid "Show \"Pay Later\" payment option"
+msgstr "Pokaż opcję \"Zapłać później\""
+
+#: lib/views/bookings/customize_table.php:3
+#, fuzzy
+msgid "Show Additional Columns"
+msgstr "Pokaż dodatkowe kolumny"
+
+#: lib/helpers/blocks_helper.php:57 lib/views/bookings/index.php:74 
+#: lib/views/bookings/index.php:78 lib/views/bookings/index.php:79 
+#: lib/views/orders/index.php:52 lib/views/orders/index.php:53 
+#: lib/views/orders/index.php:54 lib/views/transactions/index.php:46 
+#: lib/views/transactions/index.php:47 lib/views/transactions/index.php:49 
+#: lib/views/transactions/index.php:50
+msgid "Show All"
+msgstr "Pokaż wszystkie"
+
+#: lib/views/settings/general.php:183
+msgid "Show all countries"
+msgstr "Pokaż wszystkie kraje"
+
+#: lib/views/orders/quick_edit.php:133
+msgid "Show All Items"
+msgstr "Pokaż wszystkie elementy"
+
+#: lib/views/settings/general.php:56
+msgid "Show appointment end time"
+msgstr "Pokaż czas zakończenia rezerwacji"
+
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:26
+msgid "Show Appointments"
+msgstr "Pokaż rezerwacje"
+
+#: lib/views/dashboard/widget_bookings_and_availability_timeline.php:27
+#, fuzzy
+msgid "Show Availability"
+msgstr "Pokaż dostępność"
+
+#: lib/helpers/util_helper.php:99
+#, fuzzy
+msgid "Show Available Variables"
+msgstr "Pokaż dostępne zmienne"
+
+#: lib/views/settings/general.php:56
+#, fuzzy
+msgid "Show booking end time during booking process and on summary"
+msgstr ""
+"Pokaż czas zakończenia rezerwacji podczas procesu rezerwacji i w podsumowaniu"
+
+#: lib/views/settings/general.php:207
+#, fuzzy
+msgid "Show country dial code next to flag"
+msgstr "Pokaż kod wybierania kraju obok flagi"
+
+#: lib/views/customer_cabinet/_booking_tile.php:21 
+#: lib/views/steps/_confirmation.php:49 
+#: lib/views/steps/partials/_booking_summary.php:37
+#, fuzzy
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#: lib/helpers/bundles_helper.php:28
+#, fuzzy
+msgid "Show Full Bundle"
+msgstr "Pokaż cały pakiet"
+
+#: lib/views/settings/notifications.php:61
+#, fuzzy
+msgid "Show layout variables"
+msgstr "Pokaż zmienne układu"
+
+#: lib/helpers/steps_helper.php:1943
+msgid "Show Learn More about agents"
+msgstr "Pokaż \"Dowiedz Się Więcej\" o pracownikach"
+
+#: lib/views/steps/partials/_booking_summary.php:61
+#, fuzzy
+msgid "Show Order"
+msgstr "Pokaż zamówienie"
+
+#: lib/views/settings/general.php:184
+#, fuzzy
+msgid "Show selected countries"
+msgstr "Pokaż wybrane kraje"
+
+#: lib/helpers/steps_helper.php:1940
+#, fuzzy
+msgid "Show service categories"
+msgstr "Pokaż kategorie usług"
+
+#: lib/misc/process_action.php:132 lib/views/settings/notifications.php:71
+#, fuzzy
+msgid "Show smart variables"
+msgstr "Pokaż inteligentne zmienne"
+
+#: lib/helpers/steps_helper.php:1951
+#, fuzzy
+msgid "Show Time Slots as"
+msgstr "Pokaż sloty czasowe jako"
+
+#: lib/helpers/events_helper.php:318
+#, fuzzy
+msgid "Show:"
+msgstr "Pokaż:"
+
+#: lib/views/activities/index.php:17 lib/views/bookings/index.php:26 
+#: lib/views/customers/index.php:9 lib/views/customers/index.php:86 
+#: lib/views/orders/index.php:20 lib/views/orders/index.php:92 
+#: lib/views/transactions/index.php:15 lib/views/transactions/index.php:84
+#, fuzzy
+msgid "Showing"
+msgstr "Wyświetlanie"
+
+#: lib/views/activities/index.php:67
+#, fuzzy
+msgid "Showing activities"
+msgstr "Wyświetlanie aktywności"
+
+#: lib/views/bookings/pending_approval.php:68
+#, php-format
+msgid "Showing appointments %d to %d of %d total"
+msgstr "Wyświetlanie rezerwacji od %d do %d z %d łącznie"
+
+#: lib/views/process_jobs/index.php:71
+#, fuzzy
+msgid "Showing jobs"
+msgstr "Wyświetlanie zadań"
+
+#: lib/views/settings/general.php:327
+#, fuzzy
+msgid "Shows password field on registration step"
+msgstr "Wyświetla pole hasła na etapie rejestracji"
+
+#: lib/helpers/steps_helper.php:331
+#, fuzzy
+msgid "Since you only have one location, this step will be skipped"
+msgstr "Ponieważ masz tylko jedną lokalizację, ten krok zostanie pominięty."
+
+#: lib/views/settings/custom_day_schedule_form.php:10
+#, fuzzy
+msgid "Single Day"
+msgstr "Pojedynczy dzień"
+
+#: lib/views/wizard/setup.php:2
+#, fuzzy
+msgid "Skip setup"
+msgstr "Pomiń konfigurację"
+
+#: lib/helpers/steps_helper.php:1956
+#, fuzzy
+msgid "Slot counter tooltip will not appear when hovering a day."
+msgstr "Podpowiedź licznika slotów nie pojawi się po najechaniu na dzień."
+
+#: lib/views/dashboard/_booking_info_box_small.php:49
+#, fuzzy
+msgid "Slots Booked"
+msgstr "Zarezerwowane sloty"
+
+#: lib/helpers/notifications_helper.php:42
+#, fuzzy
+msgid "SMS"
+msgstr "SMS"
+
+#: lib/helpers/sms_helper.php:51 lib/helpers/sms_helper.php:52
+#, fuzzy
+msgid "SMS notifications are disabled"
+msgstr "Powiadomienia SMS są wyłączone"
+
+#: lib/helpers/activities_helper.php:35
+#, fuzzy
+msgid "SMS Sent"
+msgstr "SMS wysłany"
+
+#: lib/misc/process_action.php:182
+#, fuzzy
+msgid "SMS To"
+msgstr "SMS do"
+
+#: lib/views/customers/index.php:35 lib/views/customers/index.php:73
+#, fuzzy
+msgid "Social"
+msgstr "Społecznościowe"
+
+#: lib/views/settings/general.php:334
+#, fuzzy
+msgid "Social Login"
+msgstr "Logowanie przez media społecznościowe"
+
+#: blocks/controls/BorderControl.js:23
+#, fuzzy
+msgid "Solid"
+msgstr "Pełny"
+
+#: lib/controllers/auth_controller.php:41
+#, fuzzy
+msgid "Sorry, that email or password didn't work."
+msgstr "Przepraszamy, e-mail lub hasło są nieprawidłowe."
+
+#: lib/views/steps/preset_slot_not_available.php:12
+#, fuzzy
+msgid "Sorry, the selected timeslot is no longer available."
+msgstr "Przepraszamy, wybrany przedział czasowy nie jest już dostępny."
+
+#: lib/helpers/settings_helper.php:259
+#, fuzzy
+msgid "Source ID"
+msgstr "ID źródła"
+
+#: lib/views/bookings/view_booking_log.php:20 
+#: lib/views/orders/view_order_log.php:20
+#, fuzzy
+msgid "Source ID: "
+msgstr "ID źródła: "
+
+#: lib/views/settings/general.php:137
+#, fuzzy
+msgid "Space"
+msgstr "Spacja"
+
+#: latepoint.php:1326 latepoint.php:1460
+#, fuzzy
+msgid "Space Available"
+msgstr "Dostępne Miejsce"
+
+#: latepoint.php:1327 latepoint.php:1461
+#, fuzzy
+msgid "Spaces Available"
+msgstr "Dostępne Miejsca"
+
+#: lib/helpers/work_periods_helper.php:251
+#, fuzzy
+msgid "Start"
+msgstr "Start"
+
+#: lib/helpers/stripe_connect_helper.php:295
+#, fuzzy
+msgid "Start Connecting"
+msgstr "Rozpocznij łączenie"
+
+#: lib/views/bookings/_booking_data.php:154
+#, fuzzy
+msgid "Start Date"
+msgstr "Data rozpoczęcia"
+
+#: lib/controllers/bookings_controller.php:211
+#, fuzzy
+msgid "Start Date & Time"
+msgstr "Data i Godzina Rozpoczęcia"
+
+#: lib/views/shared/_template_variables.php:27
+#, fuzzy
+msgid "Start Date:"
+msgstr "Data rozpoczęcia:"
+
+#: lib/views/customer_cabinet/_bundle_tile.php:31 
+#: lib/views/steps/partials/_order_summary.php:30
+#, fuzzy
+msgid "Start Scheduling"
+msgstr "Rozpocznij planowanie"
+
+#: lib/misc/process_event.php:355 lib/models/booking_model.php:122 
+#: lib/models/work_period_model.php:22 lib/views/bookings/_booking_data.php:171
+#, fuzzy
+msgid "Start Time"
+msgstr "Czas rozpoczęcia"
+
+#: lib/views/shared/_template_variables.php:28
+#, fuzzy
+msgid "Start Time:"
+msgstr "Czas rozpoczęcia:"
+
+#: lib/views/bookings/_booking_data.php:28
+#, fuzzy
+msgid "Start typing to filter..."
+msgstr "Zacznij pisać, aby filtrować..."
+
+#: lib/views/orders/quick_edit.php:159
+#, fuzzy
+msgid "Start typing to search..."
+msgstr "Zacznij pisać, aby wyszukać..."
+
+#: lib/views/updates/version_5_intro.php:55
+#, fuzzy
+msgid "Start Using Version 5"
+msgstr "Rozpocznij używanie wersji 5"
+
+#: lib/helpers/shortcodes_helper.php:155
+#, fuzzy
+msgid "Starts at"
+msgstr "Zaczyna się o"
+
+#: lib/helpers/booking_helper.php:677
+#, fuzzy
+msgid "Starts From"
+msgstr "Zaczyna się od"
+
+#: lib/controllers/bookings_controller.php:219 
+#: lib/controllers/orders_controller.php:679 
+#: lib/controllers/transactions_controller.php:105 
+#: lib/misc/process_action.php:110 lib/models/booking_model.php:121 
+#: lib/views/bookings/_booking_data.php:149 lib/views/bookings/index.php:51 
+#: lib/views/bookings/index.php:119 
+#: lib/views/customer_cabinet/_booking_tile.php:53 
+#: lib/views/orders/index.php:42 lib/views/orders/index.php:80 
+#: lib/views/process_jobs/index.php:26 lib/views/process_jobs/index.php:60 
+#: lib/views/processes/_form.php:19 lib/views/services/_form.php:22 
+#: lib/views/transactions/index.php:37 lib/views/transactions/index.php:75
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#: lib/controllers/activities_controller.php:182 
+#: lib/controllers/process_jobs_controller.php:37 
+#: lib/controllers/process_jobs_controller.php:57 
+#: lib/views/bookings/pending_approval.php:14 
+#: lib/views/manage_booking_by_key/show.php:16 
+#: lib/views/manage_booking_by_key/show.php:25 
+#: lib/views/manage_order_by_key/show.php:16 
+#: lib/views/manage_order_by_key/show.php:21 
+#: lib/views/shared/_template_variables.php:31 
+#: lib/views/shared/_template_variables.php:77
+#, fuzzy
+msgid "Status:"
+msgstr "Status:"
+
+#: lib/views/settings/general.php:11
+#, fuzzy
+msgid "Statuses"
+msgstr "Statusy"
+
+#: lib/views/settings/general.php:27
+#, fuzzy
+msgid "Statuses hidden on calendar"
+msgstr "Statusy ukryte w kalendarzu"
+
+#: lib/views/settings/general.php:24
+#, fuzzy
+msgid "Statuses that appear on pending page"
+msgstr "Statusy pojawiające się na stronie oczekujących"
+
+#: lib/views/settings/general.php:19
+#, fuzzy
+msgid "Statuses that block timeslot"
+msgstr "Statusy blokujące przedział czasowy"
+
+#: lib/helpers/steps_helper.php:707
+#, fuzzy
+#, php-format
+msgid "Step \"%s\" has to come after \"%s\""
+msgstr "Krok \"%s\" musi być po \"%s\""
+
+#: lib/helpers/steps_helper.php:714
+#, fuzzy
+#, php-format
+msgid "Step \"%s\" has to come before \"%s\""
+msgstr "Krok \"%s\" musi być przed \"%s\""
+
+#: lib/views/wizard/steps/_agents.php:1 
+#: lib/views/wizard/steps/_default_agent.php:1 
+#: lib/views/wizard/steps/_services.php:1 
+#: lib/views/wizard/steps/_settings.php:1 
+#: lib/views/wizard/steps/_work_periods.php:1
+#, fuzzy
+#, php-format
+msgid "Step %d of %d"
+msgstr "Krok %d z %d"
+
+#: lib/helpers/steps_helper.php:630
+#, fuzzy
+#, php-format
+msgid "Step %s is missing from steps array."
+msgstr "Krok %s brakuje w tablicy kroków."
+
+#: lib/helpers/steps_helper.php:638
+#, fuzzy
+#, php-format
+msgid "Step %s is not defined in the rules."
+msgstr "Krok %s nie jest zdefiniowany w zasadach."
+
+#: lib/helpers/steps_helper.php:382 lib/helpers/steps_helper.php:389 
+#: lib/views/services/_form.php:42 lib/views/services/_form.php:49
+#, fuzzy
+msgid "Step Image"
+msgstr "Obraz kroku"
+
+#: lib/helpers/steps_helper.php:2205
+#, fuzzy
+msgid "Step is skipped until you install a payment addon."
+msgstr "Krok jest pomijany, dopóki nie zainstalujesz dodatku do płatności."
+
+#: lib/helpers/steps_helper.php:359
+#, fuzzy
+msgid "Step Sub Title"
+msgstr "Podtytuł kroku"
+
+#: lib/helpers/steps_helper.php:347
+#, fuzzy
+msgid "Step Title"
+msgstr "Tytuł kroku"
+
+#: lib/views/booking_form_settings/show.php:74
+#, fuzzy
+msgid "Steps"
+msgstr "Kroki"
+
+#: lib/helpers/stripe_connect_helper.php:104
+#, fuzzy
+msgid "Stripe"
+msgstr "Stripe"
+
+#: lib/helpers/stripe_connect_helper.php:103
+#, fuzzy
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+#: lib/controllers/stripe_connect_controller.php:145
+#, fuzzy
+msgid "Stripe connect account ID not set"
+msgstr "ID konta Stripe Connect nie zostało ustawione"
+
+#: lib/helpers/stripe_connect_helper.php:28
+#, fuzzy
+msgid "Stripe Customer"
+msgstr "Klient Stripe"
+
+#: blocks/controls/BorderControl.js:17
+#, fuzzy
+msgid "Style"
+msgstr "Styl"
+
+#: lib/models/cart_model.php:288 lib/views/orders/_price_breakdown.php:15
+#, fuzzy
+msgid "Sub Total"
+msgstr "Suma częściowa"
+
+#: lib/helpers/email_helper.php:77
+#, fuzzy
+msgid "Subject of the email can not be blank"
+msgstr "Temat e-maila nie może być pusty"
+
+#: lib/misc/process_action.php:344
+#, fuzzy
+msgid "Subject:"
+msgstr "Temat:"
+
+#: lib/views/notifications/templates_index.php:47
+#, fuzzy
+msgid "Subject: "
+msgstr "Temat: "
+
+#: lib/helpers/steps_helper.php:1371 lib/helpers/steps_helper.php:1372 
+#: lib/views/steps/start.php:110
+#, fuzzy
+msgid "Submit"
+msgstr "Zatwierdź"
+
+#: lib/views/customer_cabinet/request_password_reset_token.php:12 
+#: lib/views/customer_cabinet/request_password_reset_token.php:19
+#, fuzzy
+msgid "Submit Request"
+msgstr "Złóż wniosek"
+
+#: lib/views/shared/_template_variables.php:11
+#, fuzzy
+msgid "Subtotal:"
+msgstr "Suma częściowa:"
+
+#: lib/helpers/payments_helper.php:300
+#, fuzzy
+msgid "Succeeded"
+msgstr "Powiodło się"
+
+#: lib/views/steps/partials/_booking_form_summary_panel.php:9
+#, fuzzy
+msgid "Summary"
+msgstr "Podsumowanie"
+
+#: lib/helpers/booking_helper.php:1305
+#, fuzzy
+msgid "Sun"
+msgstr "Nd"
+
+#: lib/helpers/booking_helper.php:1295 lib/helpers/util_helper.php:297
+#, fuzzy
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: lib/views/settings/general.php:114
+#, fuzzy
+msgid "Symbol"
+msgstr "Symbol"
+
+#: lib/views/settings/general.php:122
+#, fuzzy
+msgid "Symbol after the price"
+msgstr "Symbol po cenie"
+
+#: lib/views/settings/general.php:119
+#, fuzzy
+msgid "Symbol before the price"
+msgstr "Symbol przed ceną"
+
+#: lib/helpers/menu_helper.php:74
+#, fuzzy
+msgid "System"
+msgstr "System"
+
+#: lib/views/debug/status.php:5
+#, fuzzy
+msgid "System Info"
+msgstr "Informacje o systemie"
+
+#: lib/views/bookings/index.php:30
+#, fuzzy
+msgid "Table Settings"
+msgstr "Ustawienia tabeli"
+
+#: lib/controllers/todos_controller.php:21
+#, fuzzy
+msgid "Tasks"
+msgstr "Zadania"
+
+#: lib/views/debug/status.php:66
+#, fuzzy
+msgid "Tasks Due"
+msgstr "Zadania do wykonania"
+
+#: lib/helpers/menu_helper.php:68
+#, fuzzy
+msgid "Tax"
+msgstr "Podatek"
+
+#: lib/views/booking_form_settings/show.php:24
+#, fuzzy
+msgid "Teal"
+msgstr "Morski"
+
+#: lib/views/customers/inline_edit_form.php:24
+#, fuzzy
+msgid "Telephone Number"
+msgstr "Numer telefonu"
+
+#: lib/views/processes/action_test_preview.php:7 
+#: lib/views/processes/test_preview.php:7
+#, fuzzy
+msgid "Test"
+msgstr "Testuj"
+
+#: lib/misc/process_action.php:118
+#, fuzzy
+msgid "Test this action"
+msgstr "Przetestuj tę akcję"
+
+#: lib/views/processes/_form.php:72
+#, fuzzy
+msgid "Test this workflow"
+msgstr "Przetestuj ten przepływ pracy"
+
+#: blocks/src/book-button/edit.js:339 blocks/src/book-button/edit.js:361
+#, fuzzy
+msgid "Text Color"
+msgstr "Kolor Tekstu"
+
+#: lib/views/wizard/steps/_intro.php:3
+#, fuzzy
+msgid ""
+"Thank you for installing LatePoint, we will walk you through a quick setup "
+"process to add services and set working hours for your business."
+msgstr ""
+"Dziękujemy za zainstalowanie LatePoint. Przeprowadzimy Cię przez szybki "
+"proces konfiguracji, aby dodać usługi i ustawić godziny pracy Twojej firmy."
+
+#: lib/models/process_job_model.php:163
+#, fuzzy
+msgid "The job ran successfully."
+msgstr "Zadanie zakończyło się pomyślnie."
+
+#: lib/views/orders/quick_edit.php:129
+#, fuzzy
+#, php-format
+msgid "There are %d more items in this order."
+msgstr "W tym zamówieniu jest jeszcze %d elementów."
+
+#: lib/views/orders/quick_edit.php:131
+#, fuzzy
+msgid "There is one more item in this order."
+msgstr "W tym zamówieniu jest jeszcze jeden element."
+
+#: lib/views/wizard/steps/_work_periods.php:3
+msgid ""
+"These will be your default work hours for all your locations, agents and "
+"services. You can set custom hours for each agent, service or location in "
+"LatePoint admin panel."
+msgstr ""
+"To będą Twoje domyślne godziny pracy dla wszystkich lokalizacji, pracowników "
+"i usług. Możesz ustawić niestandardowe godziny dla każdego pracownika, "
+"usługi lub lokalizacji w panelu administracyjnym LatePoint."
+
+#: lib/views/steps/partials/_booking_summary.php:63
+#, fuzzy
+msgid "This booking is part of a bigger order."
+msgstr "Ta rezerwacja jest częścią większego zamówienia."
+
+#: lib/views/customer_cabinet/_booking_tile.php:21 
+#: lib/views/steps/_confirmation.php:49 
+#: lib/views/steps/partials/_booking_summary.php:39
+#, fuzzy
+msgid "This booking is part of a bundle."
+msgstr "Ta rezerwacja jest częścią pakietu."
+
+#: lib/views/settings/notifications.php:69
+msgid ""
+"This email content will be used for password reset requests. Use {{token}} "
+"variable to insert a generated token, which is needed to reset the password."
+msgstr ""
+"Ta treść wiadomości e-mail będzie używana do żądań resetowania hasła. Użyj "
+"zmiennej {{token}}, aby wstawić wygenerowany token, który jest potrzebny do "
+"zresetowania hasła."
+
+#: lib/helpers/events_helper.php:200
+#, fuzzy
+msgid "This event has passed"
+msgstr "To wydarzenie już minęło"
+
+#: lib/views/services/_form.php:40
+#, fuzzy
+msgid "This image is used on a service selection step in the booking form."
+msgstr ""
+"Ten obraz jest używany na etapie wyboru usługi w formularzu rezerwacji."
+
+#: lib/views/services/_form.php:47
+msgid ""
+"This image is used when service is listed in [latepoint_resources] shortcode."
+msgstr ""
+"Ten obraz jest używany, gdy usługa jest wymieniona w kodzie "
+"[latepoint_resources]."
+
+#: lib/views/settings/notifications.php:59
+msgid ""
+"This layout is used for your emails. You can customize it below and use "
+"{{content}} variable to insert content of the email that is generated by the "
+"Process that was triggered. Go to Processes to manage actual content of the "
+"email that is being sent."
+msgstr ""
+"Ten układ jest używany dla wiadomości e-mail. Możesz go dostosować poniżej i "
+"użyć zmiennej {{content}}, aby wstawić treść wiadomości e-mail generowanej "
+"przez uruchomiony proces. Przejdź do zakładki Processes, aby zarządzać "
+"rzeczywistą treścią wysyłanej wiadomości e-mail."
+
+#: lib/views/services/_form.php:83
+#, fuzzy
+msgid ""
+"This price is for display purposes only, it is not the price that the "
+"customer will be charged. The Charge Amount field above controls the amount "
+"that customer will be charged for. Setting both minimum and maximum price, "
+"will show a price range on the service selection step."
+msgstr ""
+"Ta cena jest wyłącznie orientacyjna i nie jest kwotą, którą klient będzie "
+"obciążony. Pole Kwota opłaty powyżej określa, ile klient zostanie obciążony. "
+"Ustawienie minimalnej i maksymalnej ceny spowoduje wyświetlenie zakresu cen "
+"na etapie wyboru usługi."
+
+#: lib/views/services/_form.php:215
+#, fuzzy
+msgid "This service is using general schedule which is set in main settings"
+msgstr ""
+"Ta usługa korzysta z ogólnego harmonogramu ustawionego w głównych "
+"ustawieniach"
+
+#: lib/helpers/steps_helper.php:1973
+#, fuzzy
+msgid ""
+"This step does not have any specific settings. You can use the selector "
+"above to check another step."
+msgstr ""
+"Ten krok nie ma żadnych specyficznych ustawień. Możesz użyć powyższego "
+"selektora, aby sprawdzić inny krok."
+
+#: lib/views/settings/general.php:328
+#, fuzzy
+msgid ""
+"This will disable ability for customers to login or register on booking form"
+msgstr ""
+"Spowoduje to wyłączenie możliwości logowania lub rejestracji w formularzu "
+"rezerwacji"
+
+#: lib/views/settings/general.php:134
+#, fuzzy
+msgid "Thousand Separator"
+msgstr "Separator tysięcy"
+
+#: lib/helpers/booking_helper.php:1302
+#, fuzzy
+msgid "Thu"
+msgstr "Czw"
+
+#: lib/helpers/booking_helper.php:1292 lib/helpers/util_helper.php:294
+#, fuzzy
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: lib/views/calendars/scopes/_day.php:64 
+#: lib/views/calendars/scopes/_week.php:39
+#, fuzzy
+msgid "Time"
+msgstr "Czas"
+
+#: lib/views/bookings/index.php:47 lib/views/bookings/index.php:115
+#, fuzzy
+msgid "Time Left"
+msgstr "Pozostały czas"
+
+#: lib/helpers/processes_helper.php:99
+#, fuzzy
+msgid "Time offset"
+msgstr "Przesunięcie czasowe"
+
+#: lib/views/settings/general.php:74
+#, fuzzy
+msgid "Time Restrictions"
+msgstr "Ograniczenia czasowe"
+
+#: lib/views/settings/general.php:44
+#, fuzzy
+msgid "Time system"
+msgstr "System czasu"
+
+#: lib/views/customers/index.php:38 lib/views/customers/index.php:76
+#, fuzzy
+msgid "Time to Next"
+msgstr "Czas do następnej"
+
+#: lib/views/settings/general.php:214
+#, fuzzy
+msgid "Timeslot Availability Logic"
+msgstr "Logika dostępności przedziałów czasowych"
+
+#: lib/views/steps/preset_slot_not_available.php:11
+#, fuzzy
+msgid "Timeslot Unavailable"
+msgstr "Przedział czasowy niedostępny"
+
+#: lib/views/activities/index.php:67 lib/views/process_jobs/index.php:71
+#, fuzzy
+msgid "to"
+msgstr "do"
+
+#: lib/views/default_agent/edit_form.php:42
+msgid "To add more agents install the PRO addon"
+msgstr "Aby dodać więcej pracowników, zainstaluj dodatek PRO"
+
+#: lib/views/settings/default_form_fields.php:4
+#, fuzzy
+msgid "To create more fields install the PRO addon"
+msgstr "Aby utworzyć więcej pól, zainstaluj dodatek PRO"
+
+#: lib/misc/process_action.php:139
+#, fuzzy
+msgid "To Email"
+msgstr "Do e-maila"
+
+#: lib/misc/process_action.php:139
+#, fuzzy
+msgid "To email address"
+msgstr "Na adres e-mail"
+
+#: lib/misc/process_action.php:146
+#, fuzzy
+msgid "To Phone Number"
+msgstr "Na numer telefonu"
+
+#: lib/controllers/activities_controller.php:237 
+#: lib/controllers/activities_controller.php:241 
+#: lib/misc/process_action.php:345 lib/misc/process_action.php:349 
+#: lib/views/notifications/templates_index.php:48 
+#: lib/views/notifications/templates_index.php:54
+#, fuzzy
+msgid "To:"
+msgstr "Do:"
+
+#: latepoint.php:1316 latepoint.php:1450 lib/helpers/agent_helper.php:223 
+#: lib/helpers/calendar_helper.php:122 lib/helpers/events_helper.php:312 
+#: lib/helpers/time_helper.php:54 lib/models/booking_model.php:706 
+#: lib/models/booking_model.php:716 lib/views/calendars/view.php:30
+#, fuzzy
+msgid "Today"
+msgstr "Dziś"
+
+#: lib/controllers/todos_controller.php:22
+#, fuzzy
+msgid "Todos"
+msgstr "Lista rzeczy do zrobienia"
+
+#: lib/controllers/orders_controller.php:673 
+#: lib/controllers/transactions_controller.php:99 
+#: lib/views/transactions/index.php:31 lib/views/transactions/index.php:43 
+#: lib/views/transactions/index.php:69
+#, fuzzy
+msgid "Token"
+msgstr "Token"
+
+#: lib/views/shared/_template_variables.php:72
+#, fuzzy
+msgid "Token:"
+msgstr "Token:"
+
+#: lib/views/customers/mini_profile.php:18 lib/views/orders/index.php:41 
+#: lib/views/orders/index.php:51 lib/views/orders/index.php:79
+#, fuzzy
+msgid "Total"
+msgstr "Razem"
+
+#: lib/controllers/customers_controller.php:309
+msgid "Total Appointments"
+msgstr "Łączna Liczba Rezerwacji"
+
+#: lib/views/customers/index.php:36 lib/views/customers/index.php:74
+#, fuzzy
+msgid "Total Apps"
+msgstr "Łączna liczba aplikacji"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:84
+msgid "Total hours worked across all selected agents in selected period."
+msgstr ""
+"Łączna liczba przepracowanych godzin przez wszystkich wybranych pracowników "
+"w wybranym okresie."
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:62
+msgid "Total number of appointments in selected period."
+msgstr "Łączna liczba rezerwacji w wybranym okresie."
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:94
+#, fuzzy
+msgid "Total number of new customers registered in selected period."
+msgstr "Łączna liczba nowych klientów zarejestrowanych w wybranym okresie."
+
+#: lib/views/orders/_balance_and_payments.php:30
+#, fuzzy
+msgid "Total Payments"
+msgstr "Łączne płatności"
+
+#: lib/models/cart_model.php:298 lib/views/orders/_price_breakdown.php:19
+#, fuzzy
+msgid "Total Price"
+msgstr "Cena całkowita"
+
+#: lib/views/dashboard/widget_daily_bookings_chart.php:73
+#, fuzzy
+msgid "Total sales in selected period."
+msgstr "Łączna sprzedaż w wybranym okresie."
+
+#: lib/views/shared/_template_variables.php:12
+#, fuzzy
+msgid "Total:"
+msgstr "Razem:"
+
+#: lib/misc/process_event.php:202 lib/views/shared/_template_variables.php:70
+#, fuzzy
+msgid "Transaction"
+msgstr "Transakcja"
+
+#: lib/misc/process_event.php:396
+#, fuzzy
+msgid "Transaction Created"
+msgstr "Transakcja utworzona"
+
+#: lib/controllers/transactions_controller.php:34
+#, fuzzy
+msgid "Transaction Removed"
+msgstr "Transakcja usunięta"
+
+#: lib/controllers/transactions_controller.php:17 
+#: lib/views/orders/quick_edit.php:218
+#, fuzzy
+msgid "Transactions"
+msgstr "Transakcje"
+
+#: lib/views/shared/_template_variables.php:17
+#, fuzzy
+msgid "Transactions Breakdown"
+msgstr "Podział transakcji"
+
+#: blocks/controls/TypographyControl.js:67
+#, fuzzy
+msgid "Transform"
+msgstr "Transformacja"
+
+#: lib/controllers/processes_controller.php:250
+#, fuzzy
+msgid "Trigger conditions not met"
+msgstr "Warunki wyzwalania niespełnione"
+
+#: lib/helpers/processes_helper.php:75
+#, fuzzy
+msgid "Trigger only if:"
+msgstr "Wyzwól tylko, jeśli:"
+
+#: lib/helpers/processes_helper.php:84
+#, fuzzy
+msgid "Trigger only when specific conditions are met"
+msgstr "Wyzwól tylko, gdy spełnione są określone warunki"
+
+#: lib/controllers/process_jobs_controller.php:34
+#, fuzzy
+msgid "Trigger:"
+msgstr "Wyzwalacz:"
+
+#: lib/views/addons/load_addons_list.php:139
+#, fuzzy
+msgid "Try for FREE"
+msgstr "Wypróbuj ZA DARMO"
+
+#: lib/helpers/booking_helper.php:1300
+#, fuzzy
+msgid "Tue"
+msgstr "Wt"
+
+#: lib/helpers/booking_helper.php:1290 lib/helpers/util_helper.php:292
+#, fuzzy
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: lib/controllers/activities_controller.php:45 
+#: lib/controllers/orders_controller.php:680 
+#: lib/controllers/transactions_controller.php:106 
+#: lib/models/transaction_model.php:32 lib/views/activities/index.php:31 
+#: lib/views/activities/index.php:57 lib/views/transactions/edit_form.php:45 
+#: lib/views/transactions/index.php:38 lib/views/transactions/index.php:76
+#, fuzzy
+msgid "Type"
+msgstr "Typ"
+
+#: lib/views/calendars/view.php:69 lib/views/calendars/view.php:115 
+#: lib/views/calendars/view.php:143
+#, fuzzy
+msgid "Type to filter..."
+msgstr "Wpisz, aby filtrować..."
+
+#: lib/views/shared/_template_variables.php:76
+#, fuzzy
+msgid "Type:"
+msgstr "Typ:"
+
+#: lib/controllers/calendars_controller.php:37 
+#: lib/models/service_category_model.php:68 
+#: lib/views/bookings/_booking_data.php:40 
+#: lib/views/bookings/_booking_data.php:43 lib/views/services/index.php:3
+#, fuzzy
+msgid "Uncategorized"
+msgstr "Nieskategoryzowane"
+
+#: lib/helpers/booking_helper.php:1249 lib/helpers/orders_helper.php:134 
+#: lib/helpers/orders_helper.php:143 lib/helpers/orders_helper.php:152
+#, fuzzy
+msgid "Undefined Status"
+msgstr "Niezdefiniowany status"
+
+#: lib/models/booking_model.php:514
+#, fuzzy
+#, php-format
+msgid ""
+"Unfortunately the selected time slot \"%s\" for \"%s\" is not available "
+"anymore, please select another timeslot."
+msgstr ""
+"Niestety wybrany przedział czasowy \"%s\" dla \"%s\" nie jest już dostępny, "
+"proszę wybrać inny przedział czasowy."
+
+#: lib/controllers/customer_cabinet_controller.php:127 
+#: lib/controllers/manage_booking_by_key_controller.php:108 
+#: lib/models/booking_model.php:490 lib/models/booking_model.php:500 
+#: lib/models/booking_model.php:507
+#, fuzzy
+msgid ""
+"Unfortunately the selected time slot is not available anymore, please select "
+"another timeslot."
+msgstr ""
+"Niestety wybrany przedział czasowy nie jest już dostępny, wybierz inny."
+
+#: lib/models/booking_model.php:477
+#, fuzzy
+msgid ""
+"Unfortunately there are no active resources that can offer selected serivce, "
+"please select another service."
+msgstr ""
+"Niestety nie ma aktywnych zasobów, które mogą świadczyć wybraną usługę, "
+"proszę wybrać inną usługę."
+
+#: lib/views/bookings/index.php:74 lib/views/customer_cabinet/dashboard.php:29 
+#: lib/views/dashboard/widget_upcoming_appointments.php:16 
+#: lib/views/dashboard/widget_upcoming_appointments.php:52
+#, fuzzy
+msgid "Upcoming"
+msgstr "Nadchodzące"
+
+#: lib/views/debug/status.php:47
+#, fuzzy
+msgid "Update Available"
+msgstr "Dostępna aktualizacja"
+
+#: lib/views/updates/check_version_status.php:6
+#, fuzzy
+msgid "Update is Available"
+msgstr "Dostępna jest aktualizacja"
+
+#: lib/views/addons/load_addons_list.php:88 
+#: lib/views/addons/load_addons_list.php:104 
+#: lib/views/updates/check_version_status.php:20
+#, fuzzy
+msgid "Update Now"
+msgstr "Zaktualizuj teraz"
+
+#: lib/controllers/activities_controller.php:213 
+#: lib/controllers/activities_controller.php:231
+#, fuzzy
+msgid "Updated On:"
+msgstr "Zaktualizowano:"
+
+#: lib/views/wizard/steps/_form_agent.php:19
+msgid "Upload Agent's Photo"
+msgstr "Prześlij zdjęcie pracownika"
+
+#: lib/views/wizard/steps/_form_service.php:12
+#, fuzzy
+msgid "Upload Image for Service"
+msgstr "Prześlij obraz dla usługi"
+
+#: blocks/controls/TypographyControl.js:73
+#, fuzzy
+msgid "Uppercase"
+msgstr "Wielkie Litery"
+
+#: lib/controllers/activities_controller.php:245
+#, fuzzy
+msgid "URL:"
+msgstr "URL:"
+
+#: lib/helpers/steps_helper.php:385
+#, fuzzy
+msgid "Use Custom Step Image"
+msgstr "Użyj niestandardowego obrazu kroku"
+
+#: lib/views/services/_form.php:110
+#, fuzzy
+msgid "Use from general settings"
+msgstr "Użyj z ustawień ogólnych"
+
+#: lib/views/settings/general.php:59
+#, fuzzy
+msgid "Use number instead of name of the month when outputting dates"
+msgstr "Użyj numeru zamiast nazwy miesiąca podczas wyświetlania dat"
+
+#: lib/views/notifications/templates_index.php:76
+#, fuzzy
+msgid "Use this template"
+msgstr "Użyj tego szablonu"
+
+#: lib/views/settings/general.php:326
+#, fuzzy
+msgid "Use WordPress users as customers"
+msgstr "Użyj użytkowników WordPress jako klientów"
+
+#: lib/views/activities/index.php:38
+#, fuzzy
+msgid "User ID"
+msgstr "ID użytkownika"
+
+#: lib/helpers/time_helper.php:426 lib/helpers/time_helper.php:431
+#, fuzzy
+msgid "UTC"
+msgstr "UTC"
+
+#: lib/views/settings/general.php:205
+#, fuzzy
+msgid "Validate phone typed fields if they are set as required"
+msgstr "Waliduj pola telefonu, jeśli są ustawione jako wymagane"
+
+#: lib/views/settings/general.php:202
+#, fuzzy
+msgid "Validation"
+msgstr "Walidacja"
+
+#: lib/views/settings/general.php:255 lib/views/settings/general.php:292
+#, fuzzy
+msgid "Value"
+msgstr "Wartość"
+
+#: lib/models/service_model.php:45
+#, fuzzy
+msgid "Variable Price"
+msgstr "Cena zmienna"
+
+#: lib/views/integrations/external_meeting_systems.php:13
+#, fuzzy
+msgid "Video Meeting Systems"
+msgstr "Systemy spotkań wideo"
+
+#: blocks/src/calendar/edit.js:144 lib/helpers/roles_helper.php:312 
+#: lib/models/activity_model.php:41 lib/views/transactions/_table_body.php:17
+#, fuzzy
+msgid "View"
+msgstr "Widok"
+
+#: lib/controllers/activities_controller.php:220 
+#: lib/controllers/activities_controller.php:225 
+#: lib/controllers/activities_controller.php:230
+#, fuzzy
+msgid "View Booking"
+msgstr "Zobacz Rezerwację"
+
+#: lib/views/updates/check_version_status.php:27 
+#: lib/views/updates/check_version_status.php:44
+#, fuzzy
+msgid "View Changelog"
+msgstr "Zobacz dziennik zmian"
+
+#: lib/controllers/processes_controller.php:247
+#, fuzzy
+msgid "view logs"
+msgstr "zobacz logi"
+
+#: lib/controllers/activities_controller.php:192 
+#: lib/controllers/activities_controller.php:197 
+#: lib/controllers/activities_controller.php:202 
+#: lib/controllers/activities_controller.php:207 
+#: lib/controllers/activities_controller.php:212
+msgid "View Order"
+msgstr "Zobacz Zamówienie"
+
+#: lib/views/customers/quick_edit.php:81
+msgid "View Profile"
+msgstr "Wyświetl profil"
+
+#: lib/views/customer_cabinet/_booking_tile.php:73 
+#: lib/views/customer_cabinet/_order_tile.php:28
+msgid "View Summary"
+msgstr "Wyświetl podsumowanie"
+
+#: lib/views/services/_form.php:23
+msgid "Visibility"
+msgstr "Widoczność"
+
+#: lib/views/services/_form.php:23
+msgid "Visible only to admins and agents"
+msgstr "Widoczne tylko dla administratorów i pracowników"
+
+#: lib/views/services/_form.php:23
+msgid "Visible to everyone"
+msgstr "Widoczne dla wszystkich"
+
+#: lib/helpers/payments_helper.php:285
+msgid "Void"
+msgstr "Unieważnij"
+
+#: lib/misc/process_event.php:291
+msgid "was equal to"
+msgstr "było równe"
+
+#: lib/misc/process_event.php:292
+msgid "was not equal to"
+msgstr "nie było równe"
+
+#: lib/views/customer_cabinet/request_password_reset_token.php:7
+msgid ""
+"We'll email you a secret key. Once you receive it, you can use it to change "
+"your password."
+msgstr ""
+"Wyślemy Ci klucz tajny e-mailem. Po otrzymaniu możesz go użyć do zmiany "
+"hasła."
+
+#: lib/misc/process_action.php:185
+msgid "Webhook URL"
+msgstr "URL Webhook"
+
+#: lib/helpers/booking_helper.php:1301
+msgid "Wed"
+msgstr "Śr"
+
+#: lib/helpers/booking_helper.php:1291 lib/helpers/util_helper.php:293
+msgid "Wednesday"
+msgstr "Środa"
+
+#: lib/views/calendars/view.php:39
+msgid "Week"
+msgstr "Tydzień"
+
+#: blocks/controls/TypographyControl.js:54
+msgid "Weight"
+msgstr "Grubość"
+
+#: lib/views/customer_cabinet/dashboard.php:13
+#, php-format
+msgid "Welcome %s"
+msgstr "Witamy %s"
+
+#: lib/controllers/auth_controller.php:38 
+#: lib/controllers/auth_controller.php:97
+msgid "Welcome back"
+msgstr "Witamy ponownie"
+
+#: lib/views/orders/quick_edit.php:85
+msgid "What type of item would you like to add?"
+msgstr "Jaki typ elementu chcesz dodać?"
+
+#: lib/views/wizard/steps/_services.php:3
+msgid ""
+"When creating a service, make sure to select agents offering it. You can set "
+"custom schedules and prices for each service in LatePoint admin panel later."
+msgstr ""
+"Tworząc usługę, upewnij się, że wybierasz pracowników którzy ją oferują. "
+"Możesz później ustawić niestandardowe harmonogramy i ceny dla każdej usługi "
+"w panelu administracyjnym LatePoint."
+
+#: lib/views/steps/_payment__times.php:25
+msgid "When would you like to pay for the service?"
+msgstr "Kiedy chciałbyś zapłacić za usługę?"
+
+#: lib/controllers/wizard_controller.php:22
+msgid "Wizard"
+msgstr "Kreator"
+
+#: lib/views/debug/status.php:31
+msgid "WordPress Version:"
+msgstr "Wersja WordPress:"
+
+#: lib/controllers/settings_controller.php:90
+msgid "Work Schedule Settings"
+msgstr "Ustawienia harmonogramu pracy"
+
+#: lib/controllers/settings_controller.php:158 
+#: lib/controllers/settings_controller.php:232
+msgid "Work Schedule Updated"
+msgstr "Harmonogram pracy został zaktualizowany"
+
+#: lib/views/process_jobs/index.php:23 lib/views/process_jobs/index.php:57
+msgid "Workflow"
+msgstr "Przepływ pracy"
+
+#: lib/controllers/processes_controller.php:25 lib/helpers/menu_helper.php:79
+msgid "Workflows"
+msgstr "Przepływy Pracy"
+
+#: lib/helpers/roles_helper.php:192
+msgid "WP Agent role can not be saved"
+msgstr "Rola pracownika WP nie może zostać zapisana"
+
+#: lib/helpers/roles_helper.php:203
+msgid "WP Role can not be saved"
+msgstr "Rola WP nie może zostać zapisana"
+
+#: lib/helpers/roles_helper.php:186
+msgid "WP Role invalid"
+msgstr "Nieprawidłowa rola WP"
+
+#: lib/views/customers/index.php:39 lib/views/customers/index.php:77
+msgid "WP User ID"
+msgstr "ID użytkownika WP"
+
+#: lib/views/shared/access_not_allowed.php:1
+msgid "You are not allowed to access this page"
+msgstr "Nie masz uprawnień do dostępu do tej strony"
+
+#: lib/views/updates/check_version_status.php:36
+msgid "You are using the latest version"
+msgstr "Używasz najnowszej wersji"
+
+#: lib/views/steps/_payment__times.php:26
+msgid ""
+"You can either pay now or pay locally on arrival. You will be able to select "
+"payment method in the next step."
+msgstr ""
+"Możesz zapłacić teraz lub zapłacić na miejscu po przyjeździe. W następnym "
+"kroku będziesz mógł wybrać metodę płatności."
+
+#: lib/views/settings/general.php:414
+msgid ""
+"You can include some javascript or html that will be appended to the "
+"confirmation step. For example you can track ad conversions by triggering a "
+"tracking code or a facebook pixel. You can use these variables within your "
+"code. Click on the variable to copy."
+msgstr ""
+"Możesz dołączyć kod JavaScript lub HTML, który zostanie dodany do etapu "
+"potwierdzenia. Na przykład możesz śledzić konwersje reklam, uruchamiając kod "
+"śledzenia lub piksel Facebooka. Możesz używać tych zmiennych w swoim kodzie. "
+"Kliknij zmienną, aby ją skopiować."
+
+#: lib/helpers/updates_helper.php:202
+#, php-format
+msgid ""
+"You can install this update from your <a href=\"%s\">LatePoint Addons</a> "
+"page"
+msgstr ""
+"Aktualizację można zainstalować na stronie <a href=\"%s\">Dodatki "
+"LatePoint</a>"
+
+#: lib/helpers/updates_helper.php:193
+#, php-format
+msgid ""
+"You can install this update from your <a href=\"%s\">LatePoint Settings</a> "
+"page"
+msgstr ""
+"Aktualizację można zainstalować na stronie <a href=\"%s\">Ustawienia "
+"LatePoint</a>"
+
+#: lib/views/steps/_confirmation.php:96
+msgid "You can now manage your appointments in your personal cabinet"
+msgstr "Możesz teraz zarządzać swoimi rezerwacjami w swoim panelu osobistym"
+
+#: lib/views/settings/general.php:315
+msgid "You can set attributes for a new appointment button tile in a format"
+msgstr "Możesz ustawić atrybuty przycisku Nowa rezerwacja w formacie"
+
+#: lib/views/settings/general.php:77
+msgid ""
+"You can set restrictions on earliest/latest dates in the future when your "
+"customer can place an appointment. You can either use a relative values like "
+"for example \"+1 month\", \"+2 weeks\", \"+5 days\", \"+3 hours\", \"+30 "
+"minutes\" (entered without quotes), or you can use a fixed date in format "
+"YYYY-MM-DD. Leave blank to remove any limitations."
+msgstr ""
+"Możesz ustawić ograniczenia na najwcześniejsze/najpóźniejsze daty w "
+"przyszłości, w których klient może zarezerwować wizytę. Możesz używać "
+"wartości względnych, takich jak +1 month\", \"+2 weeks\", \"+5 days\", \"+3 "
+"hours\", \"+30 minutes\", \"+30 minutes\" (wpisanych bez cudzysłowów), lub "
+"używać stałej daty w formacie RRRR-MM-DD. Pozostaw puste, aby usunąć "
+"wszelkie ograniczenia."
+
+#: lib/views/notifications/_available_vars.php:3
+msgid ""
+"You can use these variables in your email and sms notifications. Just click "
+"on the variable with {} brackets and it will automatically copy to your "
+"buffer and you can simply paste it where you want to use it. It will be "
+"converted into a value for the agent/service or appointment."
+msgstr ""
+"Zmiennych tych można używać w powiadomieniach e-mail i sms. Wystarczy "
+"kliknąć zmienną z nawiasami {}, a zostanie ona automatycznie skopiowana do "
+"bufora i można ją po prostu wkleić tam, gdzie chcesz jej użyć. Zostanie ona "
+"przekonwertowana na wartość dla pracownika/usługi lub rezerwacji."
+
+#: lib/views/settings/general.php:404
+msgid ""
+"You can use variables in your booking template, they will be replaced with a "
+"value for the booking. "
+msgstr ""
+"Możesz użyć zmiennych w szablonie rezerwacji, zostaną one zastąpione "
+"wartością dla rezerwacji."
+
+#: lib/controllers/auth_controller.php:28
+msgid "You have been logged out of your account."
+msgstr "Zostałeś wylogowany ze swojego konta."
+
+#: lib/views/steps/partials/_cart_clear.php:3
+msgid "You have items in your cart"
+msgstr "Masz przedmioty w koszyku"
+
+#: lib/views/calendars/scopes/_day.php:142
+msgid "You have not set any working hours for this day."
+msgstr "Nie ustawiłeś godzin pracy dla tego dnia."
+
+#: lib/views/steps/partials/_limit_reached.php:4
+msgid ""
+"You have reached the limit for reservations allowed per customer. Please "
+"contact us if you wish to modify your existing appointment."
+msgstr ""
+"Osiągnąłeś limit rezerwacji dozwolonych na klienta. Skontaktuj się z nami, "
+"jeśli chcesz zmodyfikować istniejącą rezerwację."
+
+#: lib/models/booking_model.php:534
+msgid "You have to be logged in"
+msgstr "Musisz być zalogowany"
+
+#: lib/misc/process_action.php:338
+msgid "You have to create a booking to be able to test this action."
+msgstr "Musisz utworzyć rezerwację, aby móc przetestować tę akcję."
+
+#: lib/models/booking_model.php:524
+msgid "You have to select a service"
+msgstr "Musisz wybrać usługę"
+
+#: lib/models/booking_model.php:527
+msgid "You have to select an agent"
+msgstr "Musisz wybrać pracownika"
+
+#: lib/views/updates/check_version_status.php:11
+#, php-format
+msgid "You're running version %s"
+msgstr "Używasz wersji %s"
+
+#: lib/views/shared/process_reschedule_request.php:16
+msgid "Your appointment has been rescheduled."
+msgstr "Twoja rezerwacja została przełożona."
+
+#: lib/views/booking_form_settings/previews/_customer.php:27 
+#: lib/views/customer_cabinet/dashboard.php:115 
+#: lib/views/steps/_customer.php:40 lib/views/updates/_license_form.php:18
+msgid "Your Email Address"
+msgstr "Twój adres e-mail"
+
+#: lib/views/customer_cabinet/dashboard.php:112
+msgid "Your First Name"
+msgstr "Twoje imię"
+
+#: lib/views/customer_cabinet/dashboard.php:113
+msgid "Your Last Name"
+msgstr "Twoje nazwisko"
+
+#: lib/views/updates/_license_form.php:15
+msgid "Your Name"
+msgstr "Twoje imię"
+
+#: lib/views/booking_form_settings/previews/_customer.php:28 
+#: lib/views/steps/_customer.php:41
+msgid "Your Password"
+msgstr "Twoje hasło"
+
+#: lib/controllers/customer_cabinet_controller.php:369
+msgid "Your password was successfully updated."
+msgstr "Twoje hasło zostało pomyślnie zaktualizowane."
+
+#: lib/views/customer_cabinet/dashboard.php:114
+msgid "Your Phone Number"
+msgstr "Twój numer telefonu"
+
+#: lib/helpers/time_helper.php:155
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
